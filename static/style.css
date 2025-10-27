@@ -1,0 +1,507 @@
+/*
+Story Time Locator - Stylesheet
+
+This CSS uses a mobile-first approach:
+- Base styles work on small screens
+- Media queries add enhancements for larger screens
+*/
+
+/* ===== RESET & BASE STYLES ===== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+        'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+        sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 20px;
+}
+
+/* ===== CONTAINER ===== */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+}
+
+/* ===== HEADER ===== */
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 32px;
+    color: #667eea;
+    margin-bottom: 10px;
+}
+
+.subtitle {
+    font-size: 16px;
+    color: #666;
+}
+
+/* ===== FORM STYLES ===== */
+
+.search-form {
+    margin-bottom: 30px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 8px;
+    font-size: 16px;
+}
+
+input[type="text"],
+input[type="number"],
+select,
+textarea {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 16px;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    transition: border-color 0.3s ease;
+    font-family: inherit;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+}
+
+textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+small {
+    display: block;
+    margin-top: 5px;
+    font-size: 14px;
+    color: #888;
+}
+
+/* ===== SUBMIT AND CLEAR BUTTONS ===== */
+
+.button-group {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.submit-btn {
+    flex: 2;
+    padding: 16px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.submit-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+}
+
+.submit-btn:active {
+    transform: translateY(0);
+}
+
+.clear-btn {
+    flex: 1;
+    padding: 16px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #667eea;
+    background: white;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.clear-btn:hover {
+    background: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+.clear-btn:active {
+    transform: translateY(0);
+}
+
+/* ===== LOADING SPINNER ===== */
+
+.loading {
+    text-align: center;
+    padding: 40px 20px;
+    color: #667eea;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 20px;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #667eea;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* ===== HIDDEN CLASS ===== */
+
+.hidden {
+    display: none !important;
+}
+
+/* ===== ERROR MESSAGES ===== */
+
+.error {
+    background: #fee;
+    border: 2px solid #fcc;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 20px;
+    color: #c00;
+}
+
+.error p {
+    margin: 0;
+}
+
+/* ===== RESULTS SECTION ===== */
+
+.results {
+    margin-top: 30px;
+}
+
+.results-header {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.result-card {
+    background: #f9f9f9;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: static;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.result-card:hover {
+    border-color: #667eea;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.result-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.result-distance {
+    display: inline-block;
+    background: #667eea;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 12px;
+}
+
+.result-address {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+.result-contact {
+    font-size: 15px;
+    color: #888;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #e0e0e0;
+}
+
+.result-contact a {
+    color: #667eea;
+    text-decoration: none;
+}
+
+.result-contact a:hover {
+    text-decoration: underline;
+}
+
+.no-results {
+    text-align: center;
+    padding: 40px 20px;
+    color: #888;
+}
+
+.no-results p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* ===== CLAUDE AI RESULTS ===== */
+
+.claude-results {
+    background: #f9f9f9;
+    padding: 25px;
+    border-radius: 12px;
+    border: 2px solid #667eea;
+    margin-top: 20px;
+}
+
+.claude-content {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.8;
+}
+
+.claude-content strong {
+    color: #667eea;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+/* Make Claude results look nice on mobile */
+@media (max-width: 768px) {
+    .claude-results {
+        padding: 20px 15px;
+    }
+
+    .claude-content {
+        font-size: 15px;
+    }
+}
+
+/* ===== FOOTER ===== */
+
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 2px solid #e0e0e0;
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+}
+
+.disclaimer {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #aaa;
+    font-style: italic;
+}
+
+/* ===== RESPONSIVE DESIGN ===== */
+
+/* Tablet and up */
+@media (min-width: 768px) {
+    .container {
+        padding: 40px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .subtitle {
+        font-size: 18px;
+    }
+}
+
+/* Desktop and up */
+@media (min-width: 1024px) {
+    body {
+        padding: 40px;
+    }
+
+    .container {
+        max-width: 700px;
+    }
+}
+
+/* ===== ACCESSIBILITY ===== */
+
+/* Focus styles for keyboard navigation */
+*:focus-visible {
+    outline: 3px solid #667eea;
+    outline-offset: 2px;
+}
+
+/* Ensure good contrast */
+::selection {
+    background: #667eea;
+    color: white;
+}
+
+/* ===== CHECKBOX GROUP (for day selection) ===== */
+
+.checkbox-group {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-top: 8px;
+}
+
+.checkbox-label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: normal;
+    cursor: pointer;
+    font-size: 15px;
+    color: #555;
+}
+
+.checkbox-label input[type="checkbox"] {
+    width: auto;
+    cursor: pointer;
+}
+
+/* ===== EVENT CARD STYLES ===== */
+
+.city-badge {
+    display: inline-block;
+    background: #667eea;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.event-title {
+    font-size: 20px;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 12px;
+}
+
+.event-datetime {
+    font-size: 16px;
+    color: #667eea;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.event-location {
+    font-size: 15px;
+    color: #666;
+    margin-bottom: 8px;
+}
+
+.event-audience {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 12px;
+    font-style: italic;
+}
+
+.event-description {
+    font-size: 15px;
+    color: #555;
+    line-height: 1.6;
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px solid #e0e0e0;
+}
+
+.event-actions {
+    margin-top: 15px;
+}
+
+.event-link {
+    display: inline-block;
+    background: #667eea;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.event-link:hover {
+    background: #5568d3;
+    transform: translateY(-2px);
+}
+
+/* All-day event badge */
+.all-day-badge {
+    display: inline-block;
+    background: #f59e0b;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+/* Mobile adjustments for event cards */
+@media (max-width: 768px) {
+    .city-badge {
+        position: static;
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+
+    .event-title {
+        padding-right: 0;
+    }
+
+    .button-group {
+        flex-direction: column;
+    }
+
+    .submit-btn,
+    .clear-btn {
+        width: 100%;
+    }
+}

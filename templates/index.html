@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Story Time Locator - Jersey City & Hoboken</title>
+
+    <!-- Link to our CSS file in the static folder -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <header>
+            <h1>📚 Story Time Locator</h1>
+            <p class="subtitle">Find story time sessions at Jersey City & Hoboken libraries!</p>
+        </header>
+
+        <!-- Main Form -->
+        <form id="searchForm" class="search-form">
+            <!-- City Selection -->
+            <div class="form-group">
+                <label for="city">City</label>
+                <select
+                    id="city"
+                    name="city"
+                    required
+                    aria-label="Select your city"
+                >
+                    <option value="both">Both Cities</option>
+                    <option value="jersey_city">Jersey City</option>
+                    <option value="hoboken">Hoboken</option>
+                </select>
+                <small>Which city do you want to search?</small>
+            </div>
+
+            <!-- Kids Ages Input -->
+            <div class="form-group">
+                <label for="kids_ages">Kids Ages (Optional)</label>
+                <select
+                    id="kids_ages"
+                    name="kids_ages"
+                    aria-label="Select your child's age range"
+                >
+                    <option value="">All Ages</option>
+                    <option value="0-2">0-2 years (Baby/Toddler)</option>
+                    <option value="3-5">3-5 years (Preschool)</option>
+                    <option value="6-11">6-11 years (School Age)</option>
+                </select>
+                <small>Filter by age range for your child</small>
+            </div>
+
+            <!-- Event Type Filter -->
+            <div class="form-group">
+                <label for="event_type">Event Type (Optional)</label>
+                <select
+                    id="event_type"
+                    name="event_type"
+                    aria-label="Select event type"
+                >
+                    <option value="all">All Children's Events</option>
+                    <option value="storytime">Story Times Only</option>
+                    <option value="arts">Arts & Crafts</option>
+                    <option value="steam">STEAM/STEM</option>
+                    <option value="music">Music & Dance</option>
+                </select>
+                <small>Choose what type of event you're looking for</small>
+            </div>
+
+            <!-- Date Range Filter -->
+            <div class="form-group">
+                <label for="date_range">Date Range (Optional)</label>
+                <select
+                    id="date_range"
+                    name="date_range"
+                    aria-label="Select date range"
+                >
+                    <option value="all">All Upcoming</option>
+                    <option value="week">Next Week</option>
+                    <option value="2weeks" selected>Next 2 Weeks</option>
+                    <option value="month">Next Month</option>
+                </select>
+                <small>How far ahead do you want to search?</small>
+            </div>
+
+            <!-- Day Preference -->
+            <div class="form-group">
+                <label>Days Available (Optional)</label>
+                <div class="checkbox-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="days" value="monday">
+                        Monday
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="days" value="tuesday">
+                        Tuesday
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="days" value="wednesday">
+                        Wednesday
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="days" value="thursday">
+                        Thursday
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="days" value="friday">
+                        Friday
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="days" value="saturday">
+                        Saturday
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="days" value="sunday">
+                        Sunday
+                    </label>
+                </div>
+                <small>Select days you're available (leave all unchecked for any day)</small>
+            </div>
+
+            <!-- Time of Day Filter -->
+            <div class="form-group">
+                <label>Time of Day (Optional)</label>
+                <div class="checkbox-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="time_of_day" value="morning" checked>
+                        Morning
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="time_of_day" value="afternoon" checked>
+                        Afternoon
+                    </label>
+                    <label class="checkbox-label">
+                        <input type="checkbox" name="time_of_day" value="evening" checked>
+                        Evening
+                    </label>
+                </div>
+                <small>What time of day works best? (Leave all checked for any time)</small>
+            </div>
+
+            <!-- Submit and Clear Buttons -->
+            <div class="button-group">
+                <button type="submit" class="submit-btn">
+                    🔍 Find Story Times
+                </button>
+                <button type="button" id="clearFilters" class="clear-btn">
+                    Clear Filters
+                </button>
+            </div>
+        </form>
+
+        <!-- Loading Indicator (hidden by default) -->
+        <div id="loading" class="loading hidden">
+            <div class="spinner"></div>
+            <p>Finding story times...</p>
+        </div>
+
+        <!-- Error Message (hidden by default) -->
+        <div id="error" class="error hidden">
+            <p id="errorMessage"></p>
+        </div>
+
+        <!-- Results Container (empty by default) -->
+        <div id="results" class="results">
+            <!-- Results will be inserted here by JavaScript -->
+        </div>
+
+        <!-- Footer -->
+        <footer>
+            <p>Made with ❤️ for Jersey City & Hoboken families</p>
+            <p class="disclaimer">Story time schedules may change. Always check the library's website or call ahead to confirm.</p>
+        </footer>
+    </div>
+
+    <!-- Link to our JavaScript file in the static folder -->
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
