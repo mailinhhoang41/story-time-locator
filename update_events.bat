@@ -1,17 +1,14 @@
 @echo off
-REM Weekly Event Data Refresh - Windows Batch Script
-REM This file makes it easy to run the update script and can be scheduled in Task Scheduler
+REM Windows Batch Script to Update Story Time Events
+REM Double-click this file to refresh all event data!
 
 echo ========================================
-echo Story Time Locator - Weekly Refresh
+echo  Story Time Locator - Update Events
 echo ========================================
 echo.
 
-REM Change to the script directory
-cd /d "%~dp0"
+python update_all_events.py
 
-REM Run the Python update script
-python update_events.py
-
-REM Pause so you can see the results (remove this line when scheduling)
-pause
+echo.
+echo Press any key to close...
+pause > nul
