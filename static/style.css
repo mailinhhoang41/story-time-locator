@@ -336,6 +336,23 @@ footer {
     font-style: italic;
 }
 
+.contact {
+    margin-top: 10px;
+    font-size: 13px;
+    color: #666;
+}
+
+.contact a {
+    color: #4a90e2;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact a:hover {
+    color: #357abd;
+    text-decoration: underline;
+}
+
 /* ===== RESPONSIVE DESIGN ===== */
 
 /* Tablet and up */
