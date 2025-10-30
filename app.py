@@ -669,4 +669,11 @@ if __name__ == '__main__':
     print("   Visit http://127.0.0.1:5000/refresh")
     print("=" * 50)
 
-    app.run(debug=True, port=5000)
+    # Get port from environment variable (for cloud deployment) or default to 5000
+    import os
+    port = int(os.environ.get('PORT', 5000))
+
+    # Only use debug mode in local development
+    debug_mode = os.environ.get('FLASK_ENV') != 'production'
+
+    app.run(debug=debug_mode, host='0.0.0.0', port=port)

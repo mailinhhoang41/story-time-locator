@@ -1,15 +1,17 @@
-# Environment variables (contains API keys - never commit!)
-.env
-
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-venv/
 env/
+venv/
 ENV/
+.venv
+
+# Flask
+instance/
+.webassets-cache
 
 # IDE
 .vscode/
@@ -21,3 +23,7 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+nul
+
+# Environment variables
+.env
