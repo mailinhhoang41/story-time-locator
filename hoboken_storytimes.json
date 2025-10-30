@@ -1,172 +1,16 @@
 [
   {
-    "title": "Toddler Story Time",
+    "title": "K-Pop Demon Hunters Scavenger Hunt",
     "location": "Hoboken Public Library",
-    "description": "Wednesday, October 22 2025 10:30am - 11:00am \n Join us every Wednesday for Toddler Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/14678418",
-    "date": "2025-10-22",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 22 Oct 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us every Wednesday for Toddler Story Time!"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, October 22 2025 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/14746810",
-    "date": "2025-10-22",
-    "day_of_week": "Wednesday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Wed, 22 Oct 2025 15:00:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, October 23 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/14678592",
-    "date": "2025-10-23",
+    "description": "Thursday, October 30 2025 12:00am - 11:59pm \n Celebrate Halloween all week long with our K-Pop Demon Hunters Scavenger Hunt in the Children's Room!",
+    "link": "https://hobokenlibrary.libnet.info/event/14952124",
+    "date": "2025-10-30",
     "day_of_week": "Thursday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Thu, 23 Oct 2025 12:00:00 +0000",
+    "start_time": "00:00:00",
+    "formatted_time": "12:00 AM",
+    "datetime": "Thu, 30 Oct 2025 00:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!"
-  },
-  {
-    "title": "Halloween Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, October 23 2025 3:30pm - 4:00pm \n Join us after school for some spooky stories and songs!",
-    "link": "https://hobokenlibrary.libnet.info/event/14597265",
-    "date": "2025-10-23",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 23 Oct 2025 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some spooky stories and songs!"
-  },
-  {
-    "title": "Outdoor Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Friday, October 24 2025 10:30am - 11:00am \n Catch the HPL every Friday at Columbus Park in Hoboken!",
-    "link": "https://hobokenlibrary.libnet.info/event/14713104",
-    "date": "2025-10-24",
-    "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 24 Oct 2025 10:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Catch the HPL every Friday at Columbus Park in Hoboken!"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Friday, October 24 2025 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/14746854",
-    "date": "2025-10-24",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Fri, 24 Oct 2025 15:00:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
-  },
-  {
-    "title": "Graphic Novel Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, October 24 2025 3:30pm - 4:30pm \n Join us for Graphic Novel Club for kids & tweens at Grand Street!",
-    "link": "https://hobokenlibrary.libnet.info/event/14597346",
-    "date": "2025-10-24",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 24 Oct 2025 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us for Graphic Novel Club for kids & tweens at Grand Street!"
-  },
-  {
-    "title": "Storytime STEAM Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, October 24 2025 3:30pm - 4:30pm \n This series of meetups promotes early literacy, curiosity, and collaborative learning.",
-    "link": "https://hobokenlibrary.libnet.info/event/14657705",
-    "date": "2025-10-24",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 24 Oct 2025 15:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "This series of meetups promotes early literacy, curiosity, and collaborative learning."
-  },
-  {
-    "title": "Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, October 26 2025 10:30am - 11:00am \n Join us for a special Toddler Story Time celebrating Halloween!",
-    "link": "https://hobokenlibrary.libnet.info/event/14822362",
-    "date": "2025-10-26",
-    "day_of_week": "Sunday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sun, 26 Oct 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a special Toddler Story Time celebrating Halloween!"
-  },
-  {
-    "title": "Baby Music Class",
-    "location": "Hoboken Public Library",
-    "description": "Monday, October 27 2025 12:00pm - 12:30pm \n Join us for music and dancing!",
-    "link": "https://hobokenlibrary.libnet.info/event/14817898",
-    "date": "2025-10-27",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 27 Oct 2025 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for music and dancing!"
-  },
-  {
-    "title": "Sensory Play Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, October 28 2025 10:30am - 11:30am \n Explore Through the Senses! Join us for a variety of sensory activities for little ones.",
-    "link": "https://hobokenlibrary.libnet.info/event/14609388",
-    "date": "2025-10-28",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 28 Oct 2025 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Explore Through the Senses! Join us for a variety of sensory activities for little ones."
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, October 29 2025 10:30am - 11:00am \n Join us every Wednesday for Toddler Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/14601237",
-    "date": "2025-10-29",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 29 Oct 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us every Wednesday for Toddler Story Time!"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, October 29 2025 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/14746811",
-    "date": "2025-10-29",
-    "day_of_week": "Wednesday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Wed, 29 Oct 2025 15:00:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
+    "full_description": "Celebrate Halloween all week long with our K-Pop Demon Hunters Scavenger Hunt in the Children's Room!"
   },
   {
     "title": "Baby Story Time",
@@ -195,17 +39,17 @@
     "full_description": "Join us after school for some books, music, and movement!"
   },
   {
-    "title": "Toddler Story Time ",
+    "title": "K-Pop Demon Hunters Scavenger Hunt",
     "location": "Hoboken Public Library",
-    "description": "Friday, October 31 2025 10:30am - 11:00am \n Join us every Wednesday for Toddler Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/14771080",
+    "description": "Friday, October 31 2025 12:00am - 11:59pm \n Celebrate Halloween all week long with our K-Pop Demon Hunters Scavenger Hunt in the Children's Room!",
+    "link": "https://hobokenlibrary.libnet.info/event/14952125",
     "date": "2025-10-31",
     "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 31 Oct 2025 10:30:00 +0000",
+    "start_time": "00:00:00",
+    "formatted_time": "12:00 AM",
+    "datetime": "Fri, 31 Oct 2025 00:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us every Wednesday for Toddler Story Time!"
+    "full_description": "Celebrate Halloween all week long with our K-Pop Demon Hunters Scavenger Hunt in the Children's Room!"
   },
   {
     "title": "Crafternoons",
@@ -362,6 +206,19 @@
     "datetime": "Fri, 07 Nov 2025 15:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
+  },
+  {
+    "title": "Story Time & Drawing ",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, November 08 2025 10:30am - 11:00am \n Join local author and educator Michael Reggiani for a special story time!",
+    "link": "https://hobokenlibrary.libnet.info/event/14992187",
+    "date": "2025-11-08",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 08 Nov 2025 10:30:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "Join local author and educator Michael Reggiani for a special story time!"
   },
   {
     "title": "Second Saturday Story Time",
@@ -624,6 +481,19 @@
     "full_description": "Join us after school for some books, music, and movement!"
   },
   {
+    "title": "Romance Book Club",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, November 20 2025 5:30pm - 6:30pm \n Dive into a world of love, laughter, and endless feels with our Romance Book Club! Join us this month as we read Love Story by Ashley Poston.",
+    "link": "https://hobokenlibrary.libnet.info/event/14968824",
+    "date": "2025-11-20",
+    "day_of_week": "Thursday",
+    "start_time": "17:30:00",
+    "formatted_time": "05:30 PM",
+    "datetime": "Thu, 20 Nov 2025 17:30:00 +0000",
+    "organizer": "kerri.wallace@hobokenlibrary.org (Kerri Wallace)",
+    "full_description": "Dive into a world of love, laughter, and endless feels with our Romance Book Club! Join us this month as we read Love Story by Ashley Poston."
+  },
+  {
     "title": "Author Event: Bird City by Ryan Goldberg",
     "location": "Hoboken Public Library",
     "description": "Thursday, November 20 2025 6:00pm - 7:30pm \n Author reading and book sale.",
@@ -687,6 +557,19 @@
     "datetime": "Fri, 21 Nov 2025 15:30:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us for Graphic Novel Club for kids & tweens at Grand Street!"
+  },
+  {
+    "title": "Story Time ",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, November 22 2025 10:30am - 11:00am \n This special story time will feature the book Kindness Looks Like Love (The Special Child), read by author Mr. Dashawn!",
+    "link": "https://hobokenlibrary.libnet.info/event/14994658",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 22 Nov 2025 10:30:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "This special story time will feature the book Kindness Looks Like Love (The Special Child), read by author Mr. Dashawn!"
   },
   {
     "title": "Story Time",
@@ -780,6 +663,19 @@
     "full_description": "Story Time features stories, movement, songs, and nursery rhymes."
   },
   {
+    "title": "Cake Decorating Class",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, December 06 2025 2:00pm - 4:00pm \n Join us for an amazing cake decorating class for kids taught by local baker, Ms. Connie!",
+    "link": "https://hobokenlibrary.libnet.info/event/14993363",
+    "date": "2025-12-06",
+    "day_of_week": "Saturday",
+    "start_time": "14:00:00",
+    "formatted_time": "02:00 PM",
+    "datetime": "Sat, 06 Dec 2025 14:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for an amazing cake decorating class for kids taught by local baker, Ms. Connie!"
+  },
+  {
     "title": "Welcome Fall",
     "location": "Hoboken Public Library",
     "description": "Sunday, December 07 2025 10:30am - 12:00pm \n Kids who learn Russian as their second language will recite poems and sing songs about Fall.",
@@ -804,19 +700,6 @@
     "datetime": "Tue, 09 Dec 2025 15:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, December 13 2025 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
-    "link": "https://hobokenlibrary.libnet.info/event/14678659",
-    "date": "2025-12-13",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 13 Dec 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes."
   },
   {
     "title": "Stories & Stacks",
@@ -869,6 +752,19 @@
     "datetime": "Mon, 22 Dec 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us for music and dancing!"
+  },
+  {
+    "title": "Toddler Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, January 03 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
+    "link": "https://hobokenlibrary.libnet.info/event/14678659",
+    "date": "2026-01-03",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 03 Jan 2026 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Story Time features stories, movement, songs, and nursery rhymes."
   },
   {
     "title": "Baby Music Class",
