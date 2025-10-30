@@ -82,6 +82,10 @@ def load_event_data():
         bookstore_events = []
 
 
+# Load event data when the app module is imported (needed for Gunicorn)
+load_event_data()
+
+
 @app.route('/')
 def index():
     """
