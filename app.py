@@ -124,9 +124,15 @@ def search():
         events = []
 
         if city == 'jersey_city':
+            # Include Jersey City library events + bookstore events in Jersey City
             events = jersey_city_events.copy()
+            # Add bookstore events that are in Jersey City
+            events += [event for event in bookstore_events if event.get('city', '').lower() == 'jersey city']
         elif city == 'hoboken':
+            # Include Hoboken library events + bookstore events in Hoboken
             events = hoboken_events.copy()
+            # Add bookstore events that are in Hoboken
+            events += [event for event in bookstore_events if event.get('city', '').lower() == 'hoboken']
         else:  # 'both'
             # Combine both cities and add a 'city' field for display
             events = [
@@ -135,6 +141,9 @@ def search():
             ] + [
                 {**event, 'city': 'Hoboken'}
                 for event in hoboken_events
+            ] + [
+                # Bookstore events already have a 'city' field, so include them as-is
+                event for event in bookstore_events
             ]
 
         # Filter out past events first (before other filters)
@@ -631,7 +640,8 @@ def refresh_data():
     return jsonify({
         'message': 'Event data refreshed',
         'jersey_city_count': len(jersey_city_events),
-        'hoboken_count': len(hoboken_events)
+        'hoboken_count': len(hoboken_events),
+        'bookstore_count': len(bookstore_events)
     })
 
 
@@ -651,7 +661,7 @@ if __name__ == '__main__':
     # Load event data before starting server
     load_event_data()
 
-    total_events = len(jersey_city_events) + len(hoboken_events)
+    total_events = len(jersey_city_events) + len(hoboken_events) + len(bookstore_events)
     print(f"\nTotal events loaded: {total_events}")
     print("\nServer starting...")
     print("Visit http://127.0.0.1:5000 in your browser")
