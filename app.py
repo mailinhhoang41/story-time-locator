@@ -290,8 +290,9 @@ def filter_by_age(events, age_input):
         audience = event.get('audience', '').lower()
         description = event.get('description', '')
 
-        # Check for "all ages" first
-        if 'all ages' in audience or 'all ages' in description.lower():
+        # Check for "all ages" first (but only if it's the main age designation)
+        # Don't match phrases like "activities for all ages are encouraged"
+        if 'all ages' in audience:
             filtered.append(event)
             continue
 
@@ -301,7 +302,8 @@ def filter_by_age(events, age_input):
             event_min, event_max = desc_age_range
             if check_age_overlap(user_min, user_max, event_min, event_max):
                 filtered.append(event)
-                continue
+            # If we found age range in description, skip audience field check
+            continue
 
         # Fall back to audience field patterns
         # Extract numbers from audience field (e.g., "0-5" from "Early Childhood (0-5)")
@@ -320,9 +322,8 @@ def filter_by_age(events, age_input):
             filtered.append(event)
         elif 'preschool' in audience and user_max >= 3 and user_min <= 5:
             filtered.append(event)
-        elif not audience:
-            # No age specified - include it (better to show too much than miss events)
-            filtered.append(event)
+        # If no age info found anywhere, exclude the event
+        # (Better to be strict than show irrelevant events)
 
     return filtered
 
