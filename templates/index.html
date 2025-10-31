@@ -46,14 +46,16 @@
             <!-- Branch/Location Filter -->
             <div class="form-group" id="branchFilterGroup">
                 <label for="branch">Library Branch or Bookstore (Optional)</label>
-                <select
-                    id="branch"
-                    name="branch"
-                    aria-label="Select a branch or location"
-                >
-                    <option value="">All Locations</option>
-                </select>
-                <small>Choose a specific branch or location</small>
+                <div class="custom-multiselect">
+                    <div class="multiselect-header" id="branchDropdownHeader">
+                        <span id="branchSelectedText">Select locations...</span>
+                        <span class="dropdown-arrow">▼</span>
+                    </div>
+                    <div class="multiselect-options" id="branchDropdownOptions" style="display: none;">
+                        <!-- Options will be populated by JavaScript -->
+                    </div>
+                </div>
+                <small>Click to select one or more locations</small>
             </div>
 
             <!-- Kids Ages Input -->

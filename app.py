@@ -117,7 +117,7 @@ def search():
         # The frontend sends these as JSON in the request body
         data = request.get_json()
         city = data.get('city', 'both')  # 'jersey_city', 'hoboken', or 'both'
-        branch = data.get('branch', '')  # Specific branch/location filter
+        branches = data.get('branches', [])  # List of selected branches (multi-select)
         kids_ages = data.get('kids_ages', '')
         days_preference = data.get('days', [])  # List of selected days
         date_range = data.get('date_range', 'all')  # 'week', '2weeks', 'month', 'all'
@@ -158,9 +158,9 @@ def search():
         if date_range != 'all':
             events = filter_by_date_range(events, date_range)
 
-        # Filter by branch/location if specified
-        if branch:
-            events = filter_by_branch(events, branch)
+        # Filter by branch/location if specified (multi-select)
+        if branches:
+            events = filter_by_branches(events, branches)
 
         # Filter by age range if specified
         # Age format: "0-2", "3-5", "6-11", etc.
@@ -550,18 +550,18 @@ def filter_by_date_range(events, date_range):
     return filtered
 
 
-def filter_by_branch(events, branch):
+def filter_by_branches(events, branches):
     """
-    Filter events by specific branch or location
+    Filter events by multiple branches or locations (multi-select)
 
     Args:
         events: List of event dictionaries
-        branch: String - the branch name to filter by
+        branches: List of branch names to filter by
 
     Returns:
-        Filtered list of events at the specified branch
+        Filtered list of events at any of the specified branches
     """
-    if not branch:
+    if not branches:
         return events
 
     filtered = []
@@ -573,9 +573,11 @@ def filter_by_branch(events, branch):
         if not event_branch:
             event_branch = event.get('location', '')
 
-        # Match if the branch name is contained in the event's branch/location
-        if branch.lower() in event_branch.lower():
-            filtered.append(event)
+        # Match if any of the selected branches match this event
+        for branch in branches:
+            if branch.lower() in event_branch.lower():
+                filtered.append(event)
+                break  # Don't add the same event multiple times
 
     return filtered
 

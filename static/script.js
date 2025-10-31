@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Build request data
         const data = {
             city: formData.get('city'),
-            branch: formData.get('branch') || '',
+            branches: selectedBranches,  // Changed from 'branch' to 'branches' array
             kids_ages: formData.get('kids_ages') || '',
             venue_type: formData.get('venue_type') || 'all',
             event_type: formData.get('event_type') || 'all',
@@ -288,7 +288,23 @@ document.addEventListener('DOMContentLoaded', function() {
      * Handle city selection change - update branch options based on city
      */
     const citySelect = document.getElementById('city');
-    const branchSelect = document.getElementById('branch');
+    const branchDropdownHeader = document.getElementById('branchDropdownHeader');
+    const branchDropdownOptions = document.getElementById('branchDropdownOptions');
+    const branchSelectedText = document.getElementById('branchSelectedText');
+
+    // Track selected branches
+    let selectedBranches = [];
+
+    // Function to update the selected text display
+    function updateSelectedText() {
+        if (selectedBranches.length === 0) {
+            branchSelectedText.textContent = 'Select locations...';
+        } else if (selectedBranches.length === 1) {
+            branchSelectedText.textContent = selectedBranches[0];
+        } else {
+            branchSelectedText.textContent = `${selectedBranches.length} locations selected`;
+        }
+    }
 
     // Function to load branches for a given city
     async function loadBranches(city) {
@@ -315,29 +331,69 @@ document.addEventListener('DOMContentLoaded', function() {
             }
 
             // Clear existing options and rebuild
-            branchSelect.innerHTML = '<option value="">All Locations</option>';
+            branchDropdownOptions.innerHTML = '';
 
-            // Add branch options with optgroups
+            // Add branch options with groups and checkboxes
             allGroups.forEach(group => {
-                const optgroup = document.createElement('optgroup');
-                optgroup.label = group.label;
+                // Add group label
+                const groupLabel = document.createElement('div');
+                groupLabel.className = 'multiselect-group-label';
+                groupLabel.textContent = group.label;
+                branchDropdownOptions.appendChild(groupLabel);
 
+                // Add branches in this group
                 group.branches.forEach(branch => {
-                    const option = document.createElement('option');
-                    option.value = branch;
-                    option.textContent = branch;
-                    optgroup.appendChild(option);
-                });
+                    const optionDiv = document.createElement('div');
+                    optionDiv.className = 'multiselect-option';
 
-                branchSelect.appendChild(optgroup);
+                    const checkbox = document.createElement('input');
+                    checkbox.type = 'checkbox';
+                    checkbox.id = `branch-${branch.replace(/\s+/g, '-')}`;
+                    checkbox.value = branch;
+                    checkbox.checked = selectedBranches.includes(branch);
+
+                    const label = document.createElement('label');
+                    label.htmlFor = checkbox.id;
+                    label.textContent = branch;
+
+                    // Handle checkbox change
+                    checkbox.addEventListener('change', function() {
+                        if (this.checked) {
+                            if (!selectedBranches.includes(branch)) {
+                                selectedBranches.push(branch);
+                            }
+                        } else {
+                            selectedBranches = selectedBranches.filter(b => b !== branch);
+                        }
+                        updateSelectedText();
+                    });
+
+                    optionDiv.appendChild(checkbox);
+                    optionDiv.appendChild(label);
+                    branchDropdownOptions.appendChild(optionDiv);
+                });
             });
 
         } catch (err) {
             console.error('Failed to load branches:', err);
-            // Keep the dropdown but show just "All Locations"
-            branchSelect.innerHTML = '<option value="">All Locations</option>';
+            branchDropdownOptions.innerHTML = '';
         }
     }
+
+    // Toggle dropdown open/close
+    branchDropdownHeader.addEventListener('click', function() {
+        const isOpen = branchDropdownOptions.style.display === 'block';
+        branchDropdownOptions.style.display = isOpen ? 'none' : 'block';
+        branchDropdownHeader.classList.toggle('active', !isOpen);
+    });
+
+    // Close dropdown when clicking outside
+    document.addEventListener('click', function(event) {
+        if (!event.target.closest('.custom-multiselect')) {
+            branchDropdownOptions.style.display = 'none';
+            branchDropdownHeader.classList.remove('active');
+        }
+    });
 
     // Load branches on page load (default is "both" cities)
     loadBranches('both');
@@ -345,9 +401,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Update branches when city selection changes
     citySelect.addEventListener('change', async function() {
         const selectedCity = citySelect.value;
+        selectedBranches = []; // Clear selections
+        updateSelectedText();
         await loadBranches(selectedCity);
-        // Reset branch selection when city changes
-        branchSelect.value = '';
     });
 
     /**
@@ -364,7 +420,8 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('date_range').value = '2weeks';
 
             // Reset branch filter and reload all branches
-            branchSelect.value = '';
+            selectedBranches = [];
+            updateSelectedText();
             loadBranches('both');
 
             // Uncheck all day checkboxes
