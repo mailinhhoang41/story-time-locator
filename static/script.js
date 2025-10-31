@@ -285,44 +285,69 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     /**
-     * Handle city selection change - show/hide branch filter and load branches
+     * Handle city selection change - update branch options based on city
      */
     const citySelect = document.getElementById('city');
-    const branchFilterGroup = document.getElementById('branchFilterGroup');
     const branchSelect = document.getElementById('branch');
 
+    // Function to load branches for a given city
+    async function loadBranches(city) {
+        try {
+            let allGroups = [];
+
+            if (city === 'both') {
+                // Load branches from both cities
+                const jcResponse = await fetch('/branches/jersey_city');
+                const jcData = await jcResponse.json();
+                const hobokenResponse = await fetch('/branches/hoboken');
+                const hobokenData = await hobokenResponse.json();
+
+                // Combine groups from both cities
+                allGroups = [
+                    ...(jcData.groups || []).map(g => ({...g, label: `JC - ${g.label}`})),
+                    ...(hobokenData.groups || []).map(g => ({...g, label: `Hoboken - ${g.label}`}))
+                ];
+            } else {
+                // Load branches for specific city
+                const response = await fetch(`/branches/${city}`);
+                const data = await response.json();
+                allGroups = data.groups || [];
+            }
+
+            // Clear existing options and rebuild
+            branchSelect.innerHTML = '<option value="">All Locations</option>';
+
+            // Add branch options with optgroups
+            allGroups.forEach(group => {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = group.label;
+
+                group.branches.forEach(branch => {
+                    const option = document.createElement('option');
+                    option.value = branch;
+                    option.textContent = branch;
+                    optgroup.appendChild(option);
+                });
+
+                branchSelect.appendChild(optgroup);
+            });
+
+        } catch (err) {
+            console.error('Failed to load branches:', err);
+            // Keep the dropdown but show just "All Locations"
+            branchSelect.innerHTML = '<option value="">All Locations</option>';
+        }
+    }
+
+    // Load branches on page load (default is "both" cities)
+    loadBranches('both');
+
+    // Update branches when city selection changes
     citySelect.addEventListener('change', async function() {
         const selectedCity = citySelect.value;
-
-        // Only show branch filter when a single city is selected
-        if (selectedCity === 'both') {
-            branchFilterGroup.style.display = 'none';
-            branchSelect.value = '';
-        } else {
-            branchFilterGroup.style.display = 'block';
-
-            // Load branches for the selected city
-            try {
-                const response = await fetch(`/branches/${selectedCity}`);
-                const data = await response.json();
-
-                // Clear existing options except "All Locations"
-                branchSelect.innerHTML = '<option value="">All Locations</option>';
-
-                // Add branch options
-                if (data.branches && data.branches.length > 0) {
-                    data.branches.forEach(branch => {
-                        const option = document.createElement('option');
-                        option.value = branch;
-                        option.textContent = branch;
-                        branchSelect.appendChild(option);
-                    });
-                }
-            } catch (err) {
-                console.error('Failed to load branches:', err);
-                // Keep the dropdown but show just "All Locations"
-            }
-        }
+        await loadBranches(selectedCity);
+        // Reset branch selection when city changes
+        branchSelect.value = '';
     });
 
     /**
@@ -338,9 +363,9 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('event_type').value = 'all';
             document.getElementById('date_range').value = '2weeks';
 
-            // Hide and reset branch filter
-            branchFilterGroup.style.display = 'none';
+            // Reset branch filter and reload all branches
             branchSelect.value = '';
+            loadBranches('both');
 
             // Uncheck all day checkboxes
             document.querySelectorAll('input[name="days"]').forEach(checkbox => {

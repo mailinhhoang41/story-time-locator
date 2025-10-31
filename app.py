@@ -213,25 +213,35 @@ def search():
 @app.route('/branches/<city>', methods=['GET'])
 def get_branches(city):
     """
-    Get list of branches/locations for a specific city
+    Get list of branches/locations for a specific city, grouped by neighborhood
 
     Args:
         city: 'jersey_city' or 'hoboken'
 
     Returns:
-        JSON list of branch names
+        JSON with branches grouped by neighborhood
     """
     try:
-        branches = []
+        # Neighborhood mapping for Jersey City branches
+        jc_neighborhoods = {
+            'Downtown': ['Pavonia Branch', 'Priscilla Gardner Main Library'],
+            'Heights': ['Heights Branch'],
+            'Greenville': ['Earl A. Morgan Branch (Greenville)'],
+            'Journal Square': ['Five Corners Branch'],
+            'West Side': ['Marion Branch', 'West Bergen Branch'],
+            'Bergen-Lafayette': ['Communipaw Branch'],
+            'The Hill': ['Glenn D. Cunningham Branch'],
+            'McGinley Square': ['Miller Branch'],
+            'Bookstores': []
+        }
 
         if city == 'jersey_city':
-            # Get unique branches from Jersey City library events
-            library_branches = sorted(set([
+            # Get actual branches from events
+            library_branches = set([
                 event.get('calendar_source', '')
                 for event in jersey_city_events
                 if event.get('calendar_source')
-            ]))
-            branches.extend(library_branches)
+            ])
 
             # Add Jersey City bookstores
             bookstore_branches = sorted(set([
@@ -239,21 +249,43 @@ def get_branches(city):
                 for event in bookstore_events
                 if event.get('city', '').lower() == 'jersey city' and event.get('venue_name')
             ]))
-            branches.extend(bookstore_branches)
+            jc_neighborhoods['Bookstores'] = bookstore_branches
+
+            # Build grouped structure - only include neighborhoods that have branches
+            groups = []
+            for neighborhood, branch_list in jc_neighborhoods.items():
+                # Filter to only branches that actually exist in our data
+                available_branches = [b for b in branch_list if b in library_branches] if neighborhood != 'Bookstores' else branch_list
+                if available_branches:
+                    groups.append({
+                        'label': neighborhood,
+                        'branches': sorted(available_branches)
+                    })
+
+            return jsonify({'groups': groups})
 
         elif city == 'hoboken':
-            # Hoboken only has one library location
-            branches.append('Hoboken Public Library')
+            # Hoboken: simple structure with library and bookstores
+            groups = [
+                {
+                    'label': 'Library',
+                    'branches': ['Hoboken Public Library']
+                }
+            ]
 
-            # Add Hoboken bookstores
+            # Add Hoboken bookstores if any
             bookstore_branches = sorted(set([
                 event.get('venue_name', '')
                 for event in bookstore_events
                 if event.get('city', '').lower() == 'hoboken' and event.get('venue_name')
             ]))
-            branches.extend(bookstore_branches)
+            if bookstore_branches:
+                groups.append({
+                    'label': 'Bookstores',
+                    'branches': bookstore_branches
+                })
 
-        return jsonify({'branches': branches})
+            return jsonify({'groups': groups})
 
     except Exception as e:
         return jsonify({'error': f'Failed to get branches: {str(e)}'}), 500
