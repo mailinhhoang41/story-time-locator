@@ -50,6 +50,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Build request data
         const data = {
             city: formData.get('city'),
+            branch: formData.get('branch') || '',
             kids_ages: formData.get('kids_ages') || '',
             venue_type: formData.get('venue_type') || 'all',
             event_type: formData.get('event_type') || 'all',
@@ -284,6 +285,47 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     /**
+     * Handle city selection change - show/hide branch filter and load branches
+     */
+    const citySelect = document.getElementById('city');
+    const branchFilterGroup = document.getElementById('branchFilterGroup');
+    const branchSelect = document.getElementById('branch');
+
+    citySelect.addEventListener('change', async function() {
+        const selectedCity = citySelect.value;
+
+        // Only show branch filter when a single city is selected
+        if (selectedCity === 'both') {
+            branchFilterGroup.style.display = 'none';
+            branchSelect.value = '';
+        } else {
+            branchFilterGroup.style.display = 'block';
+
+            // Load branches for the selected city
+            try {
+                const response = await fetch(`/branches/${selectedCity}`);
+                const data = await response.json();
+
+                // Clear existing options except "All Locations"
+                branchSelect.innerHTML = '<option value="">All Locations</option>';
+
+                // Add branch options
+                if (data.branches && data.branches.length > 0) {
+                    data.branches.forEach(branch => {
+                        const option = document.createElement('option');
+                        option.value = branch;
+                        option.textContent = branch;
+                        branchSelect.appendChild(option);
+                    });
+                }
+            } catch (err) {
+                console.error('Failed to load branches:', err);
+                // Keep the dropdown but show just "All Locations"
+            }
+        }
+    });
+
+    /**
      * Clear all filters and reset form to defaults
      */
     const clearFiltersBtn = document.getElementById('clearFilters');
@@ -295,6 +337,10 @@ document.addEventListener('DOMContentLoaded', function() {
             document.getElementById('venue_type').value = 'all';
             document.getElementById('event_type').value = 'all';
             document.getElementById('date_range').value = '2weeks';
+
+            // Hide and reset branch filter
+            branchFilterGroup.style.display = 'none';
+            branchSelect.value = '';
 
             // Uncheck all day checkboxes
             document.querySelectorAll('input[name="days"]').forEach(checkbox => {

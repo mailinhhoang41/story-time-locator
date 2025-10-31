@@ -43,6 +43,19 @@
                 <small>Which city do you want to search?</small>
             </div>
 
+            <!-- Branch/Location Filter (shows only when a single city is selected) -->
+            <div class="form-group" id="branchFilterGroup" style="display: none;">
+                <label for="branch">Branch/Location (Optional)</label>
+                <select
+                    id="branch"
+                    name="branch"
+                    aria-label="Select a branch or location"
+                >
+                    <option value="">All Locations</option>
+                </select>
+                <small>Choose a specific branch or location</small>
+            </div>
+
             <!-- Kids Ages Input -->
             <div class="form-group">
                 <label for="kids_ages">Kids Ages (Optional)</label>

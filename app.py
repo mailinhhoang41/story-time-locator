@@ -117,6 +117,7 @@ def search():
         # The frontend sends these as JSON in the request body
         data = request.get_json()
         city = data.get('city', 'both')  # 'jersey_city', 'hoboken', or 'both'
+        branch = data.get('branch', '')  # Specific branch/location filter
         kids_ages = data.get('kids_ages', '')
         days_preference = data.get('days', [])  # List of selected days
         date_range = data.get('date_range', 'all')  # 'week', '2weeks', 'month', 'all'
@@ -156,6 +157,10 @@ def search():
         # Filter by date range if specified
         if date_range != 'all':
             events = filter_by_date_range(events, date_range)
+
+        # Filter by branch/location if specified
+        if branch:
+            events = filter_by_branch(events, branch)
 
         # Filter by age range if specified
         # Age format: "0-2", "3-5", "6-11", etc.
@@ -203,6 +208,55 @@ def search():
     except Exception as e:
         # Catch any unexpected errors and return a friendly message
         return jsonify({'error': f'Search failed: {str(e)}'}), 500
+
+
+@app.route('/branches/<city>', methods=['GET'])
+def get_branches(city):
+    """
+    Get list of branches/locations for a specific city
+
+    Args:
+        city: 'jersey_city' or 'hoboken'
+
+    Returns:
+        JSON list of branch names
+    """
+    try:
+        branches = []
+
+        if city == 'jersey_city':
+            # Get unique branches from Jersey City library events
+            library_branches = sorted(set([
+                event.get('calendar_source', '')
+                for event in jersey_city_events
+                if event.get('calendar_source')
+            ]))
+            branches.extend(library_branches)
+
+            # Add Jersey City bookstores
+            bookstore_branches = sorted(set([
+                event.get('venue_name', '')
+                for event in bookstore_events
+                if event.get('city', '').lower() == 'jersey city' and event.get('venue_name')
+            ]))
+            branches.extend(bookstore_branches)
+
+        elif city == 'hoboken':
+            # Hoboken only has one library location
+            branches.append('Hoboken Public Library')
+
+            # Add Hoboken bookstores
+            bookstore_branches = sorted(set([
+                event.get('venue_name', '')
+                for event in bookstore_events
+                if event.get('city', '').lower() == 'hoboken' and event.get('venue_name')
+            ]))
+            branches.extend(bookstore_branches)
+
+        return jsonify({'branches': branches})
+
+    except Exception as e:
+        return jsonify({'error': f'Failed to get branches: {str(e)}'}), 500
 
 
 def extract_age_range_from_text(text):
@@ -459,6 +513,36 @@ def filter_by_date_range(events, date_range):
                 filtered.append(event)
         except ValueError:
             # If date parsing fails, include the event
+            filtered.append(event)
+
+    return filtered
+
+
+def filter_by_branch(events, branch):
+    """
+    Filter events by specific branch or location
+
+    Args:
+        events: List of event dictionaries
+        branch: String - the branch name to filter by
+
+    Returns:
+        Filtered list of events at the specified branch
+    """
+    if not branch:
+        return events
+
+    filtered = []
+    for event in events:
+        # Check both 'calendar_source' (for library events) and 'venue_name' (for bookstore events)
+        event_branch = event.get('calendar_source', event.get('venue_name', ''))
+
+        # Also check 'location' field as a fallback
+        if not event_branch:
+            event_branch = event.get('location', '')
+
+        # Match if the branch name is contained in the event's branch/location
+        if branch.lower() in event_branch.lower():
             filtered.append(event)
 
     return filtered
