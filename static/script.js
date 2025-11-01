@@ -59,6 +59,18 @@ document.addEventListener('DOMContentLoaded', function() {
             time_of_day: selectedTimes
         };
 
+        // Track the search event in Google Analytics
+        if (typeof gtag !== 'undefined') {
+            gtag('event', 'search', {
+                'event_category': 'Story Time Search',
+                'event_label': data.city,
+                'city': data.city,
+                'event_type': data.event_type,
+                'has_age_filter': data.kids_ages ? 'yes' : 'no',
+                'has_branch_filter': data.branches.length > 0 ? 'yes' : 'no'
+            });
+        }
+
         try {
             // Send POST request to backend
             // Our backend filters the local JSON data based on these preferences
