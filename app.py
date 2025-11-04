@@ -223,6 +223,20 @@ def get_branches(city):
     """
     try:
         # Neighborhood mapping for Jersey City branches
+        # Map internal branch names to display names with "Library" suffix
+        branch_display_names = {
+            'Pavonia Branch': 'Pavonia Library',
+            'Priscilla Gardner Main Library': 'Priscilla Gardner Main Library',
+            'Heights Branch': 'Heights Library',
+            'Earl A. Morgan Branch (Greenville)': 'Earl A. Morgan Library (Greenville)',
+            'Five Corners Branch': 'Five Corners Library',
+            'Marion Branch': 'Marion Library',
+            'West Bergen Branch': 'West Bergen Library',
+            'Communipaw Branch': 'Communipaw Library',
+            'Glenn D. Cunningham Branch': 'Glenn D. Cunningham Library',
+            'Miller Branch': 'Miller Library'
+        }
+
         jc_neighborhoods = {
             'Downtown': ['Pavonia Branch', 'Priscilla Gardner Main Library'],
             'Heights': ['Heights Branch'],
@@ -231,8 +245,7 @@ def get_branches(city):
             'West Side': ['Marion Branch', 'West Bergen Branch'],
             'Bergen-Lafayette': ['Communipaw Branch'],
             'The Hill': ['Glenn D. Cunningham Branch'],
-            'McGinley Square': ['Miller Branch'],
-            'Bookstores': []
+            'McGinley Square': ['Miller Branch']
         }
 
         if city == 'jersey_city':
@@ -243,19 +256,43 @@ def get_branches(city):
                 if event.get('calendar_source')
             ])
 
-            # Add Jersey City bookstores
-            bookstore_branches = sorted(set([
+            # Get Jersey City bookstores and add to Downtown
+            jc_bookstores = sorted(set([
                 event.get('venue_name', '')
                 for event in bookstore_events
                 if event.get('city', '').lower() == 'jersey city' and event.get('venue_name')
             ]))
-            jc_neighborhoods['Bookstores'] = bookstore_branches
+
+            # Format bookstore names for display
+            jc_bookstores_display = []
+            for name in jc_bookstores:
+                if 'Bookstore' in name:
+                    # Replace "Bookstore" with "(Bookstore)" - e.g., "WORD Bookstore" → "WORD (Bookstore)"
+                    display_name = name.replace('Bookstore', '(Bookstore)').replace('  ', ' ')
+                else:
+                    # Add "(Bookstore)" suffix - e.g., "Little City Books" → "Little City Books (Bookstore)"
+                    display_name = f"{name} (Bookstore)"
+                jc_bookstores_display.append(display_name)
+
+            # Add bookstores to Downtown neighborhood (WORD Bookstore is on Newark Ave)
+            if jc_bookstores_display:
+                jc_neighborhoods['Downtown'] = jc_neighborhoods['Downtown'] + jc_bookstores_display
 
             # Build grouped structure - only include neighborhoods that have branches
             groups = []
             for neighborhood, branch_list in jc_neighborhoods.items():
                 # Filter to only branches that actually exist in our data
-                available_branches = [b for b in branch_list if b in library_branches] if neighborhood != 'Bookstores' else branch_list
+                # For libraries, check calendar_source; for bookstores, they're already in the list
+                available_branches = []
+                for branch in branch_list:
+                    if branch in library_branches:
+                        # It's a library - use display name
+                        display_name = branch_display_names.get(branch, branch)
+                        available_branches.append(display_name)
+                    elif branch in jc_bookstores_display:
+                        # It's a bookstore - use as-is (already has "(Bookstore)" suffix)
+                        available_branches.append(branch)
+
                 if available_branches:
                     groups.append({
                         'label': neighborhood,
@@ -265,25 +302,33 @@ def get_branches(city):
             return jsonify({'groups': groups})
 
         elif city == 'hoboken':
-            # Hoboken: simple structure with library and bookstores
-            groups = [
-                {
-                    'label': 'Library',
-                    'branches': ['Hoboken Public Library']
-                }
-            ]
-
-            # Add Hoboken bookstores if any
-            bookstore_branches = sorted(set([
+            # Get Hoboken bookstores
+            hoboken_bookstores = sorted(set([
                 event.get('venue_name', '')
                 for event in bookstore_events
                 if event.get('city', '').lower() == 'hoboken' and event.get('venue_name')
             ]))
-            if bookstore_branches:
-                groups.append({
-                    'label': 'Bookstores',
-                    'branches': bookstore_branches
-                })
+
+            # Format bookstore names for display
+            hoboken_bookstores_display = []
+            for name in hoboken_bookstores:
+                if 'Bookstore' in name:
+                    # Replace "Bookstore" with "(Bookstore)" - e.g., "WORD Bookstore" → "WORD (Bookstore)"
+                    display_name = name.replace('Bookstore', '(Bookstore)').replace('  ', ' ')
+                else:
+                    # Add "(Bookstore)" suffix - e.g., "Little City Books" → "Little City Books (Bookstore)"
+                    display_name = f"{name} (Bookstore)"
+                hoboken_bookstores_display.append(display_name)
+
+            # Combine library and bookstores in one group
+            all_locations = ['Hoboken Public Library'] + hoboken_bookstores_display
+
+            groups = [
+                {
+                    'label': 'Hoboken',
+                    'branches': all_locations
+                }
+            ]
 
             return jsonify({'groups': groups})
 
@@ -556,13 +601,28 @@ def filter_by_branches(events, branches):
 
     Args:
         events: List of event dictionaries
-        branches: List of branch names to filter by
+        branches: List of branch display names to filter by
 
     Returns:
         Filtered list of events at any of the specified branches
     """
     if not branches:
         return events
+
+    # Map display names back to internal branch names for matching
+    # This allows users to select "Pavonia Library" which matches "Pavonia Branch" in the data
+    display_to_internal = {
+        'Pavonia Library': 'Pavonia Branch',
+        'Priscilla Gardner Main Library': 'Priscilla Gardner Main Library',
+        'Heights Library': 'Heights Branch',
+        'Earl A. Morgan Library (Greenville)': 'Earl A. Morgan Branch (Greenville)',
+        'Five Corners Library': 'Five Corners Branch',
+        'Marion Library': 'Marion Branch',
+        'West Bergen Library': 'West Bergen Branch',
+        'Communipaw Library': 'Communipaw Branch',
+        'Glenn D. Cunningham Library': 'Glenn D. Cunningham Branch',
+        'Miller Library': 'Miller Branch'
+    }
 
     filtered = []
     for event in events:
@@ -575,7 +635,14 @@ def filter_by_branches(events, branches):
 
         # Match if any of the selected branches match this event
         for branch in branches:
-            if branch.lower() in event_branch.lower():
+            # Convert display name to internal name if it's a library
+            search_term = display_to_internal.get(branch, branch)
+
+            # Remove " (Bookstore)" suffix if present for matching
+            if search_term.endswith(' (Bookstore)'):
+                search_term = search_term.replace(' (Bookstore)', '')
+
+            if search_term.lower() in event_branch.lower() or branch.lower() in event_branch.lower():
                 filtered.append(event)
                 break  # Don't add the same event multiple times
 
