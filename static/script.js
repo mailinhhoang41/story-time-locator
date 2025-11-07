@@ -9,6 +9,17 @@ This file now handles:
 4. Error handling
 */
 
+// Global function to expand popup events (called from onclick in popup HTML)
+window.expandPopupEvents = function(popupId) {
+    const hiddenContainer = document.getElementById(`${popupId}-hidden`);
+    const button = document.getElementById(`${popupId}-btn`);
+
+    if (hiddenContainer && button) {
+        hiddenContainer.classList.add('expanded');
+        button.style.display = 'none';
+    }
+};
+
 // Wait for the page to fully load before running code
 // This ensures all HTML elements exist before we try to access them
 document.addEventListener('DOMContentLoaded', function() {
@@ -19,6 +30,28 @@ document.addEventListener('DOMContentLoaded', function() {
     const error = document.getElementById('error');
     const errorMessage = document.getElementById('errorMessage');
     const results = document.getElementById('results');
+    const viewToggle = document.getElementById('viewToggle');
+    const listViewBtn = document.getElementById('listViewBtn');
+    const mapViewBtn = document.getElementById('mapViewBtn');
+    const mapContainer = document.getElementById('mapContainer');
+
+    // Map-related variables
+    let map = null;
+    let markers = [];
+    let markerClusterGroup = null;
+    let currentEvents = [];
+    let locationsData = {};
+
+    // Load location data on page load
+    async function loadLocationData() {
+        try {
+            const response = await fetch('/locations');
+            locationsData = await response.json();
+        } catch (err) {
+            console.error('Failed to load location data:', err);
+        }
+    }
+    loadLocationData();
 
     // Listen for form submission
     form.addEventListener('submit', async function(e) {
@@ -94,8 +127,24 @@ document.addEventListener('DOMContentLoaded', function() {
             // Hide loading indicator
             loading.classList.add('hidden');
 
-            // Display results
+            // Store current events for map view
+            currentEvents = responseData.results;
+
+            // Show view toggle buttons
+            if (currentEvents.length > 0) {
+                viewToggle.classList.remove('hidden');
+            }
+
+            // Check if user is currently in map view
+            const isMapViewActive = mapViewBtn.classList.contains('active');
+
+            // Display results (default to list view)
             displayResults(responseData);
+
+            // If map view is active, update the map with new results
+            if (isMapViewActive && currentEvents.length > 0) {
+                initializeMap();
+            }
 
         } catch (err) {
             // Hide loading indicator
@@ -449,7 +498,372 @@ document.addEventListener('DOMContentLoaded', function() {
             // Clear results and errors
             results.innerHTML = '';
             hideError();
+
+            // Hide view toggle and reset to list view
+            viewToggle.classList.add('hidden');
+            switchToListView();
         });
     }
+
+    /**
+     * Get neighborhood for a venue (for display on map)
+     */
+    function getNeighborhood(venueName) {
+        // Jersey City neighborhood mapping
+        const jcNeighborhoods = {
+            'Downtown': ['Pavonia Branch', 'Priscilla Gardner Main Library', 'WORD Bookstore'],
+            'Heights': ['Heights Branch'],
+            'Greenville': ['Earl A. Morgan Branch (Greenville)'],
+            'Journal Square': ['Five Corners Branch'],
+            'West Side': ['Marion Branch', 'West Bergen Branch'],
+            'Bergen-Lafayette': ['Communipaw Branch'],
+            'The Hill': ['Glenn D. Cunningham Branch'],
+            'McGinley Square': ['Miller Branch']
+        };
+
+        // Hoboken (single neighborhood)
+        const hobokenLocations = ['Hoboken Public Library', 'Hoboken Public Library - Grand Street Branch', 'Little City Books'];
+
+        // Check Jersey City neighborhoods
+        for (let neighborhood in jcNeighborhoods) {
+            if (jcNeighborhoods[neighborhood].some(loc => venueName.includes(loc) || loc.includes(venueName))) {
+                return `JC - ${neighborhood}`;
+            }
+        }
+
+        // Check Hoboken
+        if (hobokenLocations.some(loc => venueName.includes(loc) || loc.includes(venueName))) {
+            return 'Hoboken';
+        }
+
+        return null;
+    }
+
+    /**
+     * Add floating legend to map
+     */
+    function addMapLegend() {
+        const legendHTML = `
+            <div class="map-legend">
+                <div class="legend-header" id="legendHeader">
+                    <span>Map Legend</span>
+                    <span class="legend-toggle" id="legendToggle">−</span>
+                </div>
+                <div class="legend-body" id="legendBody">
+                    <div class="legend-section">
+                        <div class="legend-section-title">Venue Type</div>
+                        <div class="legend-item">
+                            <div class="legend-color-box library"></div>
+                            <span>Libraries</span>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-color-box bookstore"></div>
+                            <span>Bookstores</span>
+                        </div>
+                    </div>
+                    <div class="legend-section">
+                        <div class="legend-section-title">Event Count</div>
+                        <div class="legend-size-demo">
+                            <div class="legend-pin-small">3</div>
+                            <span style="font-size: 12px; color: #666;">1-3 events</span>
+                        </div>
+                        <div class="legend-size-demo">
+                            <div class="legend-pin-medium">7</div>
+                            <span style="font-size: 12px; color: #666;">4-10 events</span>
+                        </div>
+                        <div class="legend-size-demo">
+                            <div class="legend-pin-large">15</div>
+                            <span style="font-size: 12px; color: #666;">10+ events</span>
+                        </div>
+                    </div>
+                    <div class="legend-section">
+                        <div style="font-size: 11px; color: #888; font-style: italic; line-height: 1.4;">
+                            💡 Hover over pins to see neighborhood. Click for event details.
+                        </div>
+                        <div style="font-size: 11px; color: #888; font-style: italic; line-height: 1.4; margin-top: 8px;">
+                            🔍 Zoom out to see nearby locations grouped together. Click clusters to zoom in.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        // Add legend to map container
+        const mapContainer = document.getElementById('map');
+        const existingLegend = mapContainer.querySelector('.map-legend');
+        if (!existingLegend) {
+            mapContainer.insertAdjacentHTML('beforeend', legendHTML);
+
+            // Add toggle functionality
+            const legendHeader = document.getElementById('legendHeader');
+            const legendBody = document.getElementById('legendBody');
+            const legendToggle = document.getElementById('legendToggle');
+
+            legendHeader.addEventListener('click', function() {
+                legendBody.classList.toggle('collapsed');
+                legendToggle.textContent = legendBody.classList.contains('collapsed') ? '+' : '−';
+            });
+        }
+    }
+
+    /**
+     * Initialize map view with event markers
+     */
+    function initializeMap() {
+        // Create map if it doesn't exist
+        if (!map) {
+            // Center map on Jersey City/Hoboken area
+            map = L.map('map').setView([40.7282, -74.0445], 13);
+
+            // Add CartoDB Positron tiles (free, no API key needed, cleaner design!)
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 20
+            }).addTo(map);
+
+            // Add legend to map
+            addMapLegend();
+
+            // Initialize marker cluster group
+            markerClusterGroup = L.markerClusterGroup({
+                maxClusterRadius: 60,
+                spiderfyOnMaxZoom: true,
+                showCoverageOnHover: false,
+                zoomToBoundsOnClick: true,
+                iconCreateFunction: function(cluster) {
+                    const childCount = cluster.getChildCount();
+                    let sizeClass = 'marker-cluster-small';
+                    if (childCount > 10) {
+                        sizeClass = 'marker-cluster-large';
+                    } else if (childCount > 5) {
+                        sizeClass = 'marker-cluster-medium';
+                    }
+                    return L.divIcon({
+                        html: '<div>' + childCount + '</div>',
+                        className: 'marker-cluster ' + sizeClass,
+                        iconSize: L.point(40, 40)
+                    });
+                }
+            });
+            map.addLayer(markerClusterGroup);
+        }
+
+        // Clear existing markers
+        markers.forEach(marker => markerClusterGroup.removeLayer(marker));
+        markers = [];
+        markerClusterGroup.clearLayers();
+
+        // Group events by location
+        const eventsByLocation = {};
+        currentEvents.forEach(event => {
+            // Get venue name (for matching with locations.json)
+            const venueName = getVenueKey(event);
+            if (!venueName) return;
+
+            if (!eventsByLocation[venueName]) {
+                eventsByLocation[venueName] = [];
+            }
+            eventsByLocation[venueName].push(event);
+        });
+
+        // Create markers for each location with events
+        Object.keys(eventsByLocation).forEach(venueName => {
+            const location = locationsData[venueName];
+            if (!location || !location.lat || !location.lng) {
+                console.warn(`No coordinates found for: ${venueName}`);
+                return;
+            }
+
+            const eventsAtLocation = eventsByLocation[venueName];
+
+            // Get neighborhood for this location
+            const neighborhood = getNeighborhood(venueName);
+
+            // Determine marker size based on event count
+            const eventCount = eventsAtLocation.length;
+            let sizeClass, iconSize, anchorY;
+            if (eventCount <= 3) {
+                sizeClass = 'pin-size-small';
+                iconSize = [40, 52];  // width, height (includes pointer)
+                anchorY = 52;  // Bottom of pointer
+            } else if (eventCount <= 10) {
+                sizeClass = 'pin-size-medium';
+                iconSize = [50, 62];
+                anchorY = 62;
+            } else {
+                sizeClass = 'pin-size-large';
+                iconSize = [60, 72];
+                anchorY = 72;
+            }
+
+            // Color based on venue type
+            const colorClass = location.type === 'bookstore' ? 'pin-bookstore' : 'pin-library';
+
+            // Create professional pin marker with event count
+            const icon = L.divIcon({
+                className: 'map-pin-marker-wrapper',
+                html: `
+                    <div class="map-pin-marker ${sizeClass}">
+                        <div class="pin-circle ${colorClass}">
+                            ${eventCount}
+                        </div>
+                        <div class="pin-pointer ${colorClass}"></div>
+                    </div>
+                `,
+                iconSize: iconSize,
+                iconAnchor: [iconSize[0] / 2, anchorY],
+                popupAnchor: [0, -anchorY + 10]
+            });
+
+            // Create marker with tooltip showing neighborhood
+            const marker = L.marker([location.lat, location.lng], { icon });
+
+            // Add tooltip with neighborhood (shows on hover)
+            if (neighborhood) {
+                marker.bindTooltip(neighborhood, {
+                    direction: 'top',
+                    offset: [0, -10],
+                    opacity: 0.9,
+                    className: 'custom-tooltip'
+                });
+            }
+
+            // Build improved popup content with visual hierarchy
+            const venueTypeClass = location.type === 'bookstore' ? 'bookstore' : 'library';
+            const popupId = `popup-${venueName.replace(/\s+/g, '-').replace(/[^\w-]/g, '')}`;
+
+            let popupContent = `
+                <div class="popup-header ${venueTypeClass}">
+                    <div class="popup-header-title">${venueName}</div>
+                    <div class="popup-header-subtitle">${neighborhood || location.city} • ${location.address}</div>
+                </div>
+                <div class="popup-body">
+                    <div class="popup-event-count">📅 ${eventsAtLocation.length} Upcoming Event${eventsAtLocation.length !== 1 ? 's' : ''}</div>
+            `;
+
+            // Add first 3 events to popup (always visible)
+            eventsAtLocation.slice(0, 3).forEach(event => {
+                const formattedDate = formatEventDate(event.date, event.day_of_week);
+                popupContent += `
+                    <div class="popup-event-item ${venueTypeClass}">
+                        <div class="popup-event-title">${stripHtml(event.title)}</div>
+                        <div class="popup-event-time">📅 ${formattedDate} at ${event.formatted_time}</div>
+                        <a href="${event.link}" target="_blank" rel="noopener" class="popup-event-link">
+                            View Details & Register →
+                        </a>
+                    </div>
+                `;
+            });
+
+            // If more than 3 events, add hidden container with remaining events
+            if (eventsAtLocation.length > 3) {
+                const remainingCount = eventsAtLocation.length - 3;
+                popupContent += `<div class="popup-hidden-events" id="${popupId}-hidden">`;
+
+                // Add remaining events (hidden initially)
+                eventsAtLocation.slice(3).forEach(event => {
+                    const formattedDate = formatEventDate(event.date, event.day_of_week);
+                    popupContent += `
+                        <div class="popup-event-item ${venueTypeClass}">
+                            <div class="popup-event-title">${stripHtml(event.title)}</div>
+                            <div class="popup-event-time">📅 ${formattedDate} at ${event.formatted_time}</div>
+                            <a href="${event.link}" target="_blank" rel="noopener" class="popup-event-link">
+                                View Details & Register →
+                            </a>
+                        </div>
+                    `;
+                });
+
+                popupContent += `</div>`;
+
+                // Add "Show All" button
+                popupContent += `
+                    <button class="popup-show-all-btn ${venueTypeClass}" id="${popupId}-btn" onclick="expandPopupEvents('${popupId}')">
+                        Show ${remainingCount} More Event${remainingCount !== 1 ? 's' : ''} ↓
+                    </button>
+                `;
+            }
+
+            popupContent += `</div>`;
+
+            marker.bindPopup(popupContent, {
+                maxWidth: 350,
+                minWidth: 280,
+                maxHeight: 500,
+                className: 'custom-popup'
+            });
+
+            // Add marker to cluster group
+            markerClusterGroup.addLayer(marker);
+            markers.push(marker);
+        });
+
+        // Fit map to show all markers
+        if (markers.length > 0) {
+            map.fitBounds(markerClusterGroup.getBounds().pad(0.1));
+        }
+
+        // Force map to refresh its size
+        setTimeout(() => {
+            map.invalidateSize();
+        }, 100);
+    }
+
+    /**
+     * Get venue key for matching with locations.json
+     */
+    function getVenueKey(event) {
+        // Try different fields to find the venue name
+        // Priority: venue_name (bookstores), then calendar_source (libraries)
+        let venueName = event.venue_name || event.calendar_source || event.location || event.branch;
+
+        if (!venueName) return null;
+
+        // Match against keys in locations.json
+        // Try exact match first
+        if (locationsData[venueName]) {
+            return venueName;
+        }
+
+        // Try fuzzy matching (check if location key contains the venue name or vice versa)
+        for (let key in locationsData) {
+            if (key.toLowerCase().includes(venueName.toLowerCase()) ||
+                venueName.toLowerCase().includes(key.toLowerCase())) {
+                return key;
+            }
+        }
+
+        return null;
+    }
+
+    /**
+     * Switch to list view
+     */
+    function switchToListView() {
+        listViewBtn.classList.add('active');
+        mapViewBtn.classList.remove('active');
+        results.classList.remove('hidden');
+        mapContainer.classList.add('hidden');
+    }
+
+    /**
+     * Switch to map view
+     */
+    function switchToMapView() {
+        mapViewBtn.classList.add('active');
+        listViewBtn.classList.remove('active');
+        results.classList.add('hidden');
+        mapContainer.classList.remove('hidden');
+
+        // Initialize map with current events
+        initializeMap();
+    }
+
+    /**
+     * Handle view toggle button clicks
+     */
+    listViewBtn.addEventListener('click', switchToListView);
+    mapViewBtn.addEventListener('click', switchToMapView);
 
 });

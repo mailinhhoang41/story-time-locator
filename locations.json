@@ -1,0 +1,100 @@
+{
+  "Priscilla Gardner Main Library": {
+    "address": "472 Jersey Ave, Jersey City, NJ 07302",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.7189164,
+    "lng": -74.0473875
+  },
+  "Pavonia Branch": {
+    "address": "326 8th Street, Jersey City, NJ",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.7273068,
+    "lng": -74.0479481
+  },
+  "Heights Branch": {
+    "address": "14 Zabriskie Street, Jersey City, NJ 07307",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.7456762,
+    "lng": -74.0503615
+  },
+  "Earl A. Morgan Branch (Greenville)": {
+    "address": "1841 Kennedy Boulevard, Jersey City, NJ 07305",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.703086,
+    "lng": -74.0914041
+  },
+  "Five Corners Branch": {
+    "address": "678 Newark Ave, Jersey City, NJ 07306",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.7352547,
+    "lng": -74.0595445
+  },
+  "Marion Branch": {
+    "address": "1017 West Side Avenue, Jersey City, NJ 07306",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.7341517,
+    "lng": -74.0716283
+  },
+  "West Bergen Branch": {
+    "address": "546 West Side Avenue, Jersey City, NJ",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.719426,
+    "lng": -74.082442
+  },
+  "Communipaw Branch": {
+    "address": "295 Johnston Avenue, Jersey City, NJ 07304",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.7121505,
+    "lng": -74.0565653
+  },
+  "Glenn D. Cunningham Branch": {
+    "address": "275 Martin Luther King Dr, Jersey City, NJ",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.7103575,
+    "lng": -74.0796822
+  },
+  "Miller Branch": {
+    "address": "489 Bergen Avenue, Jersey City, NJ",
+    "type": "library",
+    "city": "Jersey City",
+    "lat": 40.717906,
+    "lng": -74.076411
+  },
+  "Hoboken Public Library": {
+    "address": "500 Park Ave, Hoboken, NJ 07030",
+    "type": "library",
+    "city": "Hoboken",
+    "lat": 40.7428824,
+    "lng": -74.0322821
+  },
+  "Hoboken Public Library - Grand Street Branch": {
+    "address": "124 Grand Street, Hoboken, NJ 07030",
+    "type": "library",
+    "city": "Hoboken",
+    "lat": 40.7387897,
+    "lng": -74.0363773
+  },
+  "WORD Bookstore": {
+    "address": "29 McWilliams Place, Jersey City, NJ",
+    "type": "bookstore",
+    "city": "Jersey City",
+    "lat": 40.7281788,
+    "lng": -74.0438658
+  },
+  "Little City Books": {
+    "address": "100 Bloomfield St, Hoboken, NJ 07030",
+    "type": "bookstore",
+    "city": "Hoboken",
+    "lat": 40.73772,
+    "lng": -74.031814
+  }
+}

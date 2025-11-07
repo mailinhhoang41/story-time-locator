@@ -610,3 +610,543 @@ footer {
     flex-grow: 1;
     user-select: none;
 }
+
+/* ===== VIEW TOGGLE BUTTONS ===== */
+
+.view-toggle {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin: 20px 0;
+    padding: 10px 0;
+}
+
+.toggle-btn {
+    flex: 1;
+    max-width: 200px;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #667eea;
+    background: white;
+    border: 2px solid #667eea;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.toggle-btn:hover {
+    background: #f0f0f0;
+    transform: translateY(-2px);
+}
+
+.toggle-btn.active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+/* ===== MAP CONTAINER ===== */
+
+.map-container {
+    margin-top: 20px;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+#map {
+    height: 600px;
+    width: 100%;
+    position: relative;
+}
+
+/* Subtle blur for CartoDB tiles (they're already clean and minimal) */
+.leaflet-tile-pane {
+    filter: blur(0.5px) grayscale(20%) brightness(1.05);
+    opacity: 0.9;
+}
+
+/* Keep labels and controls crisp */
+.leaflet-control,
+.leaflet-marker-pane,
+.leaflet-popup-pane,
+.leaflet-shadow-pane {
+    filter: none !important;
+}
+
+/* Professional pin marker styling */
+.map-pin-marker {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.map-pin-marker:hover {
+    transform: translateY(-3px) scale(1.05);
+    z-index: 1000 !important;
+}
+
+/* Pin circle */
+.pin-circle {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow:
+        0 4px 12px rgba(0, 0, 0, 0.3),
+        0 0 0 3px rgba(255, 255, 255, 0.9),
+        0 8px 20px rgba(0, 0, 0, 0.15);
+    transition: all 0.2s ease;
+    font-weight: 700;
+    color: white;
+    font-size: 16px;
+}
+
+.map-pin-marker:hover .pin-circle {
+    box-shadow:
+        0 6px 20px rgba(0, 0, 0, 0.4),
+        0 0 0 4px rgba(255, 255, 255, 1),
+        0 12px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Pin pointer (teardrop shape) */
+.pin-pointer {
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 12px solid currentColor;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+}
+
+/* Color variations */
+.pin-library {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.pin-library .pin-pointer {
+    color: #667eea;
+}
+
+.pin-bookstore {
+    background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%);
+}
+
+.pin-bookstore .pin-pointer {
+    color: #06b6d4;
+}
+
+/* Size variations based on event count */
+.pin-size-small {
+    width: 40px;
+    height: 40px;
+}
+
+.pin-size-small .pin-circle {
+    font-size: 14px;
+}
+
+.pin-size-medium {
+    width: 50px;
+    height: 50px;
+}
+
+.pin-size-medium .pin-circle {
+    font-size: 16px;
+}
+
+.pin-size-large {
+    width: 60px;
+    height: 60px;
+}
+
+.pin-size-large .pin-circle {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+/* Custom tooltip styling */
+.custom-tooltip {
+    background: rgba(0, 0, 0, 0.85) !important;
+    border: none !important;
+    border-radius: 6px !important;
+    color: white !important;
+    font-weight: 600 !important;
+    font-size: 13px !important;
+    padding: 6px 12px !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+.custom-tooltip::before {
+    border-top-color: rgba(0, 0, 0, 0.85) !important;
+}
+
+/* Leaflet popup customization */
+.leaflet-popup-content-wrapper {
+    border-radius: 12px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    padding: 0;
+    overflow: hidden;
+}
+
+.leaflet-popup-content {
+    margin: 0;
+    font-family: inherit;
+    min-width: 250px;
+}
+
+.leaflet-popup-tip {
+    box-shadow: 0 3px 14px rgba(0,0,0,0.2);
+}
+
+/* Popup header with color coding */
+.popup-header {
+    padding: 16px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.popup-header.bookstore {
+    background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%);
+}
+
+.popup-header-title {
+    font-size: 17px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.popup-header-subtitle {
+    font-size: 13px;
+    opacity: 0.95;
+}
+
+/* Popup body */
+.popup-body {
+    padding: 16px;
+    background: white;
+    max-height: 450px;
+    overflow-y: auto;
+}
+
+.popup-event-count {
+    font-size: 14px;
+    font-weight: 600;
+    color: #667eea;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+/* Event items in popup */
+.popup-event-item {
+    padding: 12px;
+    margin-bottom: 8px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    border-left: 3px solid #667eea;
+}
+
+.popup-event-item.bookstore {
+    border-left-color: #06b6d4;
+}
+
+.popup-event-title {
+    font-weight: 600;
+    font-size: 14px;
+    color: #333;
+    margin-bottom: 4px;
+}
+
+.popup-event-time {
+    font-size: 12px;
+    color: #667eea;
+    margin-bottom: 6px;
+}
+
+.popup-event-link {
+    display: inline-flex;
+    align-items: center;
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 12px;
+    transition: color 0.2s ease;
+}
+
+.popup-event-link:hover {
+    color: #5568d3;
+}
+
+.popup-more-events {
+    text-align: center;
+    padding: 12px;
+    background: #f5f5f5;
+    border-radius: 8px;
+    font-size: 13px;
+    color: #666;
+    font-style: italic;
+}
+
+.popup-show-all-btn {
+    width: 100%;
+    padding: 12px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-top: 8px;
+}
+
+.popup-show-all-btn:hover {
+    background: linear-gradient(135deg, #5568d3 0%, #6a3f8f 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+}
+
+.popup-show-all-btn.bookstore {
+    background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%);
+}
+
+.popup-show-all-btn.bookstore:hover {
+    background: linear-gradient(135deg, #0891b2 0%, #0e7490 100%);
+    box-shadow: 0 4px 12px rgba(6, 182, 212, 0.3);
+}
+
+.popup-hidden-events {
+    display: none;
+}
+
+.popup-hidden-events.expanded {
+    display: block;
+}
+
+/* Floating Map Legend */
+.map-legend {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    max-width: 220px;
+}
+
+.legend-header {
+    padding: 12px 16px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+.legend-toggle {
+    font-size: 16px;
+    transition: transform 0.3s ease;
+}
+
+.legend-header:hover {
+    background: linear-gradient(135deg, #5568d3 0%, #6a3f8f 100%);
+}
+
+.legend-body {
+    padding: 14px;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.legend-body.collapsed {
+    max-height: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.legend-section {
+    margin-bottom: 16px;
+}
+
+.legend-section:last-child {
+    margin-bottom: 0;
+}
+
+.legend-section-title {
+    font-size: 12px;
+    font-weight: 700;
+    color: #667eea;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+    font-size: 13px;
+    color: #555;
+}
+
+.legend-item:last-child {
+    margin-bottom: 0;
+}
+
+.legend-color-box {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    flex-shrink: 0;
+}
+
+.legend-color-box.library {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.legend-color-box.bookstore {
+    background: linear-gradient(135deg, #06b6d4 0%, #0891b2 100%);
+}
+
+.legend-size-demo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+}
+
+.legend-pin-small,
+.legend-pin-medium,
+.legend-pin-large {
+    border-radius: 50%;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+    font-size: 10px;
+    flex-shrink: 0;
+}
+
+.legend-pin-small {
+    width: 16px;
+    height: 16px;
+}
+
+.legend-pin-medium {
+    width: 20px;
+    height: 20px;
+}
+
+.legend-pin-large {
+    width: 24px;
+    height: 24px;
+    font-size: 11px;
+}
+
+/* Mobile adjustments for map */
+@media (max-width: 768px) {
+    #map {
+        height: 400px;
+    }
+
+    .view-toggle {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .toggle-btn {
+        max-width: 100%;
+    }
+
+    .map-legend {
+        max-width: 180px;
+        font-size: 12px;
+    }
+
+    .legend-header {
+        font-size: 12px;
+        padding: 10px 12px;
+    }
+
+    .legend-body {
+        padding: 10px;
+    }
+}
+
+/* Custom cluster styling */
+.marker-cluster {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border: 4px solid rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.marker-cluster div {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    font-weight: 800;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    width: 100%;
+    height: 100%;
+}
+
+.marker-cluster-small {
+    width: 45px;
+    height: 45px;
+}
+
+.marker-cluster-small div {
+    font-size: 13px;
+}
+
+.marker-cluster-medium {
+    width: 55px;
+    height: 55px;
+}
+
+.marker-cluster-medium div {
+    font-size: 15px;
+}
+
+.marker-cluster-large {
+    width: 65px;
+    height: 65px;
+}
+
+.marker-cluster-large div {
+    font-size: 17px;
+}
+
+/* Hover effect for clusters */
+.marker-cluster:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}

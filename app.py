@@ -210,6 +210,23 @@ def search():
         return jsonify({'error': f'Search failed: {str(e)}'}), 500
 
 
+@app.route('/locations', methods=['GET'])
+def get_locations():
+    """
+    Get location coordinates for all venues (libraries and bookstores)
+
+    Returns:
+        JSON with location data including lat/lng coordinates
+    """
+    try:
+        locations_path = os.path.join(os.path.dirname(__file__), 'locations.json')
+        with open(locations_path, 'r', encoding='utf-8') as f:
+            locations = json.load(f)
+            return jsonify(locations)
+    except Exception as e:
+        return jsonify({'error': f'Failed to load locations: {str(e)}'}), 500
+
+
 @app.route('/branches/<city>', methods=['GET'])
 def get_branches(city):
     """
@@ -320,8 +337,11 @@ def get_branches(city):
                     display_name = f"{name} (Bookstore)"
                 hoboken_bookstores_display.append(display_name)
 
-            # Combine library and bookstores in one group
-            all_locations = ['Hoboken Public Library'] + hoboken_bookstores_display
+            # Combine library branches and bookstores in one group
+            all_locations = [
+                'Hoboken Public Library',
+                'Hoboken Public Library - Grand Street Branch'
+            ] + hoboken_bookstores_display
 
             groups = [
                 {

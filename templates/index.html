@@ -14,6 +14,15 @@
       gtag('config', 'G-M1Y9RY5VH7');
     </script>
 
+    <!-- Leaflet CSS for interactive maps -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
     <!-- Link to our CSS file in the static folder -->
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
@@ -185,9 +194,24 @@
             <p id="errorMessage"></p>
         </div>
 
+        <!-- View Toggle Buttons (hidden until results are shown) -->
+        <div id="viewToggle" class="view-toggle hidden">
+            <button id="listViewBtn" class="toggle-btn active">
+                📋 List View
+            </button>
+            <button id="mapViewBtn" class="toggle-btn">
+                🗺️ Map View
+            </button>
+        </div>
+
         <!-- Results Container (empty by default) -->
         <div id="results" class="results">
             <!-- Results will be inserted here by JavaScript -->
+        </div>
+
+        <!-- Map Container (hidden by default) -->
+        <div id="mapContainer" class="map-container hidden">
+            <div id="map"></div>
         </div>
 
         <!-- Footer -->
@@ -197,6 +221,14 @@
             <p class="contact">Questions or issues? Contact me at <a href="mailto:mailinh.hoang41@gmail.com">mailinh.hoang41@gmail.com</a></p>
         </footer>
     </div>
+
+    <!-- Leaflet JavaScript for interactive maps -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+
+    <!-- Leaflet MarkerCluster JavaScript -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 
     <!-- Link to our JavaScript file in the static folder -->
     <script src="{{ url_for('static', filename='script.js') }}"></script>
