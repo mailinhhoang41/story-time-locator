@@ -659,6 +659,7 @@ footer {
     height: 600px;
     width: 100%;
     position: relative;
+    touch-action: pan-x pan-y; /* Allow panning/scrolling on touch devices */
 }
 
 /* Subtle blur for CartoDB tiles (they're already clean and minimal) */
@@ -797,6 +798,7 @@ footer {
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
     padding: 0;
     overflow: hidden;
+    touch-action: auto; /* Allow scrolling within popup on mobile */
 }
 
 .leaflet-popup-content {
@@ -1131,6 +1133,17 @@ footer {
     /* Adjust popup for mobile */
     .leaflet-popup-content-wrapper {
         max-width: 90vw !important;
+    }
+
+    /* Ensure map remains scrollable on mobile */
+    #map {
+        height: 400px;
+        touch-action: pan-x pan-y !important;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .leaflet-container {
+        touch-action: pan-x pan-y !important;
     }
 
     .popup-header-title {

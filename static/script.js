@@ -630,6 +630,13 @@ document.addEventListener('DOMContentLoaded', function() {
                 map.panTo(map.unproject(px), { animate: true });
             });
 
+            // Enable touch scrolling on mobile
+            if (window.innerWidth <= 768) {
+                map.dragging.enable();
+                map.touchZoom.enable();
+                map.scrollWheelZoom.enable();
+            }
+
             // Add legend to map
             addMapLegend();
 
@@ -662,9 +669,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // Handle cluster click to ensure proper zoom behavior on mobile
             markerClusterGroup.on('clusterclick', function (a) {
-                // On mobile, prevent default and manually control zoom
+                // On mobile, zoom in and re-enable dragging
                 if (window.innerWidth <= 768) {
                     a.layer.zoomToBounds({ padding: [50, 50] });
+                    // Re-enable dragging after cluster click
+                    setTimeout(function() {
+                        map.dragging.enable();
+                    }, 100);
                 }
             });
 
