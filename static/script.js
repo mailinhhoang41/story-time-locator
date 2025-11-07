@@ -639,8 +639,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 spiderfyOnMaxZoom: true,
                 showCoverageOnHover: false,
                 zoomToBoundsOnClick: true,
-                disableClusteringAtZoom: 16, // Disable clustering when zoomed in close
-                spiderfyDistanceMultiplier: 1.5, // More space between spiderfied markers on mobile
+                disableClusteringAtZoom: 17, // Disable clustering when zoomed in close
+                spiderfyDistanceMultiplier: 2, // More space between spiderfied markers on mobile
+                animate: true,
+                animateAddingMarkers: false,
+                removeOutsideVisibleBounds: false, // Keep markers in memory for smoother interaction
                 iconCreateFunction: function(cluster) {
                     const childCount = cluster.getChildCount();
                     let sizeClass = 'marker-cluster-small';
@@ -656,6 +659,15 @@ document.addEventListener('DOMContentLoaded', function() {
                     });
                 }
             });
+
+            // Handle cluster click to ensure proper zoom behavior on mobile
+            markerClusterGroup.on('clusterclick', function (a) {
+                // On mobile, prevent default and manually control zoom
+                if (window.innerWidth <= 768) {
+                    a.layer.zoomToBounds({ padding: [50, 50] });
+                }
+            });
+
             map.addLayer(markerClusterGroup);
         }
 

@@ -1158,6 +1158,9 @@ footer {
     border: 4px solid rgba(255, 255, 255, 0.9);
     border-radius: 50%;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    touch-action: manipulation; /* Prevent double-tap zoom on mobile */
+    -webkit-tap-highlight-color: transparent; /* Remove tap highlight on iOS */
 }
 
 .marker-cluster div {
@@ -1171,6 +1174,7 @@ footer {
     border-radius: 50%;
     width: 100%;
     height: 100%;
+    pointer-events: none; /* Let clicks pass through to parent */
 }
 
 .marker-cluster-small {
@@ -1204,4 +1208,9 @@ footer {
 .marker-cluster:hover {
     transform: scale(1.1);
     box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+}
+
+/* Active/tap state for mobile */
+.marker-cluster:active {
+    transform: scale(0.95);
 }
