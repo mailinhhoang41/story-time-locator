@@ -622,15 +622,25 @@ document.addEventListener('DOMContentLoaded', function() {
                 maxZoom: 20
             }).addTo(map);
 
+            // Configure map for better mobile behavior
+            map.on('popupopen', function(e) {
+                // Prevent map from auto-zooming when popup opens on mobile
+                const px = map.project(e.popup._latlng);
+                px.y -= e.popup._container.clientHeight / 2;
+                map.panTo(map.unproject(px), { animate: true });
+            });
+
             // Add legend to map
             addMapLegend();
 
-            // Initialize marker cluster group
+            // Initialize marker cluster group with mobile-friendly settings
             markerClusterGroup = L.markerClusterGroup({
                 maxClusterRadius: 60,
                 spiderfyOnMaxZoom: true,
                 showCoverageOnHover: false,
                 zoomToBoundsOnClick: true,
+                disableClusteringAtZoom: 16, // Disable clustering when zoomed in close
+                spiderfyDistanceMultiplier: 1.5, // More space between spiderfied markers on mobile
                 iconCreateFunction: function(cluster) {
                     const childCount = cluster.getChildCount();
                     let sizeClass = 'marker-cluster-small';
@@ -787,11 +797,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
             popupContent += `</div>`;
 
+            // Configure popup with mobile-friendly settings
+            const isMobile = window.innerWidth <= 768;
             marker.bindPopup(popupContent, {
-                maxWidth: 350,
-                minWidth: 280,
+                maxWidth: isMobile ? 300 : 350,
+                minWidth: isMobile ? 250 : 280,
                 maxHeight: 500,
-                className: 'custom-popup'
+                className: 'custom-popup',
+                autoPan: true,
+                autoPanPadding: [50, 50],
+                closeButton: true,
+                autoClose: false, // Don't auto-close when clicking elsewhere on mobile
+                keepInView: true // Keep popup visible when panning
             });
 
             // Add marker to cluster group
