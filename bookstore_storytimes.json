@@ -1,6 +1,50 @@
 [
   {
     "venue_type": "bookstore",
+    "venue_name": "WORD Bookstore",
+    "city": "Jersey City",
+    "location": "WORD Bookstore, 123 Newark Ave, Jersey City, NJ",
+    "title": "Story Time with Raquel D'Apice",
+    "link": "https://withfriends.co/event/26908517/story_time_with_raquel_dapice",
+    "description": "Join us for an engaging story time with author Raquel D'Apice at WORD Bookstore in Jersey City.",
+    "full_description": "Join us for an engaging story time with author Raquel D'Apice at WORD Bookstore in Jersey City.",
+    "day_of_week": "Friday",
+    "date": "2025-11-15",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:15:00",
+    "formatted_end_time": "11:15 AM",
+    "registration_link": "https://withfriends.co/event/26908517/story_time_with_raquel_dapice",
+    "audience": "All Ages",
+    "categories": [
+      "Bookstore Events",
+      "Storytime Events"
+    ]
+  },
+  {
+    "venue_type": "bookstore",
+    "venue_name": "WORD Bookstore",
+    "city": "Jersey City",
+    "location": "WORD Bookstore, 123 Newark Ave, Jersey City, NJ",
+    "title": "Jersey City Storytime with David Ezra Stein",
+    "link": "https://withfriends.co/event/26975076/jersey_city_storytime_with_david_ezra_stein",
+    "description": "Join us for a special story time with acclaimed author and illustrator David Ezra Stein at WORD Bookstore in Jersey City.",
+    "full_description": "Join us for a special story time with acclaimed author and illustrator David Ezra Stein at WORD Bookstore in Jersey City.",
+    "day_of_week": "Friday",
+    "date": "2025-11-29",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:15:00",
+    "formatted_end_time": "11:15 AM",
+    "registration_link": "https://withfriends.co/event/26975076/jersey_city_storytime_with_david_ezra_stein",
+    "audience": "All Ages",
+    "categories": [
+      "Bookstore Events",
+      "Storytime Events"
+    ]
+  },
+  {
+    "venue_type": "bookstore",
     "venue_name": "Little City Books",
     "city": "Hoboken",
     "location": "Little City Books, 100 Bloomfield St, Hoboken, NJ",
