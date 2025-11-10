@@ -827,14 +827,51 @@ document.addEventListener('DOMContentLoaded', function() {
                 minWidth: isMobile ? 250 : 280,
                 maxHeight: isMobile ? window.innerHeight * 0.7 : 500, // 70% of screen height on mobile
                 className: 'custom-popup',
-                autoPan: true,
+                autoPan: isMobile ? false : true, // CRITICAL: Disable autoPan on mobile to prevent scroll bounce
                 autoPanPadding: isMobile ? [20, 20] : [50, 50],
                 closeButton: true,
-                autoClose: false, // Don't auto-close when clicking elsewhere on mobile
-                keepInView: true, // Keep popup visible when panning
-                autoPanPaddingTopLeft: [10, 80], // Extra padding on top for mobile header
-                autoPanPaddingBottomRight: [10, 10]
+                autoClose: false,
+                keepInView: false // Disable keepInView on mobile to prevent repositioning
             });
+
+            // Add touch event handlers to popup for mobile scrolling
+            if (isMobile) {
+                marker.on('popupopen', function(e) {
+                    const popup = e.popup;
+                    const popupElement = popup._container;
+                    const popupBody = popupElement.querySelector('.popup-body');
+
+                    if (popupBody) {
+                        let isScrolling = false;
+
+                        // Detect when user starts scrolling inside popup
+                        popupBody.addEventListener('touchstart', function(e) {
+                            isScrolling = true;
+                            // Stop event from reaching map
+                            e.stopPropagation();
+                        }, { passive: true });
+
+                        popupBody.addEventListener('touchmove', function(e) {
+                            // Allow scrolling within popup, prevent map from moving
+                            e.stopPropagation();
+                        }, { passive: false });
+
+                        popupBody.addEventListener('touchend', function(e) {
+                            isScrolling = false;
+                            e.stopPropagation();
+                        }, { passive: true });
+
+                        // Prevent map from panning when touching popup
+                        popupElement.addEventListener('touchstart', function(e) {
+                            map.dragging.disable();
+                        }, { passive: true });
+
+                        popupElement.addEventListener('touchend', function(e) {
+                            map.dragging.enable();
+                        }, { passive: true });
+                    }
+                });
+            }
 
             // Add marker to cluster group
             markerClusterGroup.addLayer(marker);

@@ -869,6 +869,12 @@ footer {
         -webkit-overflow-scrolling: touch !important;
         padding-bottom: 40px; /* Extra padding at bottom on mobile */
         overscroll-behavior: contain; /* Prevent scroll from affecting map */
+        overscroll-behavior-y: contain; /* Specifically for vertical scroll */
+        position: relative; /* Create positioning context */
+        scroll-behavior: smooth; /* Smooth scrolling */
+        /* Prevent scroll snapping back */
+        scroll-snap-type: none;
+        -webkit-overflow-scrolling: touch;
     }
 }
 
