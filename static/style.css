@@ -817,6 +817,7 @@ footer {
     padding: 16px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
+    flex-shrink: 0; /* Don't let header shrink */
 }
 
 .popup-header.bookstore {
@@ -834,6 +835,22 @@ footer {
     opacity: 0.95;
 }
 
+/* Make header smaller on mobile to give more room for content */
+@media (max-width: 768px) {
+    .popup-header {
+        padding: 12px;
+    }
+
+    .popup-header-title {
+        font-size: 15px;
+        margin-bottom: 2px;
+    }
+
+    .popup-header-subtitle {
+        font-size: 12px;
+    }
+}
+
 /* Popup body */
 .popup-body {
     padding: 16px;
@@ -847,9 +864,11 @@ footer {
 /* Mobile: smaller max-height to fit screen */
 @media (max-width: 768px) {
     .popup-body {
-        max-height: 350px; /* Increased from 300px to give more room */
-        overflow-y: auto;
-        padding-bottom: 30px; /* More padding at bottom on mobile */
+        max-height: calc(75vh - 120px); /* 75vh minus header height (~70px) and margins */
+        overflow-y: scroll !important; /* Force scrollbar to always show */
+        -webkit-overflow-scrolling: touch !important;
+        padding-bottom: 40px; /* Extra padding at bottom on mobile */
+        overscroll-behavior: contain; /* Prevent scroll from affecting map */
     }
 }
 
@@ -1147,13 +1166,17 @@ footer {
     /* Adjust popup for mobile */
     .leaflet-popup-content-wrapper {
         max-width: 90vw !important;
-        max-height: 75vh !important; /* Increased from 70vh to 75vh for more room */
+        max-height: 80vh !important; /* Increased to 80vh for even more room */
         overflow: visible !important;
+        display: flex !important;
+        flex-direction: column !important;
     }
 
     .leaflet-popup-content {
-        max-height: 75vh !important;
+        max-height: 80vh !important;
         overflow: visible !important;
+        display: flex !important;
+        flex-direction: column !important;
     }
 
     /* Make sure button is visible on mobile */
@@ -1162,6 +1185,12 @@ footer {
         padding: 14px 12px; /* Slightly more padding for easier tapping */
         margin-top: 12px;
         margin-bottom: 12px;
+    }
+
+    /* Force proper scrolling container */
+    .popup-body {
+        flex: 1 1 auto !important;
+        min-height: 0 !important; /* Critical for flexbox scrolling */
     }
 
     /* Ensure map remains scrollable on mobile */
