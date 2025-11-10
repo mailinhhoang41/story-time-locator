@@ -859,22 +859,20 @@ footer {
     max-height: 450px;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+    overscroll-behavior-y: contain; /* Prevent scroll from bouncing to parent */
 }
 
 /* Mobile: smaller max-height to fit screen */
 @media (max-width: 768px) {
     .popup-body {
-        max-height: calc(75vh - 120px); /* 75vh minus header height (~70px) and margins */
+        max-height: calc(70vh - 100px); /* 70vh minus header height and margins for proper fit */
         overflow-y: scroll !important; /* Force scrollbar to always show */
         -webkit-overflow-scrolling: touch !important;
-        padding-bottom: 40px; /* Extra padding at bottom on mobile */
+        padding-bottom: 80px !important; /* CRITICAL: Large padding so button is always accessible */
         overscroll-behavior: contain; /* Prevent scroll from affecting map */
         overscroll-behavior-y: contain; /* Specifically for vertical scroll */
         position: relative; /* Create positioning context */
         scroll-behavior: smooth; /* Smooth scrolling */
-        /* Prevent scroll snapping back */
-        scroll-snap-type: none;
-        -webkit-overflow-scrolling: touch;
     }
 }
 

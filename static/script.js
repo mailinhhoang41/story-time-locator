@@ -842,32 +842,33 @@ document.addEventListener('DOMContentLoaded', function() {
                     const popupBody = popupElement.querySelector('.popup-body');
 
                     if (popupBody) {
-                        let isScrolling = false;
-
-                        // Detect when user starts scrolling inside popup
-                        popupBody.addEventListener('touchstart', function(e) {
-                            isScrolling = true;
-                            // Stop event from reaching map
-                            e.stopPropagation();
-                        }, { passive: true });
-
-                        popupBody.addEventListener('touchmove', function(e) {
-                            // Allow scrolling within popup, prevent map from moving
-                            e.stopPropagation();
-                        }, { passive: false });
-
-                        popupBody.addEventListener('touchend', function(e) {
-                            isScrolling = false;
-                            e.stopPropagation();
-                        }, { passive: true });
-
-                        // Prevent map from panning when touching popup
+                        // Disable map dragging when touching popup content
+                        // This prevents the map from moving when trying to scroll the popup
                         popupElement.addEventListener('touchstart', function(e) {
                             map.dragging.disable();
+                            map.scrollWheelZoom.disable();
                         }, { passive: true });
 
                         popupElement.addEventListener('touchend', function(e) {
                             map.dragging.enable();
+                            map.scrollWheelZoom.enable();
+                        }, { passive: true });
+
+                        // Enable smooth scrolling in popup body with proper touch handling
+                        // Use passive: true to allow browser's native scroll optimization
+                        popupBody.addEventListener('touchstart', function(e) {
+                            // Don't propagate to map, but allow native scroll
+                            e.stopPropagation();
+                        }, { passive: true });
+
+                        popupBody.addEventListener('touchmove', function(e) {
+                            // CRITICAL: Use passive: true to allow smooth native scrolling
+                            // Only stop propagation to prevent map from moving
+                            e.stopPropagation();
+                        }, { passive: true });
+
+                        popupBody.addEventListener('touchend', function(e) {
+                            e.stopPropagation();
                         }, { passive: true });
                     }
                 });
