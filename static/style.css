@@ -797,7 +797,7 @@ footer {
     border-radius: 12px;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
     padding: 0;
-    overflow: hidden;
+    overflow: visible; /* Changed from hidden to allow scrolling */
     touch-action: auto; /* Allow scrolling within popup on mobile */
 }
 
@@ -805,6 +805,7 @@ footer {
     margin: 0;
     font-family: inherit;
     min-width: 250px;
+    overflow: visible; /* Allow inner content to scroll */
 }
 
 .leaflet-popup-tip {
@@ -839,6 +840,15 @@ footer {
     background: white;
     max-height: 450px;
     overflow-y: auto;
+    -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+}
+
+/* Mobile: smaller max-height to fit screen */
+@media (max-width: 768px) {
+    .popup-body {
+        max-height: 300px; /* Smaller on mobile so it doesn't go off-screen */
+        overflow-y: auto;
+    }
 }
 
 .popup-event-count {
@@ -1133,6 +1143,13 @@ footer {
     /* Adjust popup for mobile */
     .leaflet-popup-content-wrapper {
         max-width: 90vw !important;
+        max-height: 70vh !important; /* Don't let popup take more than 70% of screen height */
+        overflow: visible !important;
+    }
+
+    .leaflet-popup-content {
+        max-height: 70vh !important;
+        overflow: visible !important;
     }
 
     /* Ensure map remains scrollable on mobile */

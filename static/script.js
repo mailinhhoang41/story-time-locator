@@ -825,13 +825,15 @@ document.addEventListener('DOMContentLoaded', function() {
             marker.bindPopup(popupContent, {
                 maxWidth: isMobile ? 300 : 350,
                 minWidth: isMobile ? 250 : 280,
-                maxHeight: 500,
+                maxHeight: isMobile ? window.innerHeight * 0.7 : 500, // 70% of screen height on mobile
                 className: 'custom-popup',
                 autoPan: true,
-                autoPanPadding: [50, 50],
+                autoPanPadding: isMobile ? [20, 20] : [50, 50],
                 closeButton: true,
                 autoClose: false, // Don't auto-close when clicking elsewhere on mobile
-                keepInView: true // Keep popup visible when panning
+                keepInView: true, // Keep popup visible when panning
+                autoPanPaddingTopLeft: [10, 80], // Extra padding on top for mobile header
+                autoPanPaddingBottomRight: [10, 10]
             });
 
             // Add marker to cluster group
