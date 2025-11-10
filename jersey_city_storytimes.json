@@ -1,295 +1,5 @@
 [
   {
-    "title": "Bonetti Department Closure",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 3:00pm - 6:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>The Bonetti Department will be closed from 3-6 pm for our Halloween Parade; please join us in the 4th Floor Multipurpose Room at 3:30 pm!&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15448129",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "18:00:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "October"
-    ]
-  },
-  {
-    "title": "Halloween Parade",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML - Fourth Floor Multipurpose Room<br/>  <p>Come show off your costume at the library! Doors open 3:30 pm, parade starts at 4 pm!&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15069878",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "PGML - Fourth Floor Multipurpose Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "October"
-    ]
-  },
-  {
-    "title": "Fun Fridays / Divertido Viernes",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Friday, October 31, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for fun fridays.</p>\n\n<p>&Uacute;nete a nosotros para viernes de diversion.</p>\n\n<p>Legos, Board Games, Chess, Checkers, Nintendo switch and much more.&nbsp;&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/14375142",
-    "date": "2025-10-31",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:30:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > All-Ages Events",
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Fun and Games Events",
-      "Popular Events > Social Gatherings"
-    ]
-  },
-  {
-    "title": "Fall Storytime at Biblioteca Criolla",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 10:15am - 11:15am<br/> <strong>Presenter:</strong> Ms. Stacy<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Bilingual Story Hour (hora de cuentos) with special Guest Ms. Stacey</p>\n\n<p>Stories, Songs, and Fun in English &amp; Spanish!</p>",
-    "link": "https://jclibrary.libcal.com/event/15226246",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "10:15:00",
-    "formatted_time": "10:15 AM",
-    "end_time": "11:15:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Little Builders Club! ¡Club de pequeños con constructores!",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for fun time to create and build new things. /&nbsp;&Uacute;nase a nosotros para divertirse creando y construyendo cosas nuevas.</p>\n\n<p>Ages | Edad 1-5</p>\n\n<p>Every Monday | Cada Lunes</p>\n\n<p>September | Septiembre 15 - December | Diciembre 15</p>\n\n<p>11:00AM- 12:00PM</p>",
-    "link": "https://jclibrary.libcal.com/event/15387137",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "Crafting with Ms. Julie",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to work on a special craft with Ms. Julie!&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15269307",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November"
-    ]
-  },
-  {
-    "title": "Dia de los Muertos Art Workshop",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Stephanie<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Juntanos con Biblioteca Criolla para aprender del Dia de los Muertos y crear unas calaveras de colores con Stephanie. Join Biblioteca Criolla to learn about Dia de los Muertos and create colorful sugar skulls with Stephanie.&nbsp;</p>\n\n<p>For ages 6 and up</p>",
-    "link": "https://jclibrary.libcal.com/event/15564184",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events",
-      "Popular Events > Cultural Celebrations",
-      "Popular Events > Family Events",
-      "Popular Events > Teen Programs"
-    ]
-  },
-  {
-    "title": "Kids Book Club",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join Biblioteca Criolla&#39;s kids book club. Share what you&#39;ve been reading, and make new friends! Club Meets the first Monday of every month</p>",
-    "link": "https://jclibrary.libcal.com/event/15240762",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "16:30:00",
-    "formatted_time": "04:30 PM",
-    "end_time": "17:30:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events",
-      "September > International Literacy Day - (8th)"
-    ]
-  },
-  {
-    "title": "Day of the Dead Party",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 5:30pm - 7:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us for a fun event with face painting and watch Disney&#39;s Coco!</p>",
-    "link": "https://jclibrary.libcal.com/event/15407628",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "17:30:00",
-    "formatted_time": "05:30 PM",
-    "end_time": "19:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November",
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "Storytime",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Come sing, dance, and listen to stories!</p>",
-    "link": "https://jclibrary.libcal.com/event/14900218",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Storytime Events",
-      "September"
-    ]
-  },
-  {
-    "title": "Fall Lanterns Craft",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Must be 5+ to participate&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15269394",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November"
-    ]
-  },
-  {
-    "title": "Craft Workshop | Taller de Manualidades",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/> <strong>Presenter:</strong> Amanda Dominguez<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p data-end=\"332\" data-start=\"248\">🎨&nbsp;<strong data-end=\"275\" data-start=\"253\">CALLING ALL CRAFTERS</strong>&nbsp;✂️<br data-end=\"283\" data-start=\"280\" />\n&nbsp;</p>\n\n<p data-end=\"537\" data-start=\"423\">Join us for a <strong data-end=\"475\" data-start=\"437\">creative and fun-filled craft workshop</strong> celebrating learning, imagination, and creative reuse!</p>\n\n<p data-end=\"725\" data-start=\"539\"><strong data-end=\"559\" data-start=\"539\">What&rsquo;s in Store?</strong><br data-end=\"562\" data-start=\"559\" />\n✨ Crafts made from <strong data-end=\"602\" data-start=\"581\">recycled items</strong><br data-end=\"605\" data-start=\"602\" />\n🎨 Beautiful <strong data-end=\"637\" data-start=\"618\">fine art pieces</strong><strong data-end=\"664\" data-start=\"650\">&nbsp;</strong><br data-end=\"667\" data-start=\"664\" />\n🧸 Adorable <strong data-end=\"694\" data-start=\"679\">plush items</strong><br data-end=\"697\" data-start=\"694\" />\n🍬 Homemade <strong data-end=\"725\" data-is-only-node=\"\" data-start=\"709\">sweet treats</strong></p>\n\n<p data-end=\"794\" data-start=\"727\">Perfect for families, young creators, and craft lovers of all ages!</p>\n\n<p data-end=\"913\" data-start=\"796\">🌿 Learn. Create. Celebrate!</p>\n\n<p data-end=\"168\" data-start=\"64\">🎨 <strong data-end=\"102\" data-start=\"67\">Taller de Manualidades &quot;CALLING&quot;</strong> ✂️<br data-end=\"108\" data-start=\"105\" />\n&nbsp;</p>\n\n<p data-end=\"314\" data-start=\"170\">&iexcl;Acomp&aacute;&ntilde;anos en un taller de manualidades creativa y divertida que celebra el aprendizaje, la imaginaci&oacute;n y la reutilizaci&oacute;n creativa!</p>\n\n<p data-end=\"471\" data-start=\"316\"><strong data-end=\"337\" data-start=\"316\">&iquest;Qu&eacute; encontrar&aacute;s?</strong><br data-end=\"340\" data-start=\"337\" />\n✨ Manualidades hechas con materiales reciclados<br data-end=\"390\" data-start=\"387\" />\n🎨 Hermosas piezas de arte<br data-end=\"419\" data-start=\"416\" />\n🧸 Adorables peluches<br data-end=\"443\" data-start=\"440\" />\n🍬 Deliciosos dulces caseros</p>\n\n<p data-end=\"566\" data-start=\"473\">&iexcl;Perfecto para familias, j&oacute;venes creadores y amantes de las manualidades de todas las edades!</p>\n\n<p data-end=\"595\" data-start=\"568\">🌿 &iexcl;Aprende. Crea. Celebra!</p>\n\n<p data-end=\"913\" data-start=\"796\">&nbsp;</p>\n",
-    "link": "https://jclibrary.libcal.com/event/15160549",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "16:00:00",
-    "formatted_time": "04:00 PM",
-    "end_time": "17:00:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > All-Ages Events",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Teen Programs"
-    ]
-  },
-  {
-    "title": "Flamenco Classes",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Natallia Basava<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p data-end=\"339\" data-start=\"53\"><strong data-end=\"75\" data-start=\"53\">Discover Flamenco!</strong><br data-end=\"78\" data-start=\"75\" />\nJoin us for a dynamic and engaging Flamenco dance class where you&#39;ll learn the essential techniques of this passionate and vibrant dance form! This class will focus on fundamental exercises to help you master footwork, body posture, and hand and arm movements.</p>\n\n<p data-end=\"529\" data-start=\"341\">Whether you&#39;re a complete beginner or have some dance experience,&nbsp;<strong data-end=\"448\" data-start=\"407\">no prior dance background is required</strong>&mdash;everyone is welcome! Classes are open to&nbsp;<strong data-end=\"527\" data-start=\"490\">adults and children ages 9 and up</strong>.</p>\n\n<p data-end=\"529\" data-start=\"341\">THESE CLASSES ARE THE PART OF &quot;INVITATION TO FLAMENCO&quot; PROGRAM, SUPPORTED BY PUBLIC FUNDS FROM THE JERSEY CITY ARTS AND CULTURE TRUST FUND</p>\n\n<p data-end=\"652\" data-start=\"531\"><strong data-end=\"556\" data-start=\"531\">Bilingual instruction</strong>&nbsp;will be provided in both&nbsp;<strong data-end=\"605\" data-start=\"582\">English and Spanish</strong>&nbsp;to ensure everyone feels comfortable learning.</p>\n\n<p data-end=\"726\" data-start=\"654\">Classes will be taught by the talented instructor,&nbsp;<strong data-end=\"724\" data-start=\"705\">Natallia Basava</strong>.</p>\n\n<p data-end=\"726\" data-start=\"654\">Every Thursdays</p>\n\n<p data-end=\"726\" data-start=\"654\">At Biblioteca Criolla (4th Fl) in the PG Main Library&nbsp;</p>\n\n<p data-end=\"726\" data-start=\"654\">472 Jersey Ave | Jersey City, NJ 07302&nbsp; &nbsp;-&nbsp; &nbsp;201-547-4541</p>\n",
-    "link": "https://jclibrary.libcal.com/event/15236532",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "17:00:00",
-    "formatted_time": "05:00 PM",
-    "end_time": "18:00:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Children (6-11)",
-    "categories": [
-      "October > Hispanic Heritage Month (Sep 15 - Oct 15)",
-      "Popular Events > All-Ages Events",
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Music and Dance Events",
-      "Popular Events > Teen Programs"
-    ]
-  },
-  {
-    "title": "Leather Jewelry Making",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 5:30pm - 6:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Ages 8 and up only&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15269447",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "17:30:00",
-    "formatted_time": "05:30 PM",
-    "end_time": "18:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November"
-    ]
-  },
-  {
-    "title": "Fun Fridays / Divertido Viernes",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Friday, November 7, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for fun fridays.</p>\n\n<p>&Uacute;nete a nosotros para viernes de diversion.</p>\n\n<p>Legos, Board Games, Chess, Checkers, Nintendo switch and much more.&nbsp;&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/14375143",
-    "date": "2025-11-07",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:30:00",
-    "location": "PGML-Biblioteca Criolla",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > All-Ages Events",
-      "Popular Events > Biblioteca Criolla Events",
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Fun and Games Events",
-      "Popular Events > Social Gatherings"
-    ]
-  },
-  {
     "title": "Fall Storytime at Biblioteca Criolla",
     "calendar_source": "Priscilla Gardner Main Library",
     "calendar_id": 17419,
@@ -637,6 +347,27 @@
     ]
   },
   {
+    "title": "ADULT HEALTH SCREENINGS: Blood Sugar and Blood Pressure Readings with Presentation!",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, November 19, 2025<br/> <strong>Time:</strong> 3:30pm - 6:00pm<br/>  <strong>Location:</strong>  PGML Conference Room PGML 311<br/>  <p>Join us as we host RWJBarnabas and #HealthierJC for their monthly health and wellness screenings and presentation. They will have a 30-minute presentation on Diabetes.</p>\n\n<p><strong>The presentation will be held from 5 - 5:30PM.</strong></p>\n\n<p><strong>Health screenings will include blood sugar and blood pressure readings.</strong></p>",
+    "link": "https://jclibrary.libcal.com/event/15675842",
+    "date": "2025-11-19",
+    "day_of_week": "Wednesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "18:00:00",
+    "location": "PGML Conference Room PGML 311",
+    "audience": "Adults (19+)",
+    "categories": [
+      "November",
+      "Popular Events",
+      "Popular Events > Educational Workshops",
+      "Popular Events > Health and Wellness Events",
+      "Popular Events > Older Adults Events"
+    ]
+  },
+  {
     "title": "Craft Workshop | Taller de Manualidades",
     "calendar_source": "Priscilla Gardner Main Library",
     "calendar_id": 17419,
@@ -735,6 +466,28 @@
       "Popular Events > Family Events",
       "Popular Events > Fun and Games Events",
       "Popular Events > Social Gatherings"
+    ]
+  },
+  {
+    "title": "FREE Vaccine Clinic",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Saturday, November 22, 2025<br/> <strong>Time:</strong> 10:00am - 2:00pm<br/>  <strong>Location:</strong>  PGML Multipurpose Room PGML 415<br/>  <p>Join Priscilla Gardner Main Library as they welcome the Jersey City Department of Health and Hudson Regional Health Commission to provide a&nbsp;<strong>Free&nbsp;Vaccine Clinic</strong> to the residents of Hudson County.</p>\n\n<p>Following vaccinations are available:</p>\n\n<ul>\n\t<li>Flu Vaccine</li>\n\t<li>Covid-19 Vaccine (Pfizer or Moderna)</li>\n</ul>\n\n<p>Blood pressure and blood sugar screenings will be provided, as well.&nbsp;</p>\n\n<p><b>Registration Required. If bringing a minor (under the age of 18) please specify age and what vaccine (Flu or Covid-19) you want them to receive.&nbsp;</b></p>",
+    "link": "https://jclibrary.libcal.com/event/15702814",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "10:00:00",
+    "formatted_time": "10:00 AM",
+    "end_time": "14:00:00",
+    "location": "PGML Multipurpose Room PGML 415",
+    "audience": "Children (6-11)",
+    "categories": [
+      "November",
+      "Popular Events",
+      "Popular Events > All-Ages Events",
+      "Popular Events > Children Events",
+      "Popular Events > Health and Wellness Events",
+      "Popular Events > Older Adults Events"
     ]
   },
   {
@@ -869,139 +622,438 @@
     ]
   },
   {
-    "title": "Musical Theater Workshop",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Saturday, November 1, 2025<br/> <strong>Time:</strong> 9:00am - 11:00am<br/>  <strong>Location:</strong>  Earl A Morgan Auditorium<br/>  <p>Musical Workshop: Three Little Pigs! Starting Saturday, September 13 until November 22 at 9 am to 11 am.</p>",
-    "link": "https://jclibrary.libcal.com/event/15334868",
-    "date": "2025-11-01",
-    "day_of_week": "Saturday",
-    "start_time": "09:00:00",
-    "formatted_time": "09:00 AM",
-    "end_time": "11:00:00",
-    "location": "Earl A Morgan Auditorium",
+    "title": "Fall Storytime at Biblioteca Criolla",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 10:15am - 11:15am<br/> <strong>Presenter:</strong> Ms. Stacy<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Bilingual Story Hour (hora de cuentos) with special Guest Ms. Stacey</p>\n\n<p>Stories, Songs, and Fun in English &amp; Spanish!</p>",
+    "link": "https://jclibrary.libcal.com/event/15226250",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "10:15:00",
+    "formatted_time": "10:15 AM",
+    "end_time": "11:15:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Little Builders Club! ¡Club de pequeños con constructores!",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for fun time to create and build new things. /&nbsp;&Uacute;nase a nosotros para divertirse creando y construyendo cosas nuevas.</p>\n\n<p>Ages | Edad 1-5</p>\n\n<p>Every Monday | Cada Lunes</p>\n\n<p>September | Septiembre 15 - December | Diciembre 15</p>\n\n<p>11:00AM- 12:00PM</p>",
+    "link": "https://jclibrary.libcal.com/event/15387141",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events"
+    ]
+  },
+  {
+    "title": "Crafting with Ms. Julie!",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to make a special craft with Ms. Julie!</p>",
+    "link": "https://jclibrary.libcal.com/event/15445392",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "PGML- Bonetti Room",
     "audience": "Children (6-11)",
     "categories": [
-      "September"
+      "December"
     ]
   },
   {
-    "title": "Pre-School Storytime",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to wiggle, giggle, and explore the world of stories! Preschool Story Time is a lively, 30-minute program filled with picture books, rhymes, songs, and playful activities designed to spark curiosity and build early learning skills. This engaging experience supports language development and school readiness in a fun, social setting. Caregivers are welcome to join in the fun too!</p>\n\n<h2 style=\"font-style:italic;\">&nbsp;</h2>\n\n<h2 style=\"font-style:italic;\"><span style=\"color:#a52a2a;\"><strong>*CLASS VISITS MUST BE SCHEDULED IN ADVANCE*</strong></span></h2>\n",
-    "link": "https://jclibrary.libcal.com/event/15120268",
-    "date": "2025-11-03",
+    "title": "Kids Book Club",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join Biblioteca Criolla&#39;s kids book club. Share what you&#39;ve been reading, and make new friends! Club Meets the first Monday of every month</p>",
+    "link": "https://jclibrary.libcal.com/event/15240763",
+    "date": "2025-12-01",
     "day_of_week": "Monday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Pre-School Storytime",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to wiggle, giggle, and explore the world of stories! Preschool Story Time is a lively, 30-minute program filled with picture books, rhymes, songs, and playful activities designed to spark curiosity and build early learning skills. This engaging experience supports language development and school readiness in a fun, social setting. Caregivers are welcome to join in the fun too!</p>\n\n<h2 style=\"font-style:italic;\">&nbsp;</h2>\n\n<h2 style=\"font-style:italic;\"><span style=\"color:#a52a2a;\"><strong>*CLASS VISITS MUST BE SCHEDULED IN ADVANCE*</strong></span></h2>\n",
-    "link": "https://jclibrary.libcal.com/event/15120269",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Kidokinetics: Let's Get Active At The Library!",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>An engaging introduction to sports designed to motivate children to be active and build confidence. The program includes a warm-up, introduction of a new sport or activity, free play, a cool-down session, and a lesson on age-appropriate anatomy and physiology. Incorporating music into movement for all ages is encouraged, enhancing listening and memory skills while enhancing the overall enjoyment of the experience.&nbsp;</p>\n\n<p><strong>Ages 6-11</strong></p>",
-    "link": "https://jclibrary.libcal.com/event/15272191",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
     "start_time": "16:30:00",
     "formatted_time": "04:30 PM",
     "end_time": "17:30:00",
-    "location": "Earl Morgan Branch",
+    "location": "PGML-Biblioteca Criolla",
     "audience": "Children (6-11)",
     "categories": [
-      "November"
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "September > International Literacy Day - (8th)"
     ]
   },
   {
-    "title": "Financially Lit Party: Financial Literacy Family Engagement",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Friday, November 7, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Join us and discover how the entire children can become financially savvy, with money-saving hacks and investment tips starting from a single penny!</p>",
-    "link": "https://jclibrary.libcal.com/event/15272386",
-    "date": "2025-11-07",
-    "day_of_week": "Friday",
+    "title": "Binguito Bailable",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, December 2, 2025<br/> <strong>Time:</strong> 10:30am - 11:30am<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for a vibrant event filled with fun, dancing and exciting prizes!</p>\n\n<p>For Children ages 1-5</p>\n\n<p>&Uacute;nete a la Criolla para disfrutar de un espacio de diversi&oacute;n, baile y muchos premios</p>\n\n<p>Para ni&ntilde;os de edades: 1-5&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15239795",
+    "date": "2025-12-02",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:30:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Music and Dance Events"
+    ]
+  },
+  {
+    "title": "Let's Learn Together - Spanish",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, December 2, 2025<br/> <strong>Time:</strong> 4:00pm - 4:45pm<br/> <strong>Presenter:</strong> Ms. Diana<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p><strong>&iexcl;Vamos a aprender espa&ntilde;ol!</strong><br />\n<em>Spanish for Kids (Ages 7&ndash;10)</em></p>\n\n<p>Learning a new language is easier&mdash;and more fun&mdash;when you&#39;re young! In this interactive and playful program, children will explore the basics of Spanish through songs, games, stories, and group activities. Guided by a caring and experienced teacher, kids will learn alongside peers in a supportive environment that encourages curiosity and confidence.</p>\n\n<p>Whether it&#39;s saying hello in Spanish, counting to ten, or talking about their favorite animals, children will build foundational language skills while having a great time!</p>\n\n<p>Instructor: Ms. Diana</p>",
+    "link": "https://jclibrary.libcal.com/event/15542526",
+    "date": "2025-12-02",
+    "day_of_week": "Tuesday",
     "start_time": "16:00:00",
     "formatted_time": "04:00 PM",
-    "end_time": "17:00:00",
-    "location": "Earl Morgan Branch",
+    "end_time": "16:45:00",
+    "location": "PGML-Biblioteca Criolla",
     "audience": "Children (6-11)",
     "categories": [
-      "November"
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Educational Workshops"
     ]
   },
   {
-    "title": "Musical Theater Workshop",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Saturday, November 8, 2025<br/> <strong>Time:</strong> 9:00am - 11:00am<br/>  <strong>Location:</strong>  Earl A Morgan Auditorium<br/>  <p>Musical Workshop: Three Little Pigs! Starting Saturday, September 13 until November 22 at 9 am to 11 am.</p>",
-    "link": "https://jclibrary.libcal.com/event/15334869",
-    "date": "2025-11-08",
-    "day_of_week": "Saturday",
-    "start_time": "09:00:00",
-    "formatted_time": "09:00 AM",
-    "end_time": "11:00:00",
-    "location": "Earl A Morgan Auditorium",
+    "title": "Alphaminds Academy Chess",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, December 2, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/>  <strong>Location:</strong>  PGML: 3rd Floor | Conference Room 1<br/>  <p>Unlock the magic of chess in a fun, imaginative, and beginner-friendly environment! Perfect for children with little to no prior experience, this engaging course brings the game to life through storytelling, interactive lessons, and hands-on play.</p>",
+    "link": "https://jclibrary.libcal.com/event/15214342",
+    "date": "2025-12-02",
+    "day_of_week": "Tuesday",
+    "start_time": "16:30:00",
+    "formatted_time": "04:30 PM",
+    "end_time": "17:30:00",
+    "location": "PGML: 3rd Floor | Conference Room 1",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Educational Workshops"
+    ]
+  },
+  {
+    "title": "Bingo",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, December 2, 2025<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Come join our Bingo Night! Get a chance to win cool prizes while having fun with family and friends.</p>",
+    "link": "https://jclibrary.libcal.com/event/14900177",
+    "date": "2025-12-02",
+    "day_of_week": "Tuesday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "PGML- Bonetti Room",
     "audience": "Children (6-11)",
     "categories": [
       "September"
     ]
   },
   {
-    "title": "SEL Talks with Mrs. Smith",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Saturday, November 8, 2025<br/> <strong>Time:</strong> 12:00pm - 2:00pm<br/>  <strong>Location:</strong>  Earl A Morgan Auditorium<br/>  <p>Join us for SEL Talks with Mrs. Smith, an engaging program designed to help children build social-emotional learning (SEL) skills through the joy of reading and hands-on activities. Following a meaningful read-aloud, participants will engage in fun, interactive activities that encourage self-expression and empathy. Perfect for elementary and middle school readers.</p>",
-    "link": "https://jclibrary.libcal.com/event/15418698",
-    "date": "2025-11-08",
-    "day_of_week": "Saturday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "end_time": "14:00:00",
-    "location": "Earl A Morgan Auditorium",
-    "audience": "Children (6-11)",
+    "title": "Storytime",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, December 3, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Come sing, dance, and listen to stories!</p>",
+    "link": "https://jclibrary.libcal.com/event/14900222",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Early Childhood (0-5)",
     "categories": [
-      "November"
+      "Popular Events > Storytime Events",
+      "September"
     ]
   },
   {
-    "title": "National STEM Day",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Saturday, November 8, 2025<br/> <strong>Time:</strong> 3:00pm - 4:00pm<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>National STEM Day encourages interest in science, technology, engineering, and math through hands-on activities, experiments, and events that inspire innovation, creativity, and problem-solving in young minds.</p>",
-    "link": "https://jclibrary.libcal.com/event/14706609",
-    "date": "2025-11-08",
-    "day_of_week": "Saturday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:00:00",
-    "location": "Earl Morgan Branch",
+    "title": "Craft Workshop | Taller de Manualidades",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, December 3, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/> <strong>Presenter:</strong> Amanda Dominguez<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p data-end=\"332\" data-start=\"248\">🎨&nbsp;<strong data-end=\"275\" data-start=\"253\">CALLING CRAFT FAIR</strong>&nbsp;✂️</p>\n\n<p data-end=\"537\" data-start=\"423\">Join us for a <strong data-end=\"475\" data-start=\"437\">creative and fun-filled craft workshop</strong> celebrating learning, imagination, and creative reuse!</p>\n\n<p data-end=\"725\" data-start=\"539\"><strong data-end=\"559\" data-start=\"539\">What&rsquo;s in Store?</strong><br data-end=\"562\" data-start=\"559\" />\n✨ Crafts made from <strong data-end=\"602\" data-start=\"581\">recycled items</strong><br data-end=\"605\" data-start=\"602\" />\n🎨 Beautiful <strong data-end=\"637\" data-start=\"618\">fine art pieces</strong><strong data-end=\"664\" data-start=\"650\">&nbsp;</strong><br data-end=\"667\" data-start=\"664\" />\n🧸 Adorable <strong data-end=\"694\" data-start=\"679\">plush items</strong><br data-end=\"697\" data-start=\"694\" />\n🍬 Homemade <strong data-end=\"725\" data-is-only-node=\"\" data-start=\"709\">sweet treats</strong></p>\n\n<p data-end=\"794\" data-start=\"727\">Perfect for families, young creators, and craft lovers of all ages!</p>\n\n<p data-end=\"913\" data-start=\"796\">🌿 Learn. Create. Celebrate!</p>\n\n<p data-end=\"168\" data-start=\"64\">🎨 <strong data-end=\"102\" data-start=\"67\">TALLER DE MANUALIDADES &quot;CALLING&quot;</strong> ✂️</p>\n\n<p data-end=\"314\" data-start=\"170\">&iexcl;Acomp&aacute;&ntilde;anos en una feria de manualidades creativa y divertida que celebra el aprendizaje, la imaginaci&oacute;n y la reutilizaci&oacute;n creativa!</p>\n\n<p data-end=\"471\" data-start=\"316\"><strong data-end=\"337\" data-start=\"316\">&iquest;Qu&eacute; encontrar&aacute;s?</strong><br data-end=\"340\" data-start=\"337\" />\n✨ Manualidades hechas con materiales reciclados<br data-end=\"390\" data-start=\"387\" />\n🎨 Hermosas piezas de arte<br data-end=\"419\" data-start=\"416\" />\n🧸 Adorables peluches<br data-end=\"443\" data-start=\"440\" />\n🍬 Deliciosos dulces caseros</p>\n\n<p data-end=\"566\" data-start=\"473\">&iexcl;Perfecto para familias, j&oacute;venes creadores y amantes de las manualidades de todas las edades!</p>\n\n<p data-end=\"595\" data-start=\"568\">🌿 &iexcl;Aprende. Crea. Celebra!</p>\n\n<p data-end=\"913\" data-start=\"796\">&nbsp;</p>\n",
+    "link": "https://jclibrary.libcal.com/event/15183301",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "PGML-Biblioteca Criolla",
     "audience": "Children (6-11)",
     "categories": [
-      "November"
+      "Popular Events > All-Ages Events",
+      "Popular Events > Arts and Crafts Events",
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "Bonetti Holiday Movie Night",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, December 3, 2025<br/> <strong>Time:</strong> 6:00pm - 7:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to watch a fun holiday movie!</p>",
+    "link": "https://jclibrary.libcal.com/event/15445683",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "18:00:00",
+    "formatted_time": "06:00 PM",
+    "end_time": "19:30:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "December"
+    ]
+  },
+  {
+    "title": "National Cotton Candy Day",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Celebrate National Cotton Candy Day with us and get to take some home!</p>",
+    "link": "https://jclibrary.libcal.com/event/15446112",
+    "date": "2025-12-04",
+    "day_of_week": "Thursday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "December"
+    ]
+  },
+  {
+    "title": "Flamenco Classes",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Natallia Basava<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p data-end=\"339\" data-start=\"53\"><strong data-end=\"75\" data-start=\"53\">Discover Flamenco!</strong><br data-end=\"78\" data-start=\"75\" />\nJoin us for a dynamic and engaging Flamenco dance class where you&#39;ll learn the essential techniques of this passionate and vibrant dance form! This class will focus on fundamental exercises to help you master footwork, body posture, and hand and arm movements.</p>\n\n<p data-end=\"529\" data-start=\"341\">Whether you&#39;re a complete beginner or have some dance experience,&nbsp;<strong data-end=\"448\" data-start=\"407\">no prior dance background is required</strong>&mdash;everyone is welcome! Classes are open to&nbsp;<strong data-end=\"527\" data-start=\"490\">adults and children ages 9 and up</strong>.</p>\n\n<p data-end=\"529\" data-start=\"341\">THESE CLASSES ARE THE PART OF &quot;INVITATION TO FLAMENCO&quot; PROGRAM, SUPPORTED BY PUBLIC FUNDS FROM THE JERSEY CITY ARTS AND CULTURE TRUST FUND</p>\n\n<p data-end=\"652\" data-start=\"531\"><strong data-end=\"556\" data-start=\"531\">Bilingual instruction</strong>&nbsp;will be provided in both&nbsp;<strong data-end=\"605\" data-start=\"582\">English and Spanish</strong>&nbsp;to ensure everyone feels comfortable learning.</p>\n\n<p data-end=\"726\" data-start=\"654\">Classes will be taught by the talented instructor,&nbsp;<strong data-end=\"724\" data-start=\"705\">Natallia Basava</strong>.</p>\n\n<p data-end=\"726\" data-start=\"654\">Every Thursdays</p>\n\n<p data-end=\"726\" data-start=\"654\">At Biblioteca Criolla (4th Fl) in the PG Main Library&nbsp;</p>\n\n<p data-end=\"726\" data-start=\"654\">472 Jersey Ave | Jersey City, NJ 07302&nbsp; &nbsp;-&nbsp; &nbsp;201-547-4541</p>\n",
+    "link": "https://jclibrary.libcal.com/event/15236535",
+    "date": "2025-12-04",
+    "day_of_week": "Thursday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Children (6-11)",
+    "categories": [
+      "October > Hispanic Heritage Month (Sep 15 - Oct 15)",
+      "Popular Events > All-Ages Events",
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Music and Dance Events",
+      "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "Fun Fridays / Divertido Viernes",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Friday, December 5, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for fun fridays.</p>\n\n<p>&Uacute;nete a nosotros para viernes de diversion.</p>\n\n<p>Legos, Board Games, Chess, Checkers, Nintendo switch and much more.&nbsp;&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/14375147",
+    "date": "2025-12-05",
+    "day_of_week": "Friday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "end_time": "16:30:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > All-Ages Events",
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Social Gatherings"
+    ]
+  },
+  {
+    "title": "Fall Storytime at Biblioteca Criolla",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, December 8, 2025<br/> <strong>Time:</strong> 10:15am - 11:15am<br/> <strong>Presenter:</strong> Ms. Stacy<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Bilingual Story Hour (hora de cuentos) with special Guest Ms. Stacey</p>\n\n<p>Stories, Songs, and Fun in English &amp; Spanish!</p>",
+    "link": "https://jclibrary.libcal.com/event/15226251",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "10:15:00",
+    "formatted_time": "10:15 AM",
+    "end_time": "11:15:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Little Builders Club! ¡Club de pequeños con constructores!",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, December 8, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for fun time to create and build new things. /&nbsp;&Uacute;nase a nosotros para divertirse creando y construyendo cosas nuevas.</p>\n\n<p>Ages | Edad 1-5</p>\n\n<p>Every Monday | Cada Lunes</p>\n\n<p>September | Septiembre 15 - December | Diciembre 15</p>\n\n<p>11:00AM- 12:00PM</p>",
+    "link": "https://jclibrary.libcal.com/event/15387142",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events"
+    ]
+  },
+  {
+    "title": "Crafting with Ms. Julie!",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, December 8, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to make a special craft with Ms. Julie!</p>",
+    "link": "https://jclibrary.libcal.com/event/15445393",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "December"
+    ]
+  },
+  {
+    "title": "Born 2 Move",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, December 9, 2025<br/> <strong>Time:</strong> 10:30am - 11:30am<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>A Dance and movement session for toddlers and their guardians.</p>\n\n<p>Baila y Mueve con tus bebes!</p>",
+    "link": "https://jclibrary.libcal.com/event/15241865",
+    "date": "2025-12-09",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:30:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Music and Dance Events"
+    ]
+  },
+  {
+    "title": "Let's Learn Together - Spanish",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, December 9, 2025<br/> <strong>Time:</strong> 4:00pm - 4:45pm<br/> <strong>Presenter:</strong> Ms. Diana<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p><strong>&iexcl;Vamos a aprender espa&ntilde;ol!</strong><br />\n<em>Spanish for Kids (Ages 7&ndash;10)</em></p>\n\n<p>Learning a new language is easier&mdash;and more fun&mdash;when you&#39;re young! In this interactive and playful program, children will explore the basics of Spanish through songs, games, stories, and group activities. Guided by a caring and experienced teacher, kids will learn alongside peers in a supportive environment that encourages curiosity and confidence.</p>\n\n<p>Whether it&#39;s saying hello in Spanish, counting to ten, or talking about their favorite animals, children will build foundational language skills while having a great time!</p>\n\n<p>Instructor: Ms. Diana</p>",
+    "link": "https://jclibrary.libcal.com/event/15542527",
+    "date": "2025-12-09",
+    "day_of_week": "Tuesday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "16:45:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Educational Workshops"
+    ]
+  },
+  {
+    "title": "Bingo",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, December 9, 2025<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Come join our Bingo Night! Get a chance to win cool prizes while having fun with family and friends.</p>",
+    "link": "https://jclibrary.libcal.com/event/14900178",
+    "date": "2025-12-09",
+    "day_of_week": "Tuesday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "Storytime",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, December 10, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Come sing, dance, and listen to stories!</p>",
+    "link": "https://jclibrary.libcal.com/event/14900223",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events",
+      "September"
+    ]
+  },
+  {
+    "title": "Craft Workshop | Taller de Manualidades",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, December 10, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/> <strong>Presenter:</strong> Amanda Dominguez<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p data-end=\"332\" data-start=\"248\">🎨&nbsp;<strong data-end=\"275\" data-start=\"253\">CALLING CRAFT FAIR</strong>&nbsp;✂️</p>\n\n<p data-end=\"537\" data-start=\"423\">Join us for a <strong data-end=\"475\" data-start=\"437\">creative and fun-filled craft workshop</strong> celebrating learning, imagination, and creative reuse!</p>\n\n<p data-end=\"725\" data-start=\"539\"><strong data-end=\"559\" data-start=\"539\">What&rsquo;s in Store?</strong><br data-end=\"562\" data-start=\"559\" />\n✨ Crafts made from <strong data-end=\"602\" data-start=\"581\">recycled items</strong><br data-end=\"605\" data-start=\"602\" />\n🎨 Beautiful <strong data-end=\"637\" data-start=\"618\">fine art pieces</strong><strong data-end=\"664\" data-start=\"650\">&nbsp;</strong><br data-end=\"667\" data-start=\"664\" />\n🧸 Adorable <strong data-end=\"694\" data-start=\"679\">plush items</strong><br data-end=\"697\" data-start=\"694\" />\n🍬 Homemade <strong data-end=\"725\" data-is-only-node=\"\" data-start=\"709\">sweet treats</strong></p>\n\n<p data-end=\"794\" data-start=\"727\">Perfect for families, young creators, and craft lovers of all ages!</p>\n\n<p data-end=\"913\" data-start=\"796\">🌿 Learn. Create. Celebrate!</p>\n\n<p data-end=\"168\" data-start=\"64\">🎨 <strong data-end=\"102\" data-start=\"67\">TALLER DE MANUALIDADES &quot;CALLING&quot;</strong> ✂️</p>\n\n<p data-end=\"314\" data-start=\"170\">&iexcl;Acomp&aacute;&ntilde;anos en una feria de manualidades creativa y divertida que celebra el aprendizaje, la imaginaci&oacute;n y la reutilizaci&oacute;n creativa!</p>\n\n<p data-end=\"471\" data-start=\"316\"><strong data-end=\"337\" data-start=\"316\">&iquest;Qu&eacute; encontrar&aacute;s?</strong><br data-end=\"340\" data-start=\"337\" />\n✨ Manualidades hechas con materiales reciclados<br data-end=\"390\" data-start=\"387\" />\n🎨 Hermosas piezas de arte<br data-end=\"419\" data-start=\"416\" />\n🧸 Adorables peluches<br data-end=\"443\" data-start=\"440\" />\n🍬 Deliciosos dulces caseros</p>\n\n<p data-end=\"566\" data-start=\"473\">&iexcl;Perfecto para familias, j&oacute;venes creadores y amantes de las manualidades de todas las edades!</p>\n\n<p data-end=\"595\" data-start=\"568\">🌿 &iexcl;Aprende. Crea. Celebra!</p>\n\n<p data-end=\"913\" data-start=\"796\">&nbsp;</p>\n",
+    "link": "https://jclibrary.libcal.com/event/15183308",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > All-Ages Events",
+      "Popular Events > Arts and Crafts Events",
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "Bonetti Holiday Movie Night",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, December 10, 2025<br/> <strong>Time:</strong> 6:00pm - 7:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to watch a fun holiday movie!</p>",
+    "link": "https://jclibrary.libcal.com/event/15445684",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "18:00:00",
+    "formatted_time": "06:00 PM",
+    "end_time": "19:30:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "December"
     ]
   },
   {
@@ -1176,6 +1228,24 @@
     ]
   },
   {
+    "title": "The Three Little Pigs Takes Jersey City",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Tuesday, November 25, 2025<br/> <strong>Time:</strong> 6:30pm - 7:45pm<br/>  <strong>Location:</strong>  Earl A Morgan Auditorium<br/>  <p>You&#39;re invited to an exhilarating musical theatre showcase as the dynamic trio takes Jersey City! Experience the magic, energy, and unforgettable performances that promise to captivate and inspire.</p>",
+    "link": "https://jclibrary.libcal.com/event/15146357",
+    "date": "2025-11-25",
+    "day_of_week": "Tuesday",
+    "start_time": "18:30:00",
+    "formatted_time": "06:30 PM",
+    "end_time": "19:45:00",
+    "location": "Earl A Morgan Auditorium",
+    "audience": "Children (6-11)",
+    "categories": [
+      "November",
+      "Popular Events > Family Events"
+    ]
+  },
+  {
     "title": "Pre-School Storytime",
     "calendar_source": "Earl A. Morgan Branch (Greenville)",
     "calendar_id": 17420,
@@ -1193,88 +1263,128 @@
     ]
   },
   {
-    "title": "Fun Fridays",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Friday, October 31, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  West Bergen Branch<br/>  <p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:20px;\">Come and have some afterschool fun every Friday here at West Bergen!!</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:20px;\">Board Games, Bingo, Crafts &amp; Fun!</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:20px;\">3:30pm-4:30pm</span></span></p>",
-    "link": "https://jclibrary.libcal.com/event/15416187",
-    "date": "2025-10-31",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "West Bergen Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "September"
-    ]
-  },
-  {
-    "title": "Mixed Martial Arts Class for Kids",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Saturday, November 1, 2025<br/> <strong>Time:</strong> 2:00pm - 3:00pm<br/> <strong>Presenter:</strong> Mateo<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Every Saturday, 2pm-3pm</p>\n\n<p>West Bergen Branch Library</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15585522",
-    "date": "2025-11-01",
-    "day_of_week": "Saturday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "end_time": "15:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November"
-    ]
-  },
-  {
-    "title": "Story Hour with Miss Sheena",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 10:00am - 11:00am<br/> <strong>Presenter:</strong> Sheena Henry<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Join us every Wednesday @ 10AM for a learning experience with Miss Sheena.</p>\n\n<p>Each Story Hour is unique but incorporates similar elements such as reading books aloud, sing-alongs and dancing.</p>\n\n<p>Learning&nbsp; new concepts like days of the week, colors, abc&#39;s, seasons, emotions, sharing and much more.</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15325948",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
+    "title": "Pre-School Storytime",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to wiggle, giggle, and explore the world of stories! Preschool Story Time is a lively, 30-minute program filled with picture books, rhymes, songs, and playful activities designed to spark curiosity and build early learning skills. This engaging experience supports language development and school readiness in a fun, social setting. Caregivers are welcome to join in the fun too!</p>\n\n<h2 style=\"font-style:italic;\">&nbsp;</h2>\n\n<h2 style=\"font-style:italic;\"><span style=\"color:#a52a2a;\"><strong>*CLASS VISITS MUST BE SCHEDULED IN ADVANCE*</strong></span></h2>\n",
+    "link": "https://jclibrary.libcal.com/event/15120276",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
     "end_time": "11:00:00",
-    "location": "West Bergen Branch",
+    "location": "Earl Morgan Branch",
     "audience": "Early Childhood (0-5)",
     "categories": [
       "Popular Events > Storytime Events"
     ]
   },
   {
-    "title": "Fun Fridays",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Friday, November 7, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  West Bergen Branch<br/>  <p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:20px;\">Come and have some afterschool fun every Friday here at West Bergen!!</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:20px;\">Board Games, Bingo, Crafts &amp; Fun!</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:20px;\">3:30pm-4:30pm</span></span></p>",
-    "link": "https://jclibrary.libcal.com/event/15416188",
-    "date": "2025-11-07",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "West Bergen Branch",
+    "title": "The Three Little Pigs Takes Jersey City",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Tuesday, December 2, 2025<br/> <strong>Time:</strong> 6:30pm - 7:45pm<br/>  <strong>Location:</strong>  Earl A Morgan Auditorium<br/>  <p>You&#39;re invited to an exhilarating musical theatre showcase as the dynamic trio takes Jersey City! Experience the magic, energy, and unforgettable performances that promise to captivate and inspire.</p>",
+    "link": "https://jclibrary.libcal.com/event/15146358",
+    "date": "2025-12-02",
+    "day_of_week": "Tuesday",
+    "start_time": "18:30:00",
+    "formatted_time": "06:30 PM",
+    "end_time": "19:45:00",
+    "location": "Earl A Morgan Auditorium",
     "audience": "Children (6-11)",
     "categories": [
-      "September"
+      "November",
+      "Popular Events > Family Events"
     ]
   },
   {
-    "title": "Mixed Martial Arts Class for Kids",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Saturday, November 8, 2025<br/> <strong>Time:</strong> 2:00pm - 3:00pm<br/> <strong>Presenter:</strong> Mateo<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Every Saturday, 2pm-3pm</p>\n\n<p>West Bergen Branch Library</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15585523",
-    "date": "2025-11-08",
-    "day_of_week": "Saturday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "end_time": "15:00:00",
-    "location": "West Bergen Branch",
+    "title": "Pre-School Storytime",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Wednesday, December 3, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to wiggle, giggle, and explore the world of stories! Preschool Story Time is a lively, 30-minute program filled with picture books, rhymes, songs, and playful activities designed to spark curiosity and build early learning skills. This engaging experience supports language development and school readiness in a fun, social setting. Caregivers are welcome to join in the fun too!</p>\n\n<h2 style=\"font-style:italic;\">&nbsp;</h2>\n\n<h2 style=\"font-style:italic;\"><span style=\"color:#a52a2a;\"><strong>*CLASS VISITS MUST BE SCHEDULED IN ADVANCE*</strong></span></h2>\n",
+    "link": "https://jclibrary.libcal.com/event/15120277",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Earl Morgan Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Comics & Crafts: Graphic Novel Book Club",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Calling all comic, graphic novel, and manga fans! Everyone is invited to our new group to talk about your favorite stories, do some drawing and crafting of your own, and eat snacks!</p>",
+    "link": "https://jclibrary.libcal.com/event/15280132",
+    "date": "2025-12-04",
+    "day_of_week": "Thursday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "Earl Morgan Branch",
     "audience": "Children (6-11)",
     "categories": [
-      "November"
+      "Popular Events > Arts and Crafts Events",
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Social Gatherings",
+      "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "Pre-School Storytime",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Monday, December 8, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to wiggle, giggle, and explore the world of stories! Preschool Story Time is a lively, 30-minute program filled with picture books, rhymes, songs, and playful activities designed to spark curiosity and build early learning skills. This engaging experience supports language development and school readiness in a fun, social setting. Caregivers are welcome to join in the fun too!</p>\n\n<h2 style=\"font-style:italic;\">&nbsp;</h2>\n\n<h2 style=\"font-style:italic;\"><span style=\"color:#a52a2a;\"><strong>*CLASS VISITS MUST BE SCHEDULED IN ADVANCE*</strong></span></h2>\n",
+    "link": "https://jclibrary.libcal.com/event/15120278",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Earl Morgan Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "The Three Little Pigs Takes Jersey City",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Tuesday, December 9, 2025<br/> <strong>Time:</strong> 5:30pm - 7:30pm<br/>  <strong>Location:</strong>  Earl A Morgan Auditorium<br/>  <p>You&#39;re invited to an exhilarating musical theatre showcase as the dynamic trio takes Jersey City! Experience the magic, energy, and unforgettable performances that promise to captivate and inspire.</p>",
+    "link": "https://jclibrary.libcal.com/event/15146359",
+    "date": "2025-12-09",
+    "day_of_week": "Tuesday",
+    "start_time": "17:30:00",
+    "formatted_time": "05:30 PM",
+    "end_time": "19:30:00",
+    "location": "Earl A Morgan Auditorium",
+    "audience": "Children (6-11)",
+    "categories": [
+      "November",
+      "Popular Events > Family Events"
+    ]
+  },
+  {
+    "title": "Pre-School Storytime",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Wednesday, December 10, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to wiggle, giggle, and explore the world of stories! Preschool Story Time is a lively, 30-minute program filled with picture books, rhymes, songs, and playful activities designed to spark curiosity and build early learning skills. This engaging experience supports language development and school readiness in a fun, social setting. Caregivers are welcome to join in the fun too!</p>\n\n<h2 style=\"font-style:italic;\">&nbsp;</h2>\n\n<h2 style=\"font-style:italic;\"><span style=\"color:#a52a2a;\"><strong>*CLASS VISITS MUST BE SCHEDULED IN ADVANCE*</strong></span></h2>\n",
+    "link": "https://jclibrary.libcal.com/event/15120279",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Earl Morgan Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events"
     ]
   },
   {
@@ -1312,23 +1422,6 @@
     ]
   },
   {
-    "title": "Mixed Martial Arts Class for Kids",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Saturday, November 15, 2025<br/> <strong>Time:</strong> 2:00pm - 3:00pm<br/> <strong>Presenter:</strong> Mateo<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Every Saturday, 2pm-3pm</p>\n\n<p>West Bergen Branch Library</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15585524",
-    "date": "2025-11-15",
-    "day_of_week": "Saturday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "end_time": "15:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November"
-    ]
-  },
-  {
     "title": "Story Hour with Miss Sheena",
     "calendar_source": "West Bergen Branch",
     "calendar_id": 17421,
@@ -1360,164 +1453,6 @@
     "audience": "Children (6-11)",
     "categories": [
       "September"
-    ]
-  },
-  {
-    "title": "Mixed Martial Arts Class for Kids",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Saturday, November 22, 2025<br/> <strong>Time:</strong> 2:00pm - 3:00pm<br/> <strong>Presenter:</strong> Mateo<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Every Saturday, 2pm-3pm</p>\n\n<p>West Bergen Branch Library</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15585525",
-    "date": "2025-11-22",
-    "day_of_week": "Saturday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "end_time": "15:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November"
-    ]
-  },
-  {
-    "title": "Story Hour with Miss Sheena",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Wednesday, November 26, 2025<br/> <strong>Time:</strong> 10:00am - 11:00am<br/> <strong>Presenter:</strong> Sheena Henry<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Join us every Wednesday @ 10AM for a learning experience with Miss Sheena.</p>\n\n<p>Each Story Hour is unique but incorporates similar elements such as reading books aloud, sing-alongs and dancing.</p>\n\n<p>Learning&nbsp; new concepts like days of the week, colors, abc&#39;s, seasons, emotions, sharing and much more.</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15325952",
-    "date": "2025-11-26",
-    "day_of_week": "Wednesday",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "11:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Mixed Martial Arts Class for Kids",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Saturday, November 29, 2025<br/> <strong>Time:</strong> 2:00pm - 3:00pm<br/> <strong>Presenter:</strong> Mateo<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Every Saturday, 2pm-3pm</p>\n\n<p>West Bergen Branch Library</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15585526",
-    "date": "2025-11-29",
-    "day_of_week": "Saturday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "end_time": "15:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November"
-    ]
-  },
-  {
-    "title": "Story Time",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 11:30am - 12:00pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us at the Pavonia Branch Library for stories, songs, books &amp; fingerplays!</p>\n\n<p>For ages 0-5.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15103551",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "11:30:00",
-    "formatted_time": "11:30 AM",
-    "end_time": "12:00:00",
-    "location": "Pavonia Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Alpaminds Academy Chess",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/> <strong>Presenter:</strong> AlphaMinds Academy<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Unlock the magic of chess in a fun, imaginative, and beginner-friendly environment! Perfect for children with little to no prior experience, this engaging course brings the game to life through storytelling, interactive lessons, and hands-on play.</p>\n\n<p>Registration is Required.&nbsp; <strong>If you register for this chess program must attend consecutively. No class-by-class walk-ins are allowed.&nbsp;</strong></p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15121661",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "16:30:00",
-    "formatted_time": "04:30 PM",
-    "end_time": "17:30:00",
-    "location": "Pavonia Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Teen Programs"
-    ]
-  },
-  {
-    "title": "Children's Halloween Parade & Party",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Friday, October 31, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/> <strong>Presenter:</strong> Tyara Tucker & Angelita Tubungbanua<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join the Pavonia Branch Library on Halloween for&nbsp;a spooktacular time of fun!</p>\n\n<p>For all ages.&nbsp;</p>\n\n<p><strong><u>SCHEDULE:&nbsp;</u></strong></p>\n\n<p>3 PM: Halloween Parade Line Up at Pavonia Branch Library</p>\n\n<p>3:15 PM: Parade Begins</p>\n\n<p>3:30-4 PM: Halloween Dance Party with JC Big Foot</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15103580",
-    "date": "2025-10-31",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:30:00",
-    "location": "Pavonia Branch",
-    "audience": "General (All)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Family Events"
-    ]
-  },
-  {
-    "title": "Youth Guitar Workshop",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Reena Campbell<br/> <strong>Location:</strong>  JCFPL Creative Arts Center<br/>  <p>Interested in learning to play the guitar?&nbsp;Join Ms. Reena at the JCFPL Creative Arts Center to learn the basics of guitar, chords and learn songs.</p>\n\n<p>For ages 8-18.</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15108438",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "17:00:00",
-    "formatted_time": "05:00 PM",
-    "end_time": "18:00:00",
-    "location": "JCFPL Creative Arts Center",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Teen Programs"
-    ]
-  },
-  {
-    "title": "Story Time",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 11:30am - 12:00pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us at the Pavonia Branch Library for stories, songs, books &amp; fingerplays!</p>\n\n<p>For ages 0-5.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15103552",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "11:30:00",
-    "formatted_time": "11:30 AM",
-    "end_time": "12:00:00",
-    "location": "Pavonia Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Bingo for Kids",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Friday, November 7, 2025<br/> <strong>Time:</strong> 3:00pm - 4:00pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Stop by&nbsp;the Pavonia Branch Library to learn and play the classic game &quot;Bingo&quot;!</p>\n\n<p>For ages 4-18.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15419380",
-    "date": "2025-11-07",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:00:00",
-    "location": "Pavonia Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Children Events"
     ]
   },
   {
@@ -1572,6 +1507,23 @@
     "categories": [
       "Popular Events > Children Events",
       "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "LEGO Build Time!",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Friday, November 14, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>It&#39;s Lego Time at the Pavonia Branch Library! Join us to explore and build with our collection of Legos.</p>\n\n<p>For ages 4-11.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.</p>",
+    "link": "https://jclibrary.libcal.com/event/15678555",
+    "date": "2025-11-14",
+    "day_of_week": "Friday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Pavonia Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Children Events"
     ]
   },
   {
@@ -1681,6 +1633,40 @@
     ]
   },
   {
+    "title": "Children's Thanksgiving Craft",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Friday, November 21, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>In&nbsp;celebration of&nbsp;Thanksgiving, stop by the Pavonia Branch Library to make a Thanksgiving craft.&nbsp;</p>\n\n<p>For ages 4-11.</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15635972",
+    "date": "2025-11-21",
+    "day_of_week": "Friday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Pavonia Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Children Events"
+    ]
+  },
+  {
+    "title": "Let's Play BeyBlade!",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Saturday, November 22, 2025<br/> <strong>Time:</strong> 12:00pm - 1:30pm<br/> <strong>Presenter:</strong> Victory Point<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join Mela at the Pavonia Branch Library as we reintroduce a fun tabletop family activity! See who&rsquo;s spinner spins the longest! Or start a friendly duel!</p>\n\n<p>All ages are welcome.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15679379",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "end_time": "13:30:00",
+    "location": "Pavonia Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > All-Ages Events"
+    ]
+  },
+  {
     "title": "Youth Guitar Workshop",
     "calendar_source": "Pavonia Branch",
     "calendar_id": 17422,
@@ -1735,107 +1721,129 @@
     ]
   },
   {
-    "title": "Afterschool Tutoring",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 3:30pm - 5:30pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p data-end=\"429\" data-start=\"112\">Need a little extra help with homework? Our <strong data-end=\"234\" data-start=\"202\">Afterschool Tutoring Program</strong> is here to support young learners in a fun, friendly, and encouraging environment! Tutors provide one-on-one and small group assistance. Whether your child is catching up, staying on track, or looking to get ahead, we&rsquo;re here to help build confidence and academic skills.</p>",
-    "link": "https://jclibrary.libcal.com/event/15452377",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "17:30:00",
-    "location": "Miller Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November",
-      "October",
-      "Popular Events > Children Events",
-      "Popular Events > Educational Workshops",
-      "Popular Events > Teen Programs"
-    ]
-  },
-  {
-    "title": "Halloween Craft for Children",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p>Get ready for a spooky good time! This Halloween craft activity is perfect for kids and encourages creativity, fine motor skills, and festive fun.</p>",
-    "link": "https://jclibrary.libcal.com/event/15458124",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "16:00:00",
-    "formatted_time": "04:00 PM",
-    "end_time": "17:00:00",
-    "location": "Miller Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "October",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Children Events",
-      "Popular Events > Social Gatherings"
-    ]
-  },
-  {
-    "title": "Afterschool Tutoring",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 3:30pm - 5:30pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p data-end=\"429\" data-start=\"112\">Need a little extra help with homework? Our <strong data-end=\"234\" data-start=\"202\">Afterschool Tutoring Program</strong> is here to support young learners in a fun, friendly, and encouraging environment! Tutors provide one-on-one and small group assistance. Whether your child is catching up, staying on track, or looking to get ahead, we&rsquo;re here to help build confidence and academic skills.</p>",
-    "link": "https://jclibrary.libcal.com/event/15452378",
-    "date": "2025-11-03",
+    "title": "Youth Guitar Workshop",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Reena Campbell<br/> <strong>Location:</strong>  JCFPL Creative Arts Center<br/>  <p>Interested in learning to play the guitar?&nbsp;Join Ms. Reena at the JCFPL Creative Arts Center to learn the basics of guitar, chords and learn songs.</p>\n\n<p>For ages 8-18.</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15108442",
+    "date": "2025-12-01",
     "day_of_week": "Monday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "17:30:00",
-    "location": "Miller Branch",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "JCFPL Creative Arts Center",
     "audience": "Children (6-11)",
     "categories": [
-      "November",
-      "October",
       "Popular Events > Children Events",
-      "Popular Events > Educational Workshops",
       "Popular Events > Teen Programs"
     ]
   },
   {
-    "title": "Afterschool Tutoring",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 3:30pm - 5:30pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p data-end=\"429\" data-start=\"112\">Need a little extra help with homework? Our <strong data-end=\"234\" data-start=\"202\">Afterschool Tutoring Program</strong> is here to support young learners in a fun, friendly, and encouraging environment! Tutors provide one-on-one and small group assistance. Whether your child is catching up, staying on track, or looking to get ahead, we&rsquo;re here to help build confidence and academic skills.</p>",
-    "link": "https://jclibrary.libcal.com/event/15452379",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "17:30:00",
-    "location": "Miller Branch",
-    "audience": "Children (6-11)",
+    "title": "Story Time",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Tuesday, December 2, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us at the Pavonia Branch Library for stories, songs, books &amp; fingerplays!</p>\n\n<p>For ages 0-5.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15103542",
+    "date": "2025-12-02",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Pavonia Branch",
+    "audience": "Early Childhood (0-5)",
     "categories": [
-      "November",
-      "October",
       "Popular Events > Children Events",
-      "Popular Events > Educational Workshops",
-      "Popular Events > Teen Programs"
+      "Popular Events > Storytime Events"
     ]
   },
   {
-    "title": "Afterschool Tutoring",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 3:30pm - 5:30pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p data-end=\"429\" data-start=\"112\">Need a little extra help with homework? Our <strong data-end=\"234\" data-start=\"202\">Afterschool Tutoring Program</strong> is here to support young learners in a fun, friendly, and encouraging environment! Tutors provide one-on-one and small group assistance. Whether your child is catching up, staying on track, or looking to get ahead, we&rsquo;re here to help build confidence and academic skills.</p>",
-    "link": "https://jclibrary.libcal.com/event/15452380",
-    "date": "2025-11-06",
+    "title": "Story Time",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 11:30am - 12:00pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us at the Pavonia Branch Library for stories, songs, books &amp; fingerplays!</p>\n\n<p>For ages 0-5.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15103556",
+    "date": "2025-12-04",
     "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
+    "start_time": "11:30:00",
+    "formatted_time": "11:30 AM",
+    "end_time": "12:00:00",
+    "location": "Pavonia Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Alpaminds Academy Chess",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/> <strong>Presenter:</strong> AlphaMinds Academy<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Unlock the magic of chess in a fun, imaginative, and beginner-friendly environment! Perfect for children with little to no prior experience, this engaging course brings the game to life through storytelling, interactive lessons, and hands-on play.</p>\n\n<p>Registration is Required.&nbsp; <strong>If you register for this chess program must attend consecutively. No class-by-class walk-ins are allowed.&nbsp;</strong></p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15121664",
+    "date": "2025-12-04",
+    "day_of_week": "Thursday",
+    "start_time": "16:30:00",
+    "formatted_time": "04:30 PM",
     "end_time": "17:30:00",
-    "location": "Miller Branch",
+    "location": "Pavonia Branch",
     "audience": "Children (6-11)",
     "categories": [
-      "November",
-      "October",
       "Popular Events > Children Events",
-      "Popular Events > Educational Workshops",
       "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "Family Storytime",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Saturday, December 6, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/> <strong>Presenter:</strong> Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Get ready to kick off the weekend with a Family Storytime! Join Ms. Tyara on Saturday where we&#39;ll read aloud fun stories, and sing and dance to favorite tunes.</p>\n\n<p>For all ages.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15110863",
+    "date": "2025-12-06",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Pavonia Branch",
+    "audience": "General (All)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Family Events"
+    ]
+  },
+  {
+    "title": "Youth Guitar Workshop",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Monday, December 8, 2025<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Reena Campbell<br/> <strong>Location:</strong>  JCFPL Creative Arts Center<br/>  <p>Interested in learning to play the guitar?&nbsp;Join Ms. Reena at the JCFPL Creative Arts Center to learn the basics of guitar, chords and learn songs.</p>\n\n<p>For ages 8-18.</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15108443",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "JCFPL Creative Arts Center",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "Story Time",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Tuesday, December 9, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us at the Pavonia Branch Library for stories, songs, books &amp; fingerplays!</p>\n\n<p>For ages 0-5.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15103543",
+    "date": "2025-12-09",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Pavonia Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Storytime Events"
     ]
   },
   {
@@ -1923,6 +1931,26 @@
     ]
   },
   {
+    "title": "Theater Improv Workshop for Children",
+    "calendar_source": "Miller Branch",
+    "calendar_id": 17423,
+    "description": "<strong>Date:</strong> Tuesday, November 18, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p data-end=\"523\" data-start=\"210\">Unlock your creativity, confidence, and quick thinking in this lively <strong data-end=\"326\" data-start=\"299\">Theater Improv Workshop</strong>! Through games, movement, and storytelling exercises, participants will explore the fundamentals of improvisation &mdash; saying &ldquo;yes, and&hellip;,&rdquo; thinking on their feet, and creating scenes in the moment. This workshop encourages participants to <strong data-end=\"620\" data-start=\"566\">take risks, trust their instincts, and collaborate</strong> with others in a fun, supportive environment.</p>",
+    "link": "https://jclibrary.libcal.com/event/15655477",
+    "date": "2025-11-18",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Miller Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "November",
+      "Popular Events > Children Events",
+      "Popular Events > Educational Workshops",
+      "Popular Events > Social Gatherings"
+    ]
+  },
+  {
     "title": "Afterschool Tutoring",
     "calendar_source": "Miller Branch",
     "calendar_id": 17423,
@@ -1990,124 +2018,23 @@
     ]
   },
   {
-    "title": "PRE-K STORY HOUR",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15183516",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Marion Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "December",
-      "November",
-      "October",
-      "September"
-    ]
-  },
-  {
-    "title": "BABY-TODDLER BUILDING BLOCK PLAYTIME FUN!",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 11:00am - 11:30am<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15024346",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "11:30:00",
-    "location": "Marion Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "December",
-      "November",
-      "October",
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "September"
-    ]
-  },
-  {
-    "title": "PUMPKIN DIAMOND ART CRAFT FOR CHILDREN AGES 6-9",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15326402",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
+    "title": "Theater Improv Workshop for Children",
+    "calendar_source": "Miller Branch",
+    "calendar_id": 17423,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p>Unlock your creativity, confidence, and quick thinking in this lively <strong data-end=\"326\" data-start=\"299\">Theater Improv Workshop</strong>! Through games, movement, and storytelling exercises, participants will explore the fundamentals of improvisation &mdash; saying &ldquo;yes, and&hellip;,&rdquo; thinking on their feet, and creating scenes in the moment. This workshop encourages participants to <strong data-end=\"620\" data-start=\"566\">take risks, trust their instincts, and collaborate</strong> with others in a fun, supportive environment.</p>",
+    "link": "https://jclibrary.libcal.com/event/15658968",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "end_time": "16:30:00",
-    "location": "Marion Branch",
+    "location": "Miller Branch",
     "audience": "Children (6-11)",
     "categories": [
-      "October",
-      "Popular Events"
-    ]
-  },
-  {
-    "title": "PRE-K STORY HOUR",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15183517",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Marion Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
       "December",
-      "November",
-      "October",
-      "September"
-    ]
-  },
-  {
-    "title": "BABY-TODDLER BUILDING BLOCK PLAYTIME FUN!",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 11:00am - 11:30am<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15024347",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "11:30:00",
-    "location": "Marion Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "December",
-      "November",
-      "October",
       "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "September"
-    ]
-  },
-  {
-    "title": "FALL DIAMOND ART CRAFT FOR CHILDREN - AGES 5-9",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15397594",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:30:00",
-    "location": "Marion Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "November",
-      "Popular Events",
-      "Popular Events > Children Events"
+      "Popular Events > Educational Workshops",
+      "Popular Events > Social Gatherings"
     ]
   },
   {
@@ -2156,7 +2083,7 @@
     "title": "FALL DIAMOND ART CRAFT FOR CHILDREN - AGES 5-9",
     "calendar_source": "Marion Branch",
     "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, November 13, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
+    "description": "<strong>Date:</strong> Thursday, November 13, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  <p><span style=\"font-size:14px;\">The Fall Diamond Art Craft for Childern, ages 5-9, will begin at 3:00 pm. Craft materials are limited and will be distributed as they are available.&nbsp;</span></p>",
     "link": "https://jclibrary.libcal.com/event/15397595",
     "date": "2025-11-13",
     "day_of_week": "Thursday",
@@ -2233,27 +2160,52 @@
     ]
   },
   {
-    "title": "Heights Storytime",
-    "calendar_source": "Heights Branch",
-    "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Join us for an hour of imaginative stories, lively songs, and fun activities that bring books to life! <strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></span></p>",
-    "link": "https://jclibrary.libcal.com/event/15623275",
-    "date": "2025-11-06",
+    "title": "PRE-K STORY HOUR",
+    "calendar_source": "Marion Branch",
+    "calendar_id": 17424,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/15183521",
+    "date": "2025-12-04",
     "day_of_week": "Thursday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "Offsite- please see description ",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Marion Branch",
     "audience": "Early Childhood (0-5)",
     "categories": [
-      "Popular Events > Storytime Events"
+      "December",
+      "November",
+      "October",
+      "September"
     ]
   },
   {
-    "title": "Heights Craft Corner",
+    "title": "BABY-TODDLER BUILDING BLOCK PLAYTIME FUN!",
+    "calendar_source": "Marion Branch",
+    "calendar_id": 17424,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 11:00am - 11:30am<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/15024351",
+    "date": "2025-12-04",
+    "day_of_week": "Thursday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "11:30:00",
+    "location": "Marion Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "December",
+      "November",
+      "October",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "September"
+    ]
+  },
+  {
+    "title": "Heights Craft Corner (CANCELLED FOR VETERANS' DAY)",
     "calendar_source": "Heights Branch",
     "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Tuesday, November 11, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:14px;\">Get creative with us! Join our Craft Hour to make fun projects, explore new materials, and take home your very own masterpiece.<strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></p>",
+    "description": "<strong>Date:</strong> Tuesday, November 11, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size: 14px;\">CANCELLED FOR VETERANS&#39; DAY</span></p>",
     "link": "https://jclibrary.libcal.com/event/15623301",
     "date": "2025-11-11",
     "day_of_week": "Tuesday",
@@ -2271,7 +2223,7 @@
     "title": "Heights Storytime",
     "calendar_source": "Heights Branch",
     "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Thursday, November 13, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Join us for an hour of imaginative stories, lively songs, and fun activities that bring books to life! <strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></span></p>",
+    "description": "<strong>Date:</strong> Thursday, November 13, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Join us for an hour of imaginative stories, lively songs, and fun activities that bring books to life! Please bring your own yoga mat, blanket or pillow for floor seating.&nbsp;<strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></span></p>",
     "link": "https://jclibrary.libcal.com/event/15623276",
     "date": "2025-11-13",
     "day_of_week": "Thursday",
@@ -2288,7 +2240,7 @@
     "title": "Heights Craft Corner",
     "calendar_source": "Heights Branch",
     "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Tuesday, November 18, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:14px;\">Get creative with us! Join our Craft Hour to make fun projects, explore new materials, and take home your very own masterpiece.<strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></p>",
+    "description": "<strong>Date:</strong> Tuesday, November 18, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:14px;\">Get creative with us! Join our Craft Hour to make fun projects, explore new materials, and take home your very own masterpiece.<strong>This craft will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></p>",
     "link": "https://jclibrary.libcal.com/event/15623302",
     "date": "2025-11-18",
     "day_of_week": "Tuesday",
@@ -2306,7 +2258,7 @@
     "title": "Heights Storytime",
     "calendar_source": "Heights Branch",
     "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Thursday, November 20, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Join us for an hour of imaginative stories, lively songs, and fun activities that bring books to life! <strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></span></p>",
+    "description": "<strong>Date:</strong> Thursday, November 20, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Join us for an hour of imaginative stories, lively songs, and fun activities that bring books to life! Please bring your own yoga mat, blanket or pillow for floor seating.&nbsp;<strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></span></p>",
     "link": "https://jclibrary.libcal.com/event/15623277",
     "date": "2025-11-20",
     "day_of_week": "Thursday",
@@ -2323,9 +2275,44 @@
     "title": "Heights Craft Corner",
     "calendar_source": "Heights Branch",
     "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Tuesday, November 25, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:14px;\">Get creative with us! Join our Craft Hour to make fun projects, explore new materials, and take home your very own masterpiece.<strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></p>",
+    "description": "<strong>Date:</strong> Tuesday, November 25, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:14px;\">Get creative with us! Join our Craft Hour to make fun projects, explore new materials, and take home your very own masterpiece.<strong>This craft will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></p>",
     "link": "https://jclibrary.libcal.com/event/15623303",
     "date": "2025-11-25",
+    "day_of_week": "Tuesday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Offsite- please see description ",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Family Events"
+    ]
+  },
+  {
+    "title": "Heights Storytime (Cancelled Thanksgiving)",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Thursday, November 27, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p>CLOSED FOR THANKSGIVING</p>",
+    "link": "https://jclibrary.libcal.com/event/15623278",
+    "date": "2025-11-27",
+    "day_of_week": "Thursday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Offsite- please see description ",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Heights Craft Corner",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Tuesday, December 2, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:14px;\">Get creative with us! Join our Craft Hour to make fun projects, explore new materials, and take home your very own masterpiece.<strong>This craft will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></p>",
+    "link": "https://jclibrary.libcal.com/event/15623304",
+    "date": "2025-12-02",
     "day_of_week": "Tuesday",
     "start_time": "11:00:00",
     "formatted_time": "11:00 AM",
@@ -2341,9 +2328,9 @@
     "title": "Heights Storytime",
     "calendar_source": "Heights Branch",
     "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Thursday, November 27, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Join us for an hour of imaginative stories, lively songs, and fun activities that bring books to life! <strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></span></p>",
-    "link": "https://jclibrary.libcal.com/event/15623278",
-    "date": "2025-11-27",
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:16px;\"><span style=\"font-family:Arial,Helvetica,sans-serif;\">Join us for an hour of imaginative stories, lively songs, and fun activities that bring books to life! Please bring your own yoga mat, blanket or pillow for floor seating.&nbsp;<strong>This storytime will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></span></p>",
+    "link": "https://jclibrary.libcal.com/event/15623279",
+    "date": "2025-12-04",
     "day_of_week": "Thursday",
     "start_time": "11:00:00",
     "formatted_time": "11:00 AM",
@@ -2355,44 +2342,21 @@
     ]
   },
   {
-    "title": "Annual Halloween Party",
-    "calendar_source": "Glenn D. Cunningham Branch",
-    "calendar_id": 17427,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>It&#39;s that time!&nbsp; Get your costumes ready for Cunningham Branch Annual Halloween Party.&nbsp; There will be music, games and refreshments for children to enjoy with their family and friends.</p>\n\n<p>See you soon!</p>",
-    "link": "https://jclibrary.libcal.com/event/15340761",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:30:00",
-    "location": "Glenn D. Cunningham Branch",
-    "audience": "Children (6-11)",
+    "title": "Heights Craft Corner",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Tuesday, December 9, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Offsite- please see description <br/>  <p><span style=\"font-size:14px;\">Get creative with us! Join our Craft Hour to make fun projects, explore new materials, and take home your very own masterpiece.<strong>This craft will be held at the Pershing Field Community Center located&nbsp;835 Summit Avenue, Jersey City, NJ 07307.&nbsp;</strong></span></p>",
+    "link": "https://jclibrary.libcal.com/event/15623305",
+    "date": "2025-12-09",
+    "day_of_week": "Tuesday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Offsite- please see description ",
+    "audience": "Early Childhood (0-5)",
     "categories": [
       "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Fun and Games Events"
-    ]
-  },
-  {
-    "title": "Kidokinetics",
-    "calendar_source": "Glenn D. Cunningham Branch",
-    "calendar_id": 17427,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Physical education fun brought to the library!</p>\n\n<p>Thursday, November 6. 4:30 PM.</p>\n\n<p>Cunningham Library</p>\n\n<p>275 MLK Dr</p>\n\n<p>Jersey City, NJ 07305</p>",
-    "link": "https://jclibrary.libcal.com/event/15123647",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "16:30:00",
-    "formatted_time": "04:30 PM",
-    "end_time": "17:30:00",
-    "location": "Glenn D. Cunningham Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Fun and Games Events",
-      "Popular Events > Health and Wellness Events",
-      "Popular Events > Teen Programs",
-      "September"
+      "Popular Events > Family Events"
     ]
   },
   {
@@ -2420,7 +2384,7 @@
     "title": "STEM for Kids: 3D Doodle Pens",
     "calendar_source": "Glenn D. Cunningham Branch",
     "calendar_id": 17427,
-    "description": "<strong>Date:</strong> Tuesday, November 18, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  ",
+    "description": "<strong>Date:</strong> Tuesday, November 18, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Come build unique creations with 3D Doodle Pens!</p>\n\n<p>Tuesday, November 18. 4:00 PM.&nbsp;</p>",
     "link": "https://jclibrary.libcal.com/event/15626282",
     "date": "2025-11-18",
     "day_of_week": "Tuesday",
@@ -2458,7 +2422,7 @@
     "title": "Thanksgiving Craft",
     "calendar_source": "Glenn D. Cunningham Branch",
     "calendar_id": 17427,
-    "description": "<strong>Date:</strong> Tuesday, November 25, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  ",
+    "description": "<strong>Date:</strong> Tuesday, November 25, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Tuesday, November 25. 4:00 PM.</p>\n\n<p>Cunningham Library&nbsp;</p>\n\n<p>275 MLK Dr</p>\n\n<p>Jersey City, NJ 07305</p>",
     "link": "https://jclibrary.libcal.com/event/15626279",
     "date": "2025-11-25",
     "day_of_week": "Tuesday",
@@ -2472,57 +2436,6 @@
       "Popular Events > Arts and Crafts Events",
       "Popular Events > Children Events",
       "Popular Events > S.T.E.A.M/ST.E.M Programs"
-    ]
-  },
-  {
-    "title": "Chess for Beginners (Ages 8+)*",
-    "calendar_source": "Five Corners Branch",
-    "calendar_id": 17430,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/>  <strong>Location:</strong>  Five Corners Branch-  William J. Timney Room<br/>  <p>Take lessons from a chess master, improve endgame play, practice positions, explore chess openings, or analyze and review games.</p>\n\n<p>Unlock the magic of chess in a fun, imaginative, and beginner-friendly environment! Perfect for children with experience playing chess who would like to better their game and impress their friends and family with amazing chess skills! Session A begins Monday September 22 and runs for 4 weeks. Registration is in person ONLY. Please register with Miss Anna. Session B Begins October 27th and runs for 4 weeks.&nbsp;</p>\n\n<p>RULES:&nbsp;</p>\n\n<p>Registration opens September 8th. In Person registration only.&nbsp;</p>\n\n<p>Student must be able to attend all 4 sessions.&nbsp;</p>\n\n<p>Student must have experience playing some chess (no novices).&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15113385",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "16:30:00",
-    "formatted_time": "04:30 PM",
-    "end_time": "17:30:00",
-    "location": "Five Corners Branch-  William J. Timney Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "September"
-    ]
-  },
-  {
-    "title": "Tiny Tots Open Play (Ages 0-5)",
-    "calendar_source": "Five Corners Branch",
-    "calendar_id": 17430,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch-  William J. Timney Room<br/>  <table>\n\t<tbody>\n\t\t<tr>\n\t\t\t<td id=\"a_event_desc\">Babies ages 0-5&nbsp;years old.</td>\n\t\t</tr>\n\t</tbody>\n</table>",
-    "link": "https://jclibrary.libcal.com/event/15467366",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch-  William J. Timney Room",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "Little Mover's Storytime",
-    "calendar_source": "Five Corners Branch",
-    "calendar_id": 17430,
-    "description": "<strong>Date:</strong> Thursday, November 6, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch-  William J. Timney Room, Five Corners Branch- Mildred Hunke Auditorium<br/>  <p>Join us for songs, fingerplays, and of course, books! This is a special time to bond with your little one and meet other caregivers. We will explore the joys of books, songs, and gentle movement in addition to building early learning skills you can practice at home. Come prepared to sit with your child on your lap. Best for children who are pre-walkers.</p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:22px;\">Registration is required and opens 24 hours early (Mondays at 11:00am)&nbsp;</span></strong></p>\n\n<p><a href=\"https://jclibrary.libcal.com/\">Events Calendar - Jersey City Free Public Library</a></p>",
-    "link": "https://jclibrary.libcal.com/event/15599487",
-    "date": "2025-11-06",
-    "day_of_week": "Thursday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch-  William J. Timney Room, Five Corners Branch- Mildred Hunke Auditorium",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events"
     ]
   },
   {
@@ -2645,130 +2558,71 @@
     ]
   },
   {
-    "title": "Halloween Bash",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Thursday, October 30, 2025<br/> <strong>Time:</strong> 4:00pm - 5:30pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Join us for a spooktacular party. We will have games, snacks and some spooky Halloween music. Come dressed in your own costume. Children 5 and under can get 1 free costume or a mask from our costume library.&nbsp; (Supplies are first come first served)</p>",
-    "link": "https://jclibrary.libcal.com/event/15423467",
-    "date": "2025-10-30",
-    "day_of_week": "Thursday",
-    "start_time": "16:00:00",
-    "formatted_time": "04:00 PM",
+    "title": "Chess for Beginners (Ages 8+)*",
+    "calendar_source": "Five Corners Branch",
+    "calendar_id": 17430,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 4:30pm - 5:30pm<br/>  <strong>Location:</strong>  Five Corners Branch-  William J. Timney Room<br/>  <p>Take lessons from a chess master, improve endgame play, practice positions, explore chess openings, or analyze and review games.</p>\n\n<p>Unlock the magic of chess in a fun, imaginative, and beginner-friendly environment! Perfect for children with experience playing chess who would like to better their game and impress their friends and family with amazing chess skills! Session A begins Monday September 22 and runs for 4 weeks. Registration is in person ONLY. Please register with Miss Anna. Session B Begins October 27th and runs for 4 weeks.&nbsp;</p>\n\n<p>RULES:&nbsp;</p>\n\n<p>Registration opens September 8th. In Person registration only.&nbsp;</p>\n\n<p>Student must be able to attend all 4 sessions.&nbsp;</p>\n\n<p>Student must have experience playing some chess (no novices).&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15488493",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "16:30:00",
+    "formatted_time": "04:30 PM",
     "end_time": "17:30:00",
-    "location": "Communipaw Branch",
+    "location": "Five Corners Branch-  William J. Timney Room",
     "audience": "Children (6-11)",
     "categories": [
-      "October",
-      "Popular Events > Family Events"
+      "September"
     ]
   },
   {
-    "title": "Move and Groove",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Come and dance your sillies away with Miss Rachel!&nbsp;</p>\n\n<p>Participants will focus on their gross motor skills with fun music.</p>\n\n<p>For ages 2-5 years old with an adult.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/14871816",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Communipaw Branch",
+    "title": "Pixton and Graphic Novel Making (Ages 8+)*",
+    "calendar_source": "Five Corners Branch",
+    "calendar_id": 17430,
+    "description": "<strong>Date:</strong> Wednesday, December 3, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch- Mildred Hunke Auditorium<br/>  <p><em>Pixton</em>&nbsp;is an effective writing tool with measured a successful impact on comic book making. Pair this with a Pilkey-style (<i>Captain Underpants)&nbsp;</i>style book making and you will be an author in no time. Ages 8+. Registration necessary.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15600311",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch- Mildred Hunke Auditorium",
+    "audience": "Children (6-11)",
+    "categories": [
+      "November"
+    ]
+  },
+  {
+    "title": "Little Mover's Storytime",
+    "calendar_source": "Five Corners Branch",
+    "calendar_id": 17430,
+    "description": "<strong>Date:</strong> Thursday, December 4, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch-  William J. Timney Room, Five Corners Branch- Mildred Hunke Auditorium<br/>  <p>Join us for songs, fingerplays, and of course, books! This is a special time to bond with your little one and meet other caregivers. We will explore the joys of books, songs, and gentle movement in addition to building early learning skills you can practice at home. Come prepared to sit with your child on your lap. Best for children who are pre-walkers.</p>\n\n<p>&nbsp;</p>\n\n<p><strong><span style=\"font-size:22px;\">Registration is required and opens 24 hours early (Mondays at 11:00am)&nbsp;</span></strong></p>\n\n<p><a href=\"https://jclibrary.libcal.com/\">Events Calendar - Jersey City Free Public Library</a></p>",
+    "link": "https://jclibrary.libcal.com/event/15599491",
+    "date": "2025-12-04",
+    "day_of_week": "Thursday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch-  William J. Timney Room, Five Corners Branch- Mildred Hunke Auditorium",
     "audience": "Early Childhood (0-5)",
     "categories": [
       "Popular Events > Children Events"
     ]
   },
   {
-    "title": "Stay & Play",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15256627",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "Communipaw Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Fun and Games Events",
-      "Popular Events > Social Gatherings"
-    ]
-  },
-  {
-    "title": "Mad About S.T.E.A.M",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Monday, November 3, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Each week will have a different S.T.E.A.M theme or use a different tech toy.&nbsp;</p>\n\n<p>This week&#39;s theme: Density&nbsp;</p>\n\n<p>Come make a sensory bottle and learn about the importance of density.&nbsp;</p>\n\n<p>For children ages 6-11.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15400466",
-    "date": "2025-11-03",
-    "day_of_week": "Monday",
+    "title": "Pixton and Graphic Novel Making (Ages 8+)*",
+    "calendar_source": "Five Corners Branch",
+    "calendar_id": 17430,
+    "description": "<strong>Date:</strong> Wednesday, December 10, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch- Mildred Hunke Auditorium<br/>  <p><em>Pixton</em>&nbsp;is an effective writing tool with measured a successful impact on comic book making. Pair this with a Pilkey-style (<i>Captain Underpants)&nbsp;</i>style book making and you will be an author in no time. Ages 8+. Registration necessary.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15600315",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
     "start_time": "16:00:00",
     "formatted_time": "04:00 PM",
     "end_time": "17:00:00",
-    "location": "Communipaw Branch",
+    "location": "Five Corners Branch-  Multipurpose Space (Foyer), Five Corners Branch- Mildred Hunke Auditorium",
     "audience": "Children (6-11)",
     "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > S.T.E.A.M/ST.E.M Programs"
-    ]
-  },
-  {
-    "title": "Storytime @ Communipaw",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Sing, dance and enjoy a story (or a few).</p>\n\n<p>For ages 0-5 with an adult.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/14871839",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Communipaw Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Stay & Play",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Wednesday, November 5, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15256628",
-    "date": "2025-11-05",
-    "day_of_week": "Wednesday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "Communipaw Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Fun and Games Events",
-      "Popular Events > Social Gatherings"
-    ]
-  },
-  {
-    "title": "Storytime @ Communipaw",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Saturday, November 8, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Sing, dance and enjoy a story (or a few).</p>\n\n<p>For ages 0-5 with an adult.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/15450891",
-    "date": "2025-11-08",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Communipaw Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events",
-      "Popular Events > Storytime Events"
+      "November"
     ]
   },
   {
@@ -2881,6 +2735,23 @@
     ]
   },
   {
+    "title": "Stay & Play",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Saturday, November 15, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>After storytime, stay for unstructured play time.&nbsp;</p>\n\n<p>For 0-5 years.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/14961941",
+    "date": "2025-11-15",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events"
+    ]
+  },
+  {
     "title": "Move and Groove",
     "calendar_source": "Communipaw Branch",
     "calendar_id": 19967,
@@ -2935,6 +2806,23 @@
     ]
   },
   {
+    "title": "Family Bingo",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Tuesday, November 18, 2025<br/> <strong>Time:</strong> 5:30pm - 6:30pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Play Bingo, win prizes! Family Friendly fun for the entire family!</p>",
+    "link": "https://jclibrary.libcal.com/event/15317786",
+    "date": "2025-11-18",
+    "day_of_week": "Tuesday",
+    "start_time": "17:30:00",
+    "formatted_time": "05:30 PM",
+    "end_time": "18:30:00",
+    "location": "Communipaw Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Family Events"
+    ]
+  },
+  {
     "title": "Storytime @ Communipaw",
     "calendar_source": "Communipaw Branch",
     "calendar_id": 19967,
@@ -2972,6 +2860,41 @@
     ]
   },
   {
+    "title": "Author Talk with Shauna Grant",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Thursday, November 20, 2025<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Come listen, laugh, and imagine with author and illustrator Shauna Grant!</p>",
+    "link": "https://jclibrary.libcal.com/event/15588060",
+    "date": "2025-11-20",
+    "day_of_week": "Thursday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Author Talks"
+    ]
+  },
+  {
+    "title": "Fun Fridays",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Friday, November 21, 2025<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Nintendo Switch for ages 6-11. Board games for all ages, puzzles, coloring sheets and more.</p>\n\n<p>Light refreshments will be served.</p>\n\n<p>No registration required.</p>",
+    "link": "https://jclibrary.libcal.com/event/14961607",
+    "date": "2025-11-21",
+    "day_of_week": "Friday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "end_time": "16:30:00",
+    "location": "Communipaw Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events"
+    ]
+  },
+  {
     "title": "Storytime @ Communipaw",
     "calendar_source": "Communipaw Branch",
     "calendar_id": 19967,
@@ -2987,6 +2910,42 @@
     "categories": [
       "Popular Events > Children Events",
       "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Stay & Play",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Saturday, November 22, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>After storytime, stay for unstructured play time.&nbsp;</p>\n\n<p>For 0-5 years.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15673283",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events"
+    ]
+  },
+  {
+    "title": "The Floor is Lava",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Saturday, November 22, 2025<br/> <strong>Time:</strong> 3:00pm - 4:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Ah! There is Lava all over the Program Room Floor!</p>\n\n<p>Come see if you can escape the lava.&nbsp;</p>\n\n<p>This program is for children ages 6-11. For safety of all participants, participants younger than 6 and older than 11 will not be allowed to participate.&nbsp;</p>\n\n<p>Registration is required.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15673296",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "end_time": "16:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Health and Wellness Events"
     ]
   },
   {
@@ -3041,6 +3000,169 @@
     "categories": [
       "Popular Events > Children Events",
       "Popular Events > S.T.E.A.M/ST.E.M Programs"
+    ]
+  },
+  {
+    "title": "Move and Groove",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Come and dance your sillies away with Miss Rachel!&nbsp;</p>\n\n<p>Participants will focus on their gross motor skills with fun music.</p>\n\n<p>For ages 2-5 years old with an adult.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/14871820",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events"
+    ]
+  },
+  {
+    "title": "Stay & Play",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Monday, December 1, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/15256635",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Social Gatherings"
+    ]
+  },
+  {
+    "title": "Storytime @ Communipaw",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Wednesday, December 3, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Sing, dance and enjoy a story (or a few).</p>\n\n<p>For ages 0-5 with an adult.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/14871843",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Stay & Play",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Wednesday, December 3, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/15256636",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Social Gatherings"
+    ]
+  },
+  {
+    "title": "Sharee Miller -  Author Meet and Greet",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Saturday, December 6, 2025<br/> <strong>Time:</strong> 12:00pm - 1:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <div ccp_infra_copy_id=\"44f10fd6-06a8-49ee-89a9-9ed1628dc027\" ccp_infra_timestamp=\"1758981986348\" ccp_infra_user_hash=\"2164875861\" ccp_infra_version=\"3\" data-ccp-timestamp=\"1758981986348\">\n<p>Join award-winning author and illustrator, Sharee Miller and Jersey City Mamas at the Jersey City Free Public Library for a special talk about her new book, &quot;Curlfriends: Back in Business&quot; and a free zine workshop!</p>\n\n<p>This event is recommended for ages 8-12.&nbsp;</p>\n</div>",
+    "link": "https://jclibrary.libcal.com/event/15433534",
+    "date": "2025-12-06",
+    "day_of_week": "Saturday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "end_time": "13:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Author Talks"
+    ]
+  },
+  {
+    "title": "Move and Groove",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Monday, December 8, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Come and dance your sillies away with Miss Rachel!&nbsp;</p>\n\n<p>Participants will focus on their gross motor skills with fun music.</p>\n\n<p>For ages 2-5 years old with an adult.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/14871821",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events"
+    ]
+  },
+  {
+    "title": "Stay & Play",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Monday, December 8, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/15256637",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Social Gatherings"
+    ]
+  },
+  {
+    "title": "Storytime @ Communipaw",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Wednesday, December 10, 2025<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Sing, dance and enjoy a story (or a few).</p>\n\n<p>For ages 0-5 with an adult.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/14871844",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Stay & Play",
+    "calendar_source": "Communipaw Branch",
+    "calendar_id": 19967,
+    "description": "<strong>Date:</strong> Wednesday, December 10, 2025<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/15256638",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Communipaw Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events",
+      "Popular Events > Social Gatherings"
     ]
   }
 ]
