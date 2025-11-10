@@ -837,6 +837,7 @@ footer {
 /* Popup body */
 .popup-body {
     padding: 16px;
+    padding-bottom: 24px; /* Extra padding at bottom for last button */
     background: white;
     max-height: 450px;
     overflow-y: auto;
@@ -846,8 +847,9 @@ footer {
 /* Mobile: smaller max-height to fit screen */
 @media (max-width: 768px) {
     .popup-body {
-        max-height: 300px; /* Smaller on mobile so it doesn't go off-screen */
+        max-height: 350px; /* Increased from 300px to give more room */
         overflow-y: auto;
+        padding-bottom: 30px; /* More padding at bottom on mobile */
     }
 }
 
@@ -921,7 +923,9 @@ footer {
     font-size: 14px;
     cursor: pointer;
     transition: all 0.2s ease;
-    margin-top: 8px;
+    margin-top: 12px;
+    margin-bottom: 8px; /* Space below button so it's clearly visible when scrolled to */
+    display: block; /* Ensure it takes full space */
 }
 
 .popup-show-all-btn:hover {
@@ -1143,13 +1147,21 @@ footer {
     /* Adjust popup for mobile */
     .leaflet-popup-content-wrapper {
         max-width: 90vw !important;
-        max-height: 70vh !important; /* Don't let popup take more than 70% of screen height */
+        max-height: 75vh !important; /* Increased from 70vh to 75vh for more room */
         overflow: visible !important;
     }
 
     .leaflet-popup-content {
-        max-height: 70vh !important;
+        max-height: 75vh !important;
         overflow: visible !important;
+    }
+
+    /* Make sure button is visible on mobile */
+    .popup-show-all-btn {
+        font-size: 13px;
+        padding: 14px 12px; /* Slightly more padding for easier tapping */
+        margin-top: 12px;
+        margin-bottom: 12px;
     }
 
     /* Ensure map remains scrollable on mobile */
