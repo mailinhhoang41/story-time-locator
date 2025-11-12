@@ -319,6 +319,14 @@ def get_branches(city):
             return jsonify({'groups': groups})
 
         elif city == 'hoboken':
+            # Get dynamic locations from hoboken_events (catches play centers, museums, etc.)
+            # Exclude 'Hoboken Public Library' since we handle libraries separately
+            hoboken_other_venues = sorted(set([
+                event.get('location', '')
+                for event in hoboken_events
+                if event.get('location') and event.get('location') != 'Hoboken Public Library'
+            ]))
+
             # Get Hoboken bookstores
             hoboken_bookstores = sorted(set([
                 event.get('venue_name', '')
@@ -337,11 +345,12 @@ def get_branches(city):
                     display_name = f"{name} (Bookstore)"
                 hoboken_bookstores_display.append(display_name)
 
-            # Combine library branches and bookstores in one group
+            # Combine: hardcoded library branches + dynamic other venues + bookstores
+            # Libraries are hardcoded because the data doesn't distinguish Grand Street properly
             all_locations = [
                 'Hoboken Public Library',
                 'Hoboken Public Library - Grand Street Branch'
-            ] + hoboken_bookstores_display
+            ] + hoboken_other_venues + hoboken_bookstores_display
 
             groups = [
                 {

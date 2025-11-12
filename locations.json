@@ -76,13 +76,6 @@
     "lat": 40.7428824,
     "lng": -74.0322821
   },
-  "Hoboken Public Library - Grand Street Branch": {
-    "address": "124 Grand Street, Hoboken, NJ 07030",
-    "type": "library",
-    "city": "Hoboken",
-    "lat": 40.7387897,
-    "lng": -74.0363773
-  },
   "WORD Bookstore": {
     "address": "29 McWilliams Place, Jersey City, NJ",
     "type": "bookstore",
@@ -96,5 +89,12 @@
     "city": "Hoboken",
     "lat": 40.73772,
     "lng": -74.031814
+  },
+  "The Bunny Hive": {
+    "address": "1001 Bloomfield St, Hoboken, NJ 07030",
+    "type": "play_center",
+    "city": "Hoboken",
+    "lat": 40.7487687,
+    "lng": -74.0281963
   }
 }

@@ -104,6 +104,19 @@
     "full_description": "Join our new Memoir Book Club! We will meet to discuss How to Say Babylon by Safiya Sinclair."
   },
   {
+    "title": "Books and Bubbles Pop Up",
+    "location": "The Bunny Hive",
+    "description": "Friday, November 14 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "link": "https://www.thebunnyhive.com/hoboken",
+    "date": "2025-11-14",
+    "day_of_week": "Friday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Fri, 14 Nov 2025 12:00:00 +0000",
+    "organizer": "The Bunny Hive",
+    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!"
+  },
+  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Friday, November 14 2025 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -271,6 +284,19 @@
     "datetime": "Fri, 21 Nov 2025 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Books and Bubbles Pop Up",
+    "location": "The Bunny Hive",
+    "description": "Friday, November 21 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "link": "https://www.thebunnyhive.com/hoboken",
+    "date": "2025-11-21",
+    "day_of_week": "Friday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Fri, 21 Nov 2025 12:00:00 +0000",
+    "organizer": "The Bunny Hive",
+    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!"
   },
   {
     "title": "Crafternoons",
