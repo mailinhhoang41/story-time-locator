@@ -225,6 +225,16 @@ document.addEventListener('DOMContentLoaded', function() {
             ? `<span class="city-badge">${event.city}</span>`
             : '';
 
+        // Check if event is FREE
+        // Events are free if:
+        // 1. Title contains "(FREE)" OR
+        // 2. It's NOT a Little City Books story time (they charge a small fee)
+        const titleLower = (event.title || '').toLowerCase();
+        const venueLower = (event.venue_name || event.location || '').toLowerCase();
+        const isFree = titleLower.includes('(free)') ||
+                      !(venueLower.includes('little city') && titleLower.includes('story time'));
+        const freeBadge = isFree ? `<span class="free-badge">FREE</span>` : '';
+
         // Get venue/branch info
         // For bookstores, use venue_name; for libraries, use branch
         const venue = event.venue_name || event.branch || event.location || 'Library';
@@ -254,7 +264,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
         return `
             <div class="result-card event-card">
-                ${cityBadge}
+                <div class="event-badges">
+                    ${cityBadge}
+                    ${freeBadge}
+                </div>
                 <div class="event-title">
                     📖 ${stripHtml(event.title)}
                 </div>

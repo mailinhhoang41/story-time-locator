@@ -143,6 +143,60 @@
     "full_description": "Join us for an unforgettable Family Funday with the talented musician Carol Lester, where music, dancing, reading, and loads of fun await!"
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 15 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-15",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 15 Nov 2025 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 15 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-15",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 15 Nov 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 15 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-15",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 15 Nov 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "Story Time",
     "location": "Hoboken Public Library",
     "description": "Sunday, November 16 2025 10:30am - 11:00am \n Join us for a special Story Time celebrating Native American Heritage Month!",
@@ -167,6 +221,42 @@
     "datetime": "Mon, 17 Nov 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us for a story time for our littlest learners!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, November 17 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-17",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 17 Nov 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, November 17 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-17",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 17 Nov 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": " Rise n' Read!",
@@ -219,6 +309,42 @@
     "datetime": "Wed, 19 Nov 2025 15:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, November 19 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-19",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 19 Nov 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, November 19 2025 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-19",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 19 Nov 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "Baby Story Time",
@@ -351,6 +477,60 @@
     "full_description": "This special story time will feature the book Kindness Looks Like Love (The Special Child), read by author Mr. Dashawn!"
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 22 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 22 Nov 2025 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 22 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 22 Nov 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 22 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-22",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 22 Nov 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "Story Time",
     "location": "Hoboken Public Library",
     "description": "Sunday, November 23 2025 10:30am - 11:00am \n Join us for a heartwarming and festive celebration as we dive into the spirit of Thanksgiving and gratitude through the magic of storytelling.",
@@ -375,6 +555,42 @@
     "datetime": "Mon, 24 Nov 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us for music and dancing!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, November 24 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-24",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 24 Nov 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, November 24 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-24",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 24 Nov 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "Sensory Play Time",
@@ -416,6 +632,132 @@
     "full_description": "An active story time for your little yogi!"
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, November 26 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-26",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 26 Nov 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, November 26 2025 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-26",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 26 Nov 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 29 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-29",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 29 Nov 2025 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 29 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-29",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 29 Nov 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, November 29 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-11-29",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 29 Nov 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 01 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 01 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 01 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 01 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "Story Time and Coloring",
     "location": "Hoboken Public Library",
     "description": "Tuesday, December 02 2025 10:30am - 11:30am \n Hoboken illustrator Ka Huen Kwong will read from her book, Bakery Babies!",
@@ -440,6 +782,42 @@
     "datetime": "Tue, 02 Dec 2025 15:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us every Tuesday for a Bilingual Story Time!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 03 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 03 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 03 2025 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 03 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "After School Story Time",
@@ -468,6 +846,60 @@
     "full_description": "Join us for an amazing cake decorating class for kids taught by local baker, Ms. Connie!"
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 06 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-06",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 06 Dec 2025 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 06 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-06",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 06 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 06 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-06",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 06 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "Welcome Fall",
     "location": "Hoboken Public Library",
     "description": "Sunday, December 07 2025 10:30am - 12:00pm \n Kids who learn Russian as their second language will recite poems and sing songs about Fall.",
@@ -479,6 +911,42 @@
     "datetime": "Sun, 07 Dec 2025 10:30:00 +0000",
     "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
     "full_description": "Kids who learn Russian as their second language will recite poems and sing songs about Fall."
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 08 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 08 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 08 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 08 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "Rise n' Read!",
@@ -507,6 +975,42 @@
     "full_description": "Join us every Tuesday for a Bilingual Story Time!"
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 10 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 10 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 10 2025 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 10 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "After School Story Time",
     "location": "Hoboken Public Library",
     "description": "Thursday, December 11 2025 3:30pm - 4:30pm \n Join us after school for some books, music, and movement!",
@@ -533,6 +1037,96 @@
     "full_description": "Join us for a fun Saturday morning story time and craft at the Grand Street Branch with our friends from the Hoboken Historical Museum!"
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 13 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-13",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 13 Dec 2025 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 13 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-13",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 13 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 13 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-13",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 13 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 15 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-15",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 15 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 15 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-15",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 15 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "Environmental Book Club",
     "location": "Hoboken Public Library",
     "description": "Tuesday, December 16 2025 11:00am - 12:00pm \n Join us every month for Environmental Book Club! This month we will be reading The Lost Journals of Sacajewea  by Debra Magpie Earling.",
@@ -557,6 +1151,42 @@
     "datetime": "Wed, 17 Dec 2025 18:00:00 +0000",
     "organizer": "dejeunee.depts@hobokenlibrary.org (Dejeunee Depts)",
     "full_description": "Join Hoboken SBC for an evening of quiet reading and community connection in the Hoboken Public Librarys Small Programming Room and Garden Space!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 17 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-17",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 17 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 17 2025 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-17",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 17 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "After School Story Time",
@@ -598,6 +1228,60 @@
     "full_description": "Story Time features stories, movement, songs, and nursery rhymes."
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 20 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-20",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 20 Dec 2025 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 20 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-20",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 20 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 20 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-20",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 20 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "Baby Music Class",
     "location": "Hoboken Public Library",
     "description": "Monday, December 22 2025 12:00pm - 12:30pm \n Join us for music and dancing!",
@@ -609,6 +1293,42 @@
     "datetime": "Mon, 22 Dec 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us for music and dancing!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 22 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-22",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 22 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 22 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-22",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 22 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "Hot Cocoa Story Time",
@@ -635,6 +1355,96 @@
     "datetime": "Sat, 27 Dec 2025 14:00:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Celebrate the New Year at Grand with a story time and special New Year crafts!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 27 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-27",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 27 Dec 2025 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 27 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-27",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 27 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, December 27 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-27",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 27 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 29 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-29",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 29 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, December 29 2025 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-29",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 29 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "Sensory Play Time",

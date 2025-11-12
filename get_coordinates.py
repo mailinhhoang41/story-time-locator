@@ -80,6 +80,11 @@ locations = {
         "address": "1001 Bloomfield St, Hoboken, NJ 07030",
         "type": "play_center",
         "city": "Hoboken"
+    },
+    "Garden Street School of the Performing Arts": {
+        "address": "1018 Washington St, Hoboken, NJ 07030",
+        "type": "dance_studio",
+        "city": "Hoboken"
     }
 }
 

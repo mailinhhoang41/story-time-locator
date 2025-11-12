@@ -96,5 +96,12 @@
     "city": "Hoboken",
     "lat": 40.7487687,
     "lng": -74.0281963
+  },
+  "Garden Street School of the Performing Arts": {
+    "address": "1018 Washington St, Hoboken, NJ 07030",
+    "type": "dance_studio",
+    "city": "Hoboken",
+    "lat": 40.7493633,
+    "lng": -74.0275893
   }
 }

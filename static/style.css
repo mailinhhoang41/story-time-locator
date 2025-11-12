@@ -421,6 +421,14 @@ footer {
 
 /* ===== EVENT CARD STYLES ===== */
 
+/* Badge container */
+.event-badges {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
 .city-badge {
     display: inline-block;
     background: #667eea;
@@ -429,7 +437,16 @@ footer {
     border-radius: 20px;
     font-size: 13px;
     font-weight: 600;
-    margin-bottom: 10px;
+}
+
+.free-badge {
+    display: inline-block;
+    background: #10b981;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
 }
 
 .event-title {
