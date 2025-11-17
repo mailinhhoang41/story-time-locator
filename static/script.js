@@ -75,12 +75,6 @@ document.addEventListener('DOMContentLoaded', function() {
             if (dateSelect) dateSelect.value = params.get('date_range');
         }
 
-        // Set venue type if provided
-        if (params.has('venue')) {
-            const venueSelect = document.querySelector('select[name="venue_type"]');
-            if (venueSelect) venueSelect.value = params.get('venue');
-        }
-
         // Set event type if provided
         if (params.has('type')) {
             const typeSelect = document.querySelector('select[name="event_type"]');
@@ -120,33 +114,27 @@ document.addEventListener('DOMContentLoaded', function() {
         const params = new URLSearchParams();
 
         // Add city
-        const city = document.getElementById('city').value;
-        if (city && city !== 'both') {
-            params.set('city', city);
+        const cityEl = document.getElementById('city');
+        if (cityEl && cityEl.value && cityEl.value !== 'both') {
+            params.set('city', cityEl.value);
         }
 
         // Add age
-        const age = document.getElementById('kids_ages').value;
-        if (age) {
-            params.set('age', age);
+        const ageEl = document.getElementById('kids_ages');
+        if (ageEl && ageEl.value) {
+            params.set('age', ageEl.value);
         }
 
         // Add date range
-        const dateRange = document.querySelector('select[name="date_range"]').value;
-        if (dateRange && dateRange !== 'all') {
-            params.set('date_range', dateRange);
-        }
-
-        // Add venue type
-        const venue = document.querySelector('select[name="venue_type"]').value;
-        if (venue && venue !== 'all') {
-            params.set('venue', venue);
+        const dateRangeEl = document.querySelector('select[name="date_range"]');
+        if (dateRangeEl && dateRangeEl.value && dateRangeEl.value !== 'all') {
+            params.set('date_range', dateRangeEl.value);
         }
 
         // Add event type
-        const eventType = document.querySelector('select[name="event_type"]').value;
-        if (eventType && eventType !== 'all') {
-            params.set('type', eventType);
+        const eventTypeEl = document.querySelector('select[name="event_type"]');
+        if (eventTypeEl && eventTypeEl.value && eventTypeEl.value !== 'all') {
+            params.set('type', eventTypeEl.value);
         }
 
         // Add selected days
@@ -208,7 +196,6 @@ document.addEventListener('DOMContentLoaded', function() {
             city: formData.get('city'),
             branches: selectedBranches,  // Changed from 'branch' to 'branches' array
             kids_ages: formData.get('kids_ages') || '',
-            venue_type: formData.get('venue_type') || 'all',
             event_type: formData.get('event_type') || 'all',
             date_range: formData.get('date_range') || 'all',
             days: selectedDays,
@@ -655,7 +642,6 @@ document.addEventListener('DOMContentLoaded', function() {
             // Reset all form fields to defaults
             document.getElementById('city').value = 'both';
             document.getElementById('kids_ages').value = '';
-            document.getElementById('venue_type').value = 'all';
             document.getElementById('event_type').value = 'all';
             document.getElementById('date_range').value = '2weeks';
 
