@@ -53,6 +53,129 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     loadLocationData();
 
+    // Load URL parameters and pre-fill form
+    function loadURLParams() {
+        const params = new URLSearchParams(window.location.search);
+
+        // Set city if provided
+        if (params.has('city')) {
+            const citySelect = document.getElementById('city');
+            if (citySelect) citySelect.value = params.get('city');
+        }
+
+        // Set age if provided
+        if (params.has('age')) {
+            const ageSelect = document.getElementById('kids_ages');
+            if (ageSelect) ageSelect.value = params.get('age');
+        }
+
+        // Set date range if provided
+        if (params.has('date_range')) {
+            const dateSelect = document.querySelector('select[name="date_range"]');
+            if (dateSelect) dateSelect.value = params.get('date_range');
+        }
+
+        // Set venue type if provided
+        if (params.has('venue')) {
+            const venueSelect = document.querySelector('select[name="venue_type"]');
+            if (venueSelect) venueSelect.value = params.get('venue');
+        }
+
+        // Set event type if provided
+        if (params.has('type')) {
+            const typeSelect = document.querySelector('select[name="event_type"]');
+            if (typeSelect) typeSelect.value = params.get('type');
+        }
+
+        // Set days if provided (comma-separated)
+        if (params.has('days')) {
+            const days = params.get('days').split(',');
+            days.forEach(day => {
+                const checkbox = document.querySelector(`input[name="days"][value="${day}"]`);
+                if (checkbox) checkbox.checked = true;
+            });
+        }
+
+        // Set time of day if provided (comma-separated)
+        if (params.has('time')) {
+            const times = params.get('time').split(',');
+            times.forEach(time => {
+                const checkbox = document.querySelector(`input[name="time_of_day"][value="${time}"]`);
+                if (checkbox) checkbox.checked = true;
+            });
+        }
+
+        // Auto-submit if URL has parameters
+        if (params.toString()) {
+            // Small delay to ensure branch selector is loaded
+            setTimeout(() => form.dispatchEvent(new Event('submit')), 500);
+        }
+    }
+
+    // Load URL parameters on page load
+    loadURLParams();
+
+    // Generate shareable URL based on current filters
+    function generateShareableURL() {
+        const params = new URLSearchParams();
+
+        // Add city
+        const city = document.getElementById('city').value;
+        if (city && city !== 'both') {
+            params.set('city', city);
+        }
+
+        // Add age
+        const age = document.getElementById('kids_ages').value;
+        if (age) {
+            params.set('age', age);
+        }
+
+        // Add date range
+        const dateRange = document.querySelector('select[name="date_range"]').value;
+        if (dateRange && dateRange !== 'all') {
+            params.set('date_range', dateRange);
+        }
+
+        // Add venue type
+        const venue = document.querySelector('select[name="venue_type"]').value;
+        if (venue && venue !== 'all') {
+            params.set('venue', venue);
+        }
+
+        // Add event type
+        const eventType = document.querySelector('select[name="event_type"]').value;
+        if (eventType && eventType !== 'all') {
+            params.set('type', eventType);
+        }
+
+        // Add selected days
+        const selectedDays = [];
+        document.querySelectorAll('input[name="days"]:checked').forEach(cb => {
+            selectedDays.push(cb.value);
+        });
+        if (selectedDays.length > 0) {
+            params.set('days', selectedDays.join(','));
+        }
+
+        // Add selected times
+        const selectedTimes = [];
+        document.querySelectorAll('input[name="time_of_day"]:checked').forEach(cb => {
+            selectedTimes.push(cb.value);
+        });
+        // Only add if not all times are selected (default state)
+        const allTimes = document.querySelectorAll('input[name="time_of_day"]');
+        if (selectedTimes.length > 0 && selectedTimes.length < allTimes.length) {
+            params.set('time', selectedTimes.join(','));
+        }
+
+        // Generate URL
+        const baseURL = window.location.origin + window.location.pathname;
+        const shareURL = params.toString() ? `${baseURL}?${params.toString()}` : baseURL;
+
+        return shareURL;
+    }
+
     // Listen for form submission
     form.addEventListener('submit', async function(e) {
         // Prevent default form submission (which would reload the page)
@@ -191,10 +314,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Create header showing number of results
         const cityName = getCityDisplayName(data.user_preferences.city);
+        const shareURL = generateShareableURL();
         let html = `
             <h2 class="results-header">
                 📚 Found ${events.length} Story Time${events.length !== 1 ? 's' : ''} in ${cityName}
             </h2>
+            <div class="share-section">
+                <button id="shareButton" class="share-button">🔗 Share These Results</button>
+                <div id="shareURLContainer" class="share-url-container hidden">
+                    <input type="text" id="shareURLInput" value="${shareURL}" readonly>
+                    <button id="copyURLButton" class="copy-button">Copy Link</button>
+                </div>
+            </div>
         `;
 
         // Create a card for each event
@@ -204,6 +335,41 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Insert the HTML into the results div
         results.innerHTML = html;
+
+        // Add event listeners for share button
+        const shareButton = document.getElementById('shareButton');
+        const shareURLContainer = document.getElementById('shareURLContainer');
+        const copyURLButton = document.getElementById('copyURLButton');
+        const shareURLInput = document.getElementById('shareURLInput');
+
+        if (shareButton) {
+            shareButton.addEventListener('click', function() {
+                shareURLContainer.classList.toggle('hidden');
+                if (!shareURLContainer.classList.contains('hidden')) {
+                    shareURLInput.select();
+                }
+            });
+        }
+
+        if (copyURLButton) {
+            copyURLButton.addEventListener('click', async function() {
+                try {
+                    await navigator.clipboard.writeText(shareURLInput.value);
+                    copyURLButton.textContent = '✓ Copied!';
+                    setTimeout(() => {
+                        copyURLButton.textContent = 'Copy Link';
+                    }, 2000);
+                } catch (err) {
+                    // Fallback for older browsers
+                    shareURLInput.select();
+                    document.execCommand('copy');
+                    copyURLButton.textContent = '✓ Copied!';
+                    setTimeout(() => {
+                        copyURLButton.textContent = 'Copy Link';
+                    }, 2000);
+                }
+            });
+        }
 
         // Smooth scroll to results
         results.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
