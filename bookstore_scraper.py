@@ -263,19 +263,23 @@ def main():
     all_events = []
 
     # Scrape Little City Books
-    little_city_events = scrape_little_city_books()
-    all_events.extend(little_city_events)
+    # DISABLED: Little City Books events are paid (not free)
+    # little_city_events = scrape_little_city_books()
+    # all_events.extend(little_city_events)
+    print("\n[Little City Books] Skipped (paid events only)")
 
-    # Future: Add more bookstores here
-    # word_events = scrape_word_jersey_city()
-    # all_events.extend(word_events)
+    # WORD Bookstore (Jersey City)
+    # Note: WORD events are manually added to bookstore_storytimes.json
+    # They are FREE events that should be kept
+    # Do not auto-scrape WORD to avoid overwriting manual entries
+    print("[WORD Bookstore] Manually maintained (FREE events)")
 
     # Save to JSON
-    if all_events:
-        save_bookstore_events(all_events)
-        print(f"\nTotal bookstore events: {len(all_events)}")
-    else:
-        print("\n[WARNING] No bookstore events found")
+    # WARNING: Since we're not auto-scraping, we should NOT save here
+    # to avoid overwriting manually maintained WORD events
+    # save_bookstore_events(all_events)
+    print("\n[INFO] Bookstore events are manually maintained in bookstore_storytimes.json")
+    print("       Add new FREE bookstore events manually to that file")
 
     print("=" * 60)
 

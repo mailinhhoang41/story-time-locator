@@ -15,7 +15,7 @@
     "end_time": "12:15:00",
     "formatted_end_time": "12:15 PM",
     "registration_link": "https://withfriends.co/event/26908517/story_time_with_raquel_dapice",
-    "audience": "All Ages",
+    "audience": "Ages 0-5 (All welcome)",
     "categories": [
       "Bookstore Events",
       "Storytime Events"
@@ -37,95 +37,7 @@
     "end_time": "12:15:00",
     "formatted_end_time": "12:15 PM",
     "registration_link": "https://withfriends.co/event/26975076/jersey_city_storytime_with_david_ezra_stein",
-    "audience": "All Ages",
-    "categories": [
-      "Bookstore Events",
-      "Storytime Events"
-    ]
-  },
-  {
-    "venue_type": "bookstore",
-    "venue_name": "Little City Books",
-    "city": "Hoboken",
-    "location": "Little City Books, 100 Bloomfield St, Hoboken, NJ",
-    "title": "Story Time with Laura",
-    "link": "https://littlecitybooks.com/event/2025-11-05/story-time-laura",
-    "description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "full_description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "day_of_week": "Wed",
-    "date": "2025-11-05",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "10:45:00",
-    "formatted_end_time": "10:45 AM",
-    "registration_link": "https://storytimewithlaura.eventbrite.com",
-    "audience": "Ages 0-5",
-    "categories": [
-      "Bookstore Events",
-      "Storytime Events"
-    ]
-  },
-  {
-    "venue_type": "bookstore",
-    "venue_name": "Little City Books",
-    "city": "Hoboken",
-    "location": "Little City Books, 100 Bloomfield St, Hoboken, NJ",
-    "title": "Story Time with Laura",
-    "link": "https://littlecitybooks.com/event/2025-11-12/story-time-laura",
-    "description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "full_description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "day_of_week": "Wed",
-    "date": "2025-11-12",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "10:45:00",
-    "formatted_end_time": "10:45 AM",
-    "registration_link": "https://storytimewithlaura.eventbrite.com",
-    "audience": "Ages 0-5",
-    "categories": [
-      "Bookstore Events",
-      "Storytime Events"
-    ]
-  },
-  {
-    "venue_type": "bookstore",
-    "venue_name": "Little City Books",
-    "city": "Hoboken",
-    "location": "Little City Books, 100 Bloomfield St, Hoboken, NJ",
-    "title": "Story Time with Laura",
-    "link": "https://littlecitybooks.com/event/2025-11-19/story-time-laura",
-    "description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "full_description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "day_of_week": "Wed",
-    "date": "2025-11-19",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "10:45:00",
-    "formatted_end_time": "10:45 AM",
-    "registration_link": "https://storytimewithlaura.eventbrite.com",
-    "audience": "Ages 0-5",
-    "categories": [
-      "Bookstore Events",
-      "Storytime Events"
-    ]
-  },
-  {
-    "venue_type": "bookstore",
-    "venue_name": "Little City Books",
-    "city": "Hoboken",
-    "location": "Little City Books, 100 Bloomfield St, Hoboken, NJ",
-    "title": "Story Time with Laura",
-    "link": "https://littlecitybooks.com/event/2025-11-26/story-time-laura",
-    "description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "full_description": "For kids 0 -5ish. Join Laura for stories, songs, and boundless affection.",
-    "day_of_week": "Wed",
-    "date": "2025-11-26",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "10:45:00",
-    "formatted_end_time": "10:45 AM",
-    "registration_link": "https://storytimewithlaura.eventbrite.com",
-    "audience": "Ages 0-5",
+    "audience": "Ages 0-5 (All welcome)",
     "categories": [
       "Bookstore Events",
       "Storytime Events"

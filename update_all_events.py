@@ -88,6 +88,36 @@ def main():
     if run_parser('hoboken_library_rss_parser.py', 'Hoboken Library RSS Parser'):
         success_count += 1
 
+        # After Hoboken parser, add manual events (ballet classes and Bunny Hive)
+        print("\n" + "="*80)
+        print("Adding manual Hoboken events (ballet & Bunny Hive)...")
+        print("="*80 + "\n")
+
+        # Add ballet classes
+        if run_parser('add_ballet_classes.py', 'Ballet Classes'):
+            print("[OK] Ballet classes added")
+
+        # Add Bunny Hive events
+        try:
+            import json
+            with open('hoboken_storytimes.json', 'r', encoding='utf-8') as f:
+                events = json.load(f)
+
+            bunny_events = [
+                {'title': 'Books and Bubbles Pop Up', 'location': 'The Bunny Hive', 'description': 'Friday, November 14 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!', 'link': 'https://www.thebunnyhive.com/hoboken', 'date': '2025-11-14', 'day_of_week': 'Friday', 'start_time': '12:00:00', 'formatted_time': '12:00 PM', 'datetime': 'Fri, 14 Nov 2025 12:00:00 +0000', 'organizer': 'The Bunny Hive', 'full_description': 'Join us for Books and Bubbles at The Bunny Hive in Hoboken!', 'audience': 'All Ages'},
+                {'title': 'Books and Bubbles Pop Up', 'location': 'The Bunny Hive', 'description': 'Friday, November 21 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!', 'link': 'https://www.thebunnyhive.com/hoboken', 'date': '2025-11-21', 'day_of_week': 'Friday', 'start_time': '12:00:00', 'formatted_time': '12:00 PM', 'datetime': 'Fri, 21 Nov 2025 12:00:00 +0000', 'organizer': 'The Bunny Hive', 'full_description': 'Join us for Books and Bubbles at The Bunny Hive in Hoboken!', 'audience': 'All Ages'}
+            ]
+
+            events.extend(bunny_events)
+
+            with open('hoboken_storytimes.json', 'w', encoding='utf-8') as f:
+                json.dump(events, f, indent=2, ensure_ascii=False)
+
+            print(f"[OK] Bunny Hive events added ({len(bunny_events)} events)")
+            print(f"[OK] Total Hoboken events: {len(events)}")
+        except Exception as e:
+            print(f"[WARNING] Could not add Bunny Hive events: {e}")
+
     # Run Bookstore scraper
     if run_parser('bookstore_scraper.py', 'Bookstore Scraper'):
         success_count += 1
@@ -101,10 +131,16 @@ def main():
     if success_count > 0:
         refresh_flask_server()
 
+    # Push to GitHub to update live site
+    # Note: Git commits should be done manually
+    # if success_count > 0:
+    #     push_to_github()
+
     print("\n[DONE] Update complete!")
     print("\nNext steps:")
-    print("  - If server is running: Data is already refreshed!")
-    print("  - If server is NOT running: Start it with 'python app.py'")
+    print("  - Review the updated JSON files")
+    print("  - Restart Flask server if needed")
+    print("  - Commit and push to GitHub manually if you want to update live site")
     print()
 
 if __name__ == '__main__':

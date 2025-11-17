@@ -188,6 +188,9 @@ def search():
         # Add duration info to each event (for frontend display)
         events = add_duration_info(events)
 
+        # Add expanded age display for multi-age events
+        events = add_expanded_age_display(events)
+
         # Sort by date (soonest first)
         events = sort_by_date(events)
 
@@ -369,11 +372,15 @@ def extract_age_range_from_text(text):
     """
     Extract age range from description text using regex
 
+    NOW SUPPORTS MULTIPLE AGE RANGES (e.g., "ages 6-11 and 12-18")
+    Returns the WIDEST range (min of all mins, max of all maxes)
+
     Looks for patterns like:
     - "ages 4-18"
     - "for ages 0-5"
     - "ages 3 to 11"
     - "4-18 years old"
+    - "ages 6-11 and 12-18" → returns (6, 18)
 
     Args:
         text: Event description text
@@ -384,25 +391,59 @@ def extract_age_range_from_text(text):
     if not text:
         return None
 
+    all_ranges = []
+
     # Pattern 1: "ages X-Y" or "ages X to Y"
     pattern1 = r'ages?\s+(\d+)\s*(?:-|to)\s*(\d+)'
-    match = re.search(pattern1, text.lower())
-    if match:
-        return (int(match.group(1)), int(match.group(2)))
+    for match in re.finditer(pattern1, text.lower()):
+        all_ranges.append((int(match.group(1)), int(match.group(2))))
 
     # Pattern 2: "for ages X-Y"
     pattern2 = r'for\s+ages?\s+(\d+)\s*(?:-|to)\s*(\d+)'
-    match = re.search(pattern2, text.lower())
-    if match:
-        return (int(match.group(1)), int(match.group(2)))
+    for match in re.finditer(pattern2, text.lower()):
+        all_ranges.append((int(match.group(1)), int(match.group(2))))
 
     # Pattern 3: "X-Y years old"
     pattern3 = r'(\d+)\s*-\s*(\d+)\s*years?\s+old'
-    match = re.search(pattern3, text.lower())
-    if match:
-        return (int(match.group(1)), int(match.group(2)))
+    for match in re.finditer(pattern3, text.lower()):
+        all_ranges.append((int(match.group(1)), int(match.group(2))))
+
+    # If we found multiple ranges, return the widest range
+    if all_ranges:
+        min_age = min(r[0] for r in all_ranges)
+        max_age = max(r[1] for r in all_ranges)
+        return (min_age, max_age)
 
     return None
+
+
+def expand_age_range_from_categories(event, base_min, base_max):
+    """
+    Expand age range if event has both Children and Teen categories
+
+    For events tagged with both "Children Events" AND "Teen Programs",
+    expands the age range to cover both groups (e.g., 6-11 → 6-18)
+
+    Args:
+        event: Event dictionary
+        base_min, base_max: Base age range from audience field
+
+    Returns:
+        tuple: (expanded_min, expanded_max) or original range if not multi-age
+    """
+    categories = event.get('categories', [])
+    if not categories:
+        return (base_min, base_max)
+
+    # Check if event has both children and teen categories
+    has_children = any('children events' in str(cat).lower() for cat in categories)
+    has_teen = any('teen programs' in str(cat).lower() for cat in categories)
+
+    # If it has both, expand to cover teens (up to 18)
+    if has_children and has_teen:
+        return (base_min, 18)
+
+    return (base_min, base_max)
 
 
 def check_age_overlap(user_min, user_max, event_min, event_max):
@@ -463,9 +504,10 @@ def filter_by_age(events, age_input):
         audience = event.get('audience', '').lower()
         description = event.get('description', '')
 
-        # Check for "all ages" first (but only if it's the main age designation)
-        # Don't match phrases like "activities for all ages are encouraged"
-        if 'all ages' in audience:
+        # Check for "all ages" - only include if user is searching for young kids (0-5)
+        # Most "all ages" story times are really for young children
+        # Don't show for teen searches (12-18)
+        if 'all ages' in audience and user_min <= 5:
             filtered.append(event)
             continue
 
@@ -480,11 +522,45 @@ def filter_by_age(events, age_input):
 
         # Fall back to audience field patterns
         # Extract numbers from audience field (e.g., "0-5" from "Early Childhood (0-5)")
-        audience_match = re.search(r'(\d+)\s*-\s*(\d+)', audience)
+        # IMPORTANT: Skip if it says "months" - those should be treated differently
+        # Check for months FIRST before trying to parse as years
+        if 'month' not in audience:
+            audience_match = re.search(r'(\d+)\s*-\s*(\d+)', audience)
+        else:
+            audience_match = None
         if audience_match:
             event_min = int(audience_match.group(1))
             event_max = int(audience_match.group(2))
+
+            # Expand age range if event has both Children and Teen categories
+            event_min, event_max = expand_age_range_from_categories(event, event_min, event_max)
+
             if check_age_overlap(user_min, user_max, event_min, event_max):
+                filtered.append(event)
+                continue
+
+        # Handle age ranges in months (convert to years)
+        # "Ages 0-18 months" → 0-1.5 years → treat as 0-2 for filtering
+        months_match = re.search(r'(\d+)\s*-\s*(\d+)\s*months?', audience)
+        if months_match:
+            month_min = int(months_match.group(1))
+            month_max = int(months_match.group(2))
+            # Convert months to years (rounded up)
+            event_min = month_min // 12
+            event_max = (month_max + 11) // 12  # Round up (e.g., 18 months = 2 years)
+
+            if check_age_overlap(user_min, user_max, event_min, event_max):
+                filtered.append(event)
+                continue
+
+        # Handle "Ages X+" pattern (e.g., "Ages 6+")
+        # Treat as "X to 11" to avoid showing elementary events for teens
+        # Use 11 instead of 12 to be conservative (don't show for 12-18 searches)
+        plus_match = re.search(r'ages?\s+(\d+)\s*\+', audience)
+        if plus_match:
+            age_min = int(plus_match.group(1))
+            age_max = 11  # Conservative upper bound (elementary school)
+            if check_age_overlap(user_min, user_max, age_min, age_max):
                 filtered.append(event)
                 continue
 
@@ -786,6 +862,38 @@ def filter_by_event_type(events, event_type):
             filtered.append(event)
 
     return filtered
+
+
+def add_expanded_age_display(events):
+    """
+    Update audience display for multi-age events
+
+    If an event has both "Children Events" and "Teen Programs" categories,
+    update the audience display to show the expanded age range (e.g., "Ages 6-18")
+
+    Args:
+        events: List of event dictionaries
+
+    Returns:
+        List of events with updated audience display
+    """
+    for event in events:
+        categories = event.get('categories', [])
+        audience = event.get('audience', '')
+
+        # Check if event has both Children and Teen categories
+        has_children = any('children events' in str(cat).lower() for cat in categories)
+        has_teen = any('teen programs' in str(cat).lower() for cat in categories)
+
+        if has_children and has_teen:
+            # Parse the existing audience to get the min age
+            audience_match = re.search(r'(\d+)\s*-\s*(\d+)', audience)
+            if audience_match:
+                age_min = audience_match.group(1)
+                # Expand to show it's for both children and teens
+                event['audience'] = f"Ages {age_min}-18 (Children & Teens)"
+
+    return events
 
 
 def add_duration_info(events):

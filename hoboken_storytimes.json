@@ -1,148 +1,5 @@
 [
   {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Monday, November 10 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/14817893",
-    "date": "2025-11-10",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 10 Nov 2025 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!"
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, November 11 2025 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/14921228",
-    "date": "2025-11-11",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 11 Nov 2025 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Yoga Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 12 2025 10:30am - 11:00am \n An active story time for your little yogi!",
-    "link": "https://hobokenlibrary.libnet.info/event/14817910",
-    "date": "2025-11-12",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 12 Nov 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "An active story time for your little yogi!"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 12 2025 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/14921189",
-    "date": "2025-11-12",
-    "day_of_week": "Wednesday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Wed, 12 Nov 2025 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, November 13 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/14817894",
-    "date": "2025-11-13",
-    "day_of_week": "Thursday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Thu, 13 Nov 2025 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!"
-  },
-  {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, November 13 2025 3:30pm - 4:00pm \n Join us after school for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/14440652",
-    "date": "2025-11-13",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 13 Nov 2025 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
-    "title": "Storyteller's Art",
-    "location": "Hoboken Public Library",
-    "description": "Friday, November 14 2025 10:30am - 11:30am \n In this workshop, you wont just listen to a storyyoull become part of it!",
-    "link": "https://hobokenlibrary.libnet.info/event/14800653",
-    "date": "2025-11-14",
-    "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 14 Nov 2025 10:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "In this workshop, you wont just listen to a storyyoull become part of it!"
-  },
-  {
-    "title": "Memoir Book Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, November 14 2025 11:00am - 12:00pm \n Join our new Memoir Book Club! We will meet to discuss How to Say Babylon by Safiya Sinclair.",
-    "link": "https://hobokenlibrary.libnet.info/event/14924483",
-    "date": "2025-11-14",
-    "day_of_week": "Friday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "datetime": "Fri, 14 Nov 2025 11:00:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join our new Memoir Book Club! We will meet to discuss How to Say Babylon by Safiya Sinclair."
-  },
-  {
-    "title": "Books and Bubbles Pop Up",
-    "location": "The Bunny Hive",
-    "description": "Friday, November 14 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "link": "https://www.thebunnyhive.com/hoboken",
-    "date": "2025-11-14",
-    "day_of_week": "Friday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Fri, 14 Nov 2025 12:00:00 +0000",
-    "organizer": "The Bunny Hive",
-    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Friday, November 14 2025 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/14921190",
-    "date": "2025-11-14",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Fri, 14 Nov 2025 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
-  },
-  {
-    "title": "Family FUNday: Music Hour",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, November 15 2025 10:30am - 11:30am \n Join us for an unforgettable Family Funday with the talented musician Carol Lester, where music, dancing, reading, and loads of fun await!",
-    "link": "https://hobokenlibrary.libnet.info/event/14507599",
-    "date": "2025-11-15",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 15 Nov 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for an unforgettable Family Funday with the talented musician Carol Lester, where music, dancing, reading, and loads of fun await!"
-  },
-  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Saturday, November 15 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -197,19 +54,6 @@
     ]
   },
   {
-    "title": "Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, November 16 2025 10:30am - 11:00am \n Join us for a special Story Time celebrating Native American Heritage Month!",
-    "link": "https://hobokenlibrary.libnet.info/event/14828775",
-    "date": "2025-11-16",
-    "day_of_week": "Sunday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sun, 16 Nov 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a special Story Time celebrating Native American Heritage Month!"
-  },
-  {
     "title": "Baby Story Time",
     "location": "Hoboken Public Library",
     "description": "Monday, November 17 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
@@ -220,7 +64,8 @@
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 17 Nov 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!"
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -308,7 +153,8 @@
     "formatted_time": "03:00 PM",
     "datetime": "Wed, 19 Nov 2025 15:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -357,7 +203,8 @@
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 20 Nov 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!"
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
   },
   {
     "title": "After School Story Time",
@@ -371,19 +218,6 @@
     "datetime": "Thu, 20 Nov 2025 15:30:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
-    "title": "Romance Book Club",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, November 20 2025 5:30pm - 6:30pm \n Dive into a world of love, laughter, and endless feels with our Romance Book Club! Join us this month as we read Love Story by Ashley Poston.",
-    "link": "https://hobokenlibrary.libnet.info/event/14968824",
-    "date": "2025-11-20",
-    "day_of_week": "Thursday",
-    "start_time": "17:30:00",
-    "formatted_time": "05:30 PM",
-    "datetime": "Thu, 20 Nov 2025 17:30:00 +0000",
-    "organizer": "kerri.wallace@hobokenlibrary.org (Kerri Wallace)",
-    "full_description": "Dive into a world of love, laughter, and endless feels with our Romance Book Club! Join us this month as we read Love Story by Ashley Poston."
   },
   {
     "title": "Author Event: Bird City by Ryan Goldberg",
@@ -412,19 +246,6 @@
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Books and Bubbles Pop Up",
-    "location": "The Bunny Hive",
-    "description": "Friday, November 21 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "link": "https://www.thebunnyhive.com/hoboken",
-    "date": "2025-11-21",
-    "day_of_week": "Friday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Fri, 21 Nov 2025 12:00:00 +0000",
-    "organizer": "The Bunny Hive",
-    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Friday, November 21 2025 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -435,7 +256,8 @@
     "formatted_time": "03:00 PM",
     "datetime": "Fri, 21 Nov 2025 15:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St."
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
   },
   {
     "title": "Storytime STEAM Club",
@@ -448,7 +270,8 @@
     "formatted_time": "03:30 PM",
     "datetime": "Fri, 21 Nov 2025 15:30:00 +0000",
     "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "This series of meetups promotes early literacy, curiosity, and collaborative learning."
+    "full_description": "This series of meetups promotes early literacy, curiosity, and collaborative learning.",
+    "audience": "Ages 7-11"
   },
   {
     "title": "Graphic Novel Club",
@@ -554,7 +377,8 @@
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 24 Nov 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for music and dancing!"
+    "full_description": "Join us for music and dancing!",
+    "audience": "Ages 0-18 months"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -722,6 +546,20 @@
     ]
   },
   {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Monday, December 01 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120282",
+    "date": "2025-12-01",
+    "day_of_week": "Monday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Mon, 01 Dec 2025 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Monday, December 01 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -784,6 +622,20 @@
     "full_description": "Join us every Tuesday for a Bilingual Story Time!"
   },
   {
+    "title": "Toddler Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, December 03 2025 10:30am - 11:00am \n Join us every Wednesday for Toddler Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120342",
+    "date": "2025-12-03",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 03 Dec 2025 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us every Wednesday for Toddler Story Time!",
+    "audience": "Ages 1-3"
+  },
+  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Wednesday, December 03 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
@@ -820,6 +672,20 @@
     ]
   },
   {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, December 04 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120283",
+    "date": "2025-12-04",
+    "day_of_week": "Thursday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Thu, 04 Dec 2025 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
     "title": "After School Story Time",
     "location": "Hoboken Public Library",
     "description": "Thursday, December 04 2025 3:30pm - 4:30pm \n Join us after school for some books, music, and movement!",
@@ -831,6 +697,19 @@
     "datetime": "Thu, 04 Dec 2025 15:30:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us after school for some books, music, and movement!"
+  },
+  {
+    "title": "Yoga Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Friday, December 05 2025 10:30am - 11:00am \n An active story time for your little yogi!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120336",
+    "date": "2025-12-05",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 05 Dec 2025 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "An active story time for your little yogi!"
   },
   {
     "title": "Cake Decorating Class",
@@ -913,6 +792,33 @@
     "full_description": "Kids who learn Russian as their second language will recite poems and sing songs about Fall."
   },
   {
+    "title": "Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Sunday, December 07 2025 10:30am - 11:00am \n Gather around for a delightful Hanukkah story time, where little ones can enjoy tales of miracles, lights, and family traditions!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120325",
+    "date": "2025-12-07",
+    "day_of_week": "Sunday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sun, 07 Dec 2025 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Gather around for a delightful Hanukkah story time, where little ones can enjoy tales of miracles, lights, and family traditions!"
+  },
+  {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Monday, December 08 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120284",
+    "date": "2025-12-08",
+    "day_of_week": "Monday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Mon, 08 Dec 2025 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Monday, December 08 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -975,6 +881,19 @@
     "full_description": "Join us every Tuesday for a Bilingual Story Time!"
   },
   {
+    "title": "Yoga Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, December 10 2025 10:30am - 11:00am \n An active story time for your little yogi!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120337",
+    "date": "2025-12-10",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 10 Dec 2025 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "An active story time for your little yogi!"
+  },
+  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Wednesday, December 10 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
@@ -1011,6 +930,20 @@
     ]
   },
   {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, December 11 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120285",
+    "date": "2025-12-11",
+    "day_of_week": "Thursday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Thu, 11 Dec 2025 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
     "title": "After School Story Time",
     "location": "Hoboken Public Library",
     "description": "Thursday, December 11 2025 3:30pm - 4:30pm \n Join us after school for some books, music, and movement!",
@@ -1022,6 +955,19 @@
     "datetime": "Thu, 11 Dec 2025 15:30:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us after school for some books, music, and movement!"
+  },
+  {
+    "title": "Yoga Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Friday, December 12 2025 10:30am - 11:00am \n An active story time for your little yogi!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120338",
+    "date": "2025-12-12",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 12 Dec 2025 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "An active story time for your little yogi!"
   },
   {
     "title": "Museum Story Time",
@@ -1091,6 +1037,20 @@
     ]
   },
   {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Monday, December 15 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120286",
+    "date": "2025-12-15",
+    "day_of_week": "Monday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Mon, 15 Dec 2025 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Monday, December 15 2025 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -1127,17 +1087,17 @@
     ]
   },
   {
-    "title": "Environmental Book Club",
+    "title": "Yoga Story Time",
     "location": "Hoboken Public Library",
-    "description": "Tuesday, December 16 2025 11:00am - 12:00pm \n Join us every month for Environmental Book Club! This month we will be reading The Lost Journals of Sacajewea  by Debra Magpie Earling.",
-    "link": "https://hobokenlibrary.libnet.info/event/15036547",
-    "date": "2025-12-16",
-    "day_of_week": "Tuesday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "datetime": "Tue, 16 Dec 2025 11:00:00 +0000",
-    "organizer": "kerri.wallace@hobokenlibrary.org (Kerri Wallace)",
-    "full_description": "Join us every month for Environmental Book Club! This month we will be reading The Lost Journals of Sacajewea  by Debra Magpie Earling."
+    "description": "Wednesday, December 17 2025 10:30am - 11:00am \n An active story time for your little yogi!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120339",
+    "date": "2025-12-17",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 17 Dec 2025 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "An active story time for your little yogi!"
   },
   {
     "title": "Stories & Stacks",
@@ -1189,6 +1149,20 @@
     ]
   },
   {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, December 18 2025 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15120287",
+    "date": "2025-12-18",
+    "day_of_week": "Thursday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Thu, 18 Dec 2025 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
     "title": "After School Story Time",
     "location": "Hoboken Public Library",
     "description": "Thursday, December 18 2025 3:30pm - 4:30pm \n Join us after school for some books, music, and movement!",
@@ -1212,7 +1186,8 @@
     "formatted_time": "03:30 PM",
     "datetime": "Fri, 19 Dec 2025 15:30:00 +0000",
     "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "This series of meetups promotes early literacy, curiosity, and collaborative learning."
+    "full_description": "This series of meetups promotes early literacy, curiosity, and collaborative learning.",
+    "audience": "Ages 7-11"
   },
   {
     "title": "Toddler Story Time",
@@ -1225,7 +1200,8 @@
     "formatted_time": "10:30 AM",
     "datetime": "Sat, 20 Dec 2025 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes."
+    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
+    "audience": "Ages 1-3"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -1292,7 +1268,8 @@
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 22 Dec 2025 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for music and dancing!"
+    "full_description": "Join us for music and dancing!",
+    "audience": "Ages 0-18 months"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -1342,6 +1319,42 @@
     "datetime": "Tue, 23 Dec 2025 10:30:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us at our Grand St. Branch for a drop-in story time and craft!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 24 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-24",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 24 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 24 2025 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-24",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 24 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
   },
   {
     "title": "New Year Party",
@@ -1460,6 +1473,42 @@
     "full_description": "Explore Through the Senses! Join us for a variety of sensory activities for little ones."
   },
   {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 31 2025 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-31",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 31 Dec 2025 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, December 31 2025 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2025-12-31",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 31 Dec 2025 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
     "title": "Toddler Story Time",
     "location": "Hoboken Public Library",
     "description": "Saturday, January 03 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
@@ -1470,7 +1519,21 @@
     "formatted_time": "10:30 AM",
     "datetime": "Sat, 03 Jan 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes."
+    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
+    "audience": "Ages 1-3"
+  },
+  {
+    "title": "Hebrew Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, January 17 2026 11:30am - 12:00pm \n Join us for a Hebrew Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/15107204",
+    "date": "2026-01-17",
+    "day_of_week": "Saturday",
+    "start_time": "11:30:00",
+    "formatted_time": "11:30 AM",
+    "datetime": "Sat, 17 Jan 2026 11:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a Hebrew Story Time!"
   },
   {
     "title": "Baby Music Class",
@@ -1483,6 +1546,35 @@
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 26 Jan 2026 12:00:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for music and dancing!"
+    "full_description": "Join us for music and dancing!",
+    "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Books and Bubbles Pop Up",
+    "location": "The Bunny Hive",
+    "description": "Friday, November 14 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "link": "https://www.thebunnyhive.com/hoboken",
+    "date": "2025-11-14",
+    "day_of_week": "Friday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Fri, 14 Nov 2025 12:00:00 +0000",
+    "organizer": "The Bunny Hive",
+    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "audience": "All Ages"
+  },
+  {
+    "title": "Books and Bubbles Pop Up",
+    "location": "The Bunny Hive",
+    "description": "Friday, November 21 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "link": "https://www.thebunnyhive.com/hoboken",
+    "date": "2025-11-21",
+    "day_of_week": "Friday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Fri, 21 Nov 2025 12:00:00 +0000",
+    "organizer": "The Bunny Hive",
+    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "audience": "All Ages"
   }
 ]

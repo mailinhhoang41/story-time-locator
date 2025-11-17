@@ -13,6 +13,70 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 import json
 import base64
+import re
+
+def extract_age_from_description(title, description):
+    """
+    Extract age range from event title and description
+
+    Args:
+        title: Event title
+        description: Event description text
+
+    Returns:
+        str: Age range like "Ages 0-18 months", "Ages 6+", "Ages 7-11", or None
+    """
+    if not description and not title:
+        return None
+
+    # Known event title mappings (for events without age in description)
+    known_events = {
+        'crafternoons': 'Ages 6+',
+        'crafternoon': 'Ages 6+',
+        'storytime steam club': 'Ages 7-11',
+        'steam club': 'Ages 7-11',
+    }
+
+    # Check known event titles first
+    title_lower = title.lower()
+    for event_key, age_range in known_events.items():
+        if event_key in title_lower:
+            return age_range
+
+    combined_text = (title + ' ' + (description or '')).lower()
+
+    # Pattern 1: "X-Y months" or "X-Y years"
+    match = re.search(r'(\d+)\s*-\s*(\d+)\s*(months?|years?)', combined_text)
+    if match:
+        num1, num2, unit = match.groups()
+        if 'month' in unit:
+            return f"Ages {num1}-{num2} months"
+        else:
+            return f"Ages {num1}-{num2}"
+
+    # Pattern 2: "ages X-Y" or "aged X-Y"
+    match = re.search(r'age[sd]?\s+(\d+)\s*-\s*(\d+)', combined_text)
+    if match:
+        return f"Ages {match.group(1)}-{match.group(2)}"
+
+    # Pattern 3: "X and up" or "X+"
+    match = re.search(r'(\d+)\s*(?:and up|\+|plus)', combined_text)
+    if match:
+        return f"Ages {match.group(1)}+"
+
+    # Pattern 4: "for ages X to Y"
+    match = re.search(r'for\s+ages?\s+(\d+)\s+to\s+(\d+)', combined_text)
+    if match:
+        return f"Ages {match.group(1)}-{match.group(2)}"
+
+    # Special cases based on title keywords
+    if 'baby' in title_lower:
+        return "Ages 0-18 months"
+    elif 'toddler' in title_lower:
+        return "Ages 1-3"
+
+    return None
+
 
 def build_rss_url(days=365):
     """
@@ -101,7 +165,15 @@ def fetch_storytime_events(days=365):
                 if any(keyword in desc_lower for keyword in keywords):
                     is_story_time = True
 
-            if is_story_time:
+            # Exclude adult-only events (book clubs, adult programs)
+            adult_keywords = ['book club', 'adult']
+            is_adult_event = any(keyword in title_lower for keyword in adult_keywords)
+            if desc_elem is not None and desc_elem.text:
+                desc_lower = desc_elem.text.lower()
+                if any(keyword in desc_lower for keyword in adult_keywords):
+                    is_adult_event = True
+
+            if is_story_time and not is_adult_event:
                 story_time_count += 1
 
                 # Build event dictionary
@@ -143,6 +215,14 @@ def fetch_storytime_events(days=365):
                 content = item.find('{http://purl.org/rss/1.0/modules/content/}encoded')
                 if content is not None and content.text:
                     event['full_description'] = content.text.strip()
+
+                # Extract age range from description
+                age_range = extract_age_from_description(
+                    title,
+                    event.get('full_description') or event.get('description', '')
+                )
+                if age_range:
+                    event['audience'] = age_range
 
                 all_events.append(event)
 
