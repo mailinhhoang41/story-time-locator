@@ -27,3 +27,6 @@ nul
 
 # Environment variables
 .env
+
+# Email subscribers (contains personal data)
+email_subscribers.json

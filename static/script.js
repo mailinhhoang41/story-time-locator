@@ -1111,4 +1111,151 @@ document.addEventListener('DOMContentLoaded', function() {
     listViewBtn.addEventListener('click', switchToListView);
     mapViewBtn.addEventListener('click', switchToMapView);
 
+    // ===== EMAIL SUBSCRIPTION FUNCTIONALITY =====
+
+    const emailModal = document.getElementById('emailModal');
+    const closeModalBtn = document.getElementById('closeModal');
+    const modalEmailForm = document.getElementById('emailSubscribeForm');
+    const footerEmailForm = document.getElementById('footerEmailForm');
+    const modalMessage = document.getElementById('modalMessage');
+    const footerMessage = document.getElementById('footerMessage');
+
+    /**
+     * Show email modal after first search (if user hasn't seen it before)
+     *
+     * This function checks localStorage to see if the user has already
+     * seen the modal. If not, it shows the modal after their first search.
+     * This is less intrusive than showing it immediately on page load.
+     */
+    function showEmailModalAfterSearch() {
+        // Check if user has already seen/dismissed the modal
+        const hasSeenModal = localStorage.getItem('emailModalSeen');
+
+        if (!hasSeenModal) {
+            // Show modal after a brief delay (to let results load first)
+            setTimeout(() => {
+                emailModal.classList.remove('hidden');
+            }, 1500);
+
+            // Mark as seen so we don't show it again
+            localStorage.setItem('emailModalSeen', 'true');
+        }
+    }
+
+    /**
+     * Close the email modal
+     */
+    function closeEmailModal() {
+        emailModal.classList.add('hidden');
+    }
+
+    /**
+     * Handle email subscription form submission
+     *
+     * @param {Event} e - Form submit event
+     * @param {string} source - 'modal' or 'footer' to identify which form was submitted
+     */
+    async function handleEmailSubscription(e, source) {
+        e.preventDefault();
+
+        const form = e.target;
+        const emailInput = form.querySelector('input[type="email"]');
+        const email = emailInput.value.trim();
+        const submitBtn = form.querySelector('button[type="submit"]');
+        const messageEl = source === 'modal' ? modalMessage : footerMessage;
+
+        // Disable submit button and show loading state
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Subscribing...';
+
+        // Hide any previous messages
+        messageEl.classList.add('hidden');
+        messageEl.classList.remove('success', 'error');
+
+        try {
+            // Send subscription request to backend
+            const response = await fetch('/subscribe', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ email })
+            });
+
+            const data = await response.json();
+
+            if (response.ok && data.success) {
+                // Success!
+                messageEl.textContent = data.message || 'Thanks for subscribing!';
+                messageEl.classList.add('success');
+                messageEl.classList.remove('hidden');
+
+                // Clear the form
+                form.reset();
+
+                // Track subscription in Google Analytics
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'newsletter_subscribe', {
+                        'event_category': 'Email Subscription',
+                        'event_label': source,
+                        'method': source
+                    });
+                }
+
+                // If modal, close it after 2 seconds
+                if (source === 'modal') {
+                    setTimeout(() => {
+                        closeEmailModal();
+                    }, 2000);
+                }
+            } else {
+                // Error from backend
+                messageEl.textContent = data.error || 'Something went wrong. Please try again.';
+                messageEl.classList.add('error');
+                messageEl.classList.remove('hidden');
+            }
+        } catch (err) {
+            // Network or other error
+            messageEl.textContent = 'Connection error. Please try again.';
+            messageEl.classList.add('error');
+            messageEl.classList.remove('hidden');
+        } finally {
+            // Re-enable submit button
+            submitBtn.disabled = false;
+            submitBtn.textContent = 'Subscribe';
+        }
+    }
+
+    // Listen for modal close button
+    closeModalBtn.addEventListener('click', closeEmailModal);
+
+    // Close modal when clicking outside the content area
+    emailModal.addEventListener('click', function(e) {
+        if (e.target === emailModal) {
+            closeEmailModal();
+        }
+    });
+
+    // Handle modal form submission
+    modalEmailForm.addEventListener('submit', function(e) {
+        handleEmailSubscription(e, 'modal');
+    });
+
+    // Handle footer form submission
+    footerEmailForm.addEventListener('submit', function(e) {
+        handleEmailSubscription(e, 'footer');
+    });
+
+    // Show modal after first search (already inside the form submit handler)
+    // We'll modify the existing form submit handler to trigger this
+    const originalFormSubmit = form.onsubmit;
+    form.addEventListener('submit', function() {
+        // Wait for search to complete, then show modal if needed
+        setTimeout(() => {
+            if (currentEvents.length > 0) {
+                showEmailModalAfterSearch();
+            }
+        }, 2000);
+    });
+
 });

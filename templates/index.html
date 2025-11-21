@@ -215,8 +215,54 @@
             <div id="map"></div>
         </div>
 
-        <!-- Footer -->
+        <!-- Email Subscription Pop-up Modal (hidden by default) -->
+        <div id="emailModal" class="email-modal hidden">
+            <div class="email-modal-content">
+                <button class="email-modal-close" id="closeModal">&times;</button>
+                <h2>Get the best FREE kids activities, delivered weekly 📬</h2>
+                <ul class="modal-benefits">
+                    <li>Hand-picked FREE events worth your time</li>
+                    <li>New venues and activities first</li>
+                    <li>No searching, just show up</li>
+                </ul>
+                <form id="emailSubscribeForm" class="email-form">
+                    <input
+                        type="email"
+                        id="modalEmailInput"
+                        name="email"
+                        placeholder="Enter your email"
+                        required
+                        aria-label="Email address"
+                    />
+                    <button type="submit" class="subscribe-btn">Subscribe</button>
+                </form>
+                <p class="unsubscribe-note">Unsubscribe anytime</p>
+                <div id="modalMessage" class="modal-message hidden"></div>
+            </div>
+        </div>
+
+        <!-- Footer with Email Signup -->
         <footer>
+            <div class="footer-signup">
+                <form id="footerEmailForm" class="footer-email-form">
+                    <label for="footerEmailInput" class="footer-signup-label">
+                        Get the best FREE kids activities, weekly →
+                    </label>
+                    <div class="footer-email-group">
+                        <input
+                            type="email"
+                            id="footerEmailInput"
+                            name="email"
+                            placeholder="your@email.com"
+                            required
+                            aria-label="Email address for newsletter"
+                        />
+                        <button type="submit" class="footer-subscribe-btn">Subscribe</button>
+                    </div>
+                </form>
+                <div id="footerMessage" class="footer-message hidden"></div>
+            </div>
+
             <p>Made with ❤️ for Jersey City & Hoboken families</p>
             <p class="disclaimer">Story time schedules may change. Always check the library's website or call ahead to confirm.</p>
             <p class="contact">Questions or issues? Contact me at <a href="mailto:mailinh.hoang41@gmail.com">mailinh.hoang41@gmail.com</a></p>

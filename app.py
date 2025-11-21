@@ -14,20 +14,36 @@ Architecture:
 """
 
 from flask import Flask, render_template, request, jsonify
+from flask_mail import Mail, Message
 from datetime import datetime, timedelta
 import json
 import os
 import re
+import secrets
 
 # Initialize Flask app
 # Flask is a web framework that handles HTTP requests/responses
 app = Flask(__name__)
+
+# Flask-Mail configuration (optional - only needed if you want to send confirmation emails)
+# If you don't set these environment variables, subscription will still work (just no confirmation email)
+app.config['MAIL_SERVER'] = os.environ.get('MAIL_SERVER', 'smtp.gmail.com')
+app.config['MAIL_PORT'] = int(os.environ.get('MAIL_PORT', 587))
+app.config['MAIL_USE_TLS'] = os.environ.get('MAIL_USE_TLS', 'True') == 'True'
+app.config['MAIL_USERNAME'] = os.environ.get('EMAIL_USER', '')
+app.config['MAIL_PASSWORD'] = os.environ.get('EMAIL_PASSWORD', '')
+app.config['MAIL_DEFAULT_SENDER'] = os.environ.get('EMAIL_USER', 'noreply@storytimelocator.com')
+
+mail = Mail(app)
 
 # Global variables to store event data
 # We load this once when the server starts, then filter it for each search
 jersey_city_events = []
 hoboken_events = []
 bookstore_events = []
+
+# Path to email subscribers JSON file
+SUBSCRIBERS_FILE = os.path.join(os.path.dirname(__file__), 'email_subscribers.json')
 
 
 def load_event_data():
@@ -84,6 +100,82 @@ def load_event_data():
 
 # Load event data when the app module is imported (needed for Gunicorn)
 load_event_data()
+
+
+def load_subscribers():
+    """
+    Load email subscribers from JSON file
+
+    Returns a list of subscriber dictionaries, each containing:
+    - email: subscriber's email address
+    - subscribed_at: timestamp of subscription
+    - status: 'active' or 'unsubscribed'
+    """
+    try:
+        if os.path.exists(SUBSCRIBERS_FILE):
+            with open(SUBSCRIBERS_FILE, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return []
+    except Exception as e:
+        print(f"[ERROR] Failed to load subscribers: {e}")
+        return []
+
+
+def save_subscribers(subscribers):
+    """
+    Save email subscribers to JSON file
+
+    Args:
+        subscribers: List of subscriber dictionaries
+    """
+    try:
+        with open(SUBSCRIBERS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(subscribers, f, indent=2, ensure_ascii=False)
+        return True
+    except Exception as e:
+        print(f"[ERROR] Failed to save subscribers: {e}")
+        return False
+
+
+def send_confirmation_email(email):
+    """
+    Send a welcome/confirmation email to new subscriber
+
+    This is optional - only sends if email credentials are configured.
+    If email fails, subscription still succeeds (we already saved their email).
+
+    Args:
+        email: Subscriber's email address
+    """
+    # Only try to send if email is configured
+    if not app.config['MAIL_USERNAME'] or not app.config['MAIL_PASSWORD']:
+        print("[INFO] Email not configured, skipping confirmation email")
+        return
+
+    try:
+        msg = Message(
+            subject="Welcome to Story Time Locator!",
+            recipients=[email],
+            html=f"""
+            <h2>Thanks for subscribing! 📚</h2>
+            <p>You'll now receive weekly updates about the best <strong>FREE</strong> kids activities in Jersey City and Hoboken.</p>
+            <p>We'll share:</p>
+            <ul>
+                <li>Hand-picked <strong>FREE</strong> story times and events</li>
+                <li>New venues and activities</li>
+                <li>Special features and updates</li>
+            </ul>
+            <p>Stay tuned!</p>
+            <p style="color: #666; font-size: 12px; margin-top: 30px;">
+                You can unsubscribe anytime by replying to our emails.
+            </p>
+            """
+        )
+        mail.send(msg)
+        print(f"[OK] Confirmation email sent to {email}")
+    except Exception as e:
+        print(f"[WARNING] Could not send confirmation email: {e}")
+        # Don't raise error - subscription already succeeded
 
 
 @app.route('/')
@@ -969,6 +1061,81 @@ def refresh_data():
         'hoboken_count': len(hoboken_events),
         'bookstore_count': len(bookstore_events)
     })
+
+
+@app.route('/subscribe', methods=['POST'])
+def subscribe():
+    """
+    Email subscription endpoint
+
+    Accepts email address and saves it to email_subscribers.json.
+    Optionally sends a confirmation email if email is configured.
+
+    Request body:
+        {
+            "email": "user@example.com"
+        }
+
+    Returns:
+        Success: {"success": true, "message": "..."}
+        Error: {"error": "..."}, status code 400
+    """
+    try:
+        data = request.get_json()
+        email = data.get('email', '').strip().lower()
+
+        # Basic email validation
+        if not email or '@' not in email or '.' not in email:
+            return jsonify({'error': 'Please enter a valid email address'}), 400
+
+        # Load existing subscribers
+        subscribers = load_subscribers()
+
+        # Check if email already exists
+        existing = next((s for s in subscribers if s['email'] == email), None)
+        if existing:
+            if existing.get('status') == 'active':
+                return jsonify({'error': 'This email is already subscribed!'}), 400
+            else:
+                # Reactivate if previously unsubscribed
+                existing['status'] = 'active'
+                existing['resubscribed_at'] = datetime.now().isoformat()
+        else:
+            # Add new subscriber
+            subscribers.append({
+                'email': email,
+                'subscribed_at': datetime.now().isoformat(),
+                'status': 'active'
+            })
+
+        # Save to file
+        if not save_subscribers(subscribers):
+            return jsonify({'error': 'Failed to save subscription. Please try again.'}), 500
+
+        # Try to send confirmation email (non-blocking)
+        email_sent = False
+        try:
+            if app.config['MAIL_USERNAME'] and app.config['MAIL_PASSWORD']:
+                send_confirmation_email(email)
+                email_sent = True
+        except Exception as e:
+            # Email sending failed, but subscription succeeded
+            print(f"[WARNING] Confirmation email failed: {e}")
+
+        # Customize message based on whether confirmation email was sent
+        if email_sent:
+            message = 'Thanks for subscribing! Check your email for confirmation.'
+        else:
+            message = 'Thanks for subscribing! You\'re all set for weekly updates.'
+
+        return jsonify({
+            'success': True,
+            'message': message
+        })
+
+    except Exception as e:
+        print(f"[ERROR] Subscription failed: {e}")
+        return jsonify({'error': 'Something went wrong. Please try again.'}), 500
 
 
 if __name__ == '__main__':
