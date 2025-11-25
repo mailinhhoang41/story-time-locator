@@ -292,7 +292,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (!events || events.length === 0) {
             results.innerHTML = `
                 <div class="no-results">
-                    <p>😔 No story times found matching your criteria.</p>
+                    <p>😔 No free events found matching your criteria.</p>
                     <p>Try adjusting your filters or selecting "Both Cities" to see more options.</p>
                 </div>
             `;
@@ -304,7 +304,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const shareURL = generateShareableURL();
         let html = `
             <h2 class="results-header">
-                📚 Found ${events.length} Story Time${events.length !== 1 ? 's' : ''} in ${cityName}
+                📚 Found ${events.length} Free Event${events.length !== 1 ? 's' : ''} in ${cityName}
             </h2>
             <div class="share-section">
                 <button id="shareButton" class="share-button">🔗 Share These Results</button>
@@ -389,13 +389,24 @@ document.addEventListener('DOMContentLoaded', function() {
         const freeBadge = isFree ? `<span class="free-badge">FREE</span>` : '';
 
         // Get venue/branch info
+        // For recreation events, use location (the specific venue like "Pershing Field Pool")
         // For bookstores, use venue_name; for libraries, use branch
-        const venue = event.venue_name || event.branch || event.location || 'Library';
+        let venue;
+        if (event.venue_type === 'recreation') {
+            venue = event.location || event.venue_name || 'Recreation Center';
+        } else {
+            venue = event.venue_name || event.branch || event.location || 'Library';
+        }
 
         // Get audience/age range
-        const audienceInfo = event.audience
-            ? `<div class="event-audience">👶 ${event.audience}</div>`
-            : '';
+        // For recreation events with age_min/age_max, show that
+        // Otherwise use the audience field if available
+        let audienceInfo = '';
+        if (event.age_min && event.age_max) {
+            audienceInfo = `<div class="event-audience">👶 Ages ${event.age_min}-${event.age_max}</div>`;
+        } else if (event.audience) {
+            audienceInfo = `<div class="event-audience">👶 ${event.audience}</div>`;
+        }
 
         // Build time display (with end time if it's a long event)
         let timeDisplay = `📅 ${formattedDate} at ${event.formatted_time}`;

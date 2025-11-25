@@ -117,13 +117,21 @@ for ballet_class in ballet_classes:
 
 print(f"Generated {len(new_events)} ballet class events")
 
+# Remove existing Garden Street ballet classes before adding new ones
+# This prevents duplicates if the script is run multiple times
+events_without_ballet = [
+    event for event in events
+    if 'Garden Street' not in event.get('location', '')
+]
+print(f"Removed {len(events) - len(events_without_ballet)} existing ballet classes to prevent duplicates")
+
 # Merge with existing events and sort by date
-all_events = events + new_events
+all_events = events_without_ballet + new_events
 all_events.sort(key=lambda x: x['date'])
 
 # Save back to file
 with open('hoboken_storytimes.json', 'w', encoding='utf-8') as f:
     json.dump(all_events, f, indent=2, ensure_ascii=False)
 
-print(f"✅ Added {len(new_events)} ballet classes to hoboken_storytimes.json")
+print(f"[OK] Added {len(new_events)} ballet classes to hoboken_storytimes.json")
 print(f"Total events: {len(all_events)}")

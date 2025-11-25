@@ -41,6 +41,7 @@ mail = Mail(app)
 jersey_city_events = []
 hoboken_events = []
 bookstore_events = []
+popup_classes = []  # Jersey City Recreation POP UP classes (FREE skating/rec classes)
 
 # Path to email subscribers JSON file
 SUBSCRIBERS_FILE = os.path.join(os.path.dirname(__file__), 'email_subscribers.json')
@@ -48,15 +49,15 @@ SUBSCRIBERS_FILE = os.path.join(os.path.dirname(__file__), 'email_subscribers.js
 
 def load_event_data():
     """
-    Load story time events from JSON files into memory
+    Load story time events and recreation classes from JSON files into memory
 
     This runs once when the server starts. We read the JSON files
-    that were created by our RSS parsers and store them in memory
+    that were created by our RSS parsers, scrapers, and store them in memory
     for fast filtering.
 
     Why load at startup? Much faster than reading files on every search!
     """
-    global jersey_city_events, hoboken_events, bookstore_events
+    global jersey_city_events, hoboken_events, bookstore_events, popup_classes
 
     try:
         # Load Jersey City events
@@ -96,6 +97,19 @@ def load_event_data():
     except Exception as e:
         print(f"[ERROR] Error loading bookstore data: {e}")
         bookstore_events = []
+
+    try:
+        # Load Jersey City Recreation POP UP classes
+        popup_path = os.path.join(os.path.dirname(__file__), 'jc_recdesk_popup.json')
+        with open(popup_path, 'r', encoding='utf-8') as f:
+            popup_classes = json.load(f)
+            print(f"[OK] Loaded {len(popup_classes)} POP UP recreation classes")
+    except FileNotFoundError:
+        print("[WARNING] jc_recdesk_popup.json not found - run jc_recdesk_scraper_playwright.py first")
+        popup_classes = []
+    except Exception as e:
+        print(f"[ERROR] Error loading POP UP classes: {e}")
+        popup_classes = []
 
 
 # Load event data when the app module is imported (needed for Gunicorn)
@@ -215,16 +229,18 @@ def search():
         date_range = data.get('date_range', 'all')  # 'week', '2weeks', 'month', 'all'
         time_of_day = data.get('time_of_day', [])  # ['morning', 'afternoon', 'evening']
         venue_type = data.get('venue_type', 'all')  # 'all', 'library', 'bookstore'
-        event_type = data.get('event_type', 'all')  # 'all', 'storytime', 'arts', 'steam', 'music'
+        event_type = data.get('event_type', 'all')  # 'all', 'storytime', 'arts', 'steam', 'music', 'ballet', 'swimming', 'skating'
 
         # Start with all events based on city selection
         events = []
 
         if city == 'jersey_city':
-            # Include Jersey City library events + bookstore events in Jersey City
+            # Include Jersey City library events + bookstore events + POP UP classes in Jersey City
             events = jersey_city_events.copy()
             # Add bookstore events that are in Jersey City
             events += [event for event in bookstore_events if event.get('city', '').lower() == 'jersey city']
+            # Add POP UP recreation classes (FREE skating/rec classes)
+            events += popup_classes.copy()
         elif city == 'hoboken':
             # Include Hoboken library events + bookstore events in Hoboken
             events = hoboken_events.copy()
@@ -241,6 +257,9 @@ def search():
             ] + [
                 # Bookstore events already have a 'city' field, so include them as-is
                 event for event in bookstore_events
+            ] + [
+                # POP UP classes already have a 'city' field (Jersey City)
+                event for event in popup_classes
             ]
 
         # Filter out past events first (before other filters)
@@ -360,6 +379,18 @@ def get_branches(city):
             'McGinley Square': ['Miller Branch']
         }
 
+        # Get recreation locations from POP UP classes
+        recreation_locations = sorted(set([
+            event.get('location', '')
+            for event in popup_classes
+            if event.get('location')
+        ]))
+
+        # Add recreation locations to Heights neighborhood
+        # Pershing Field is in JC Heights
+        if recreation_locations:
+            jc_neighborhoods['Heights'] = jc_neighborhoods['Heights'] + recreation_locations
+
         if city == 'jersey_city':
             # Get actual branches from events
             library_branches = set([
@@ -394,7 +425,7 @@ def get_branches(city):
             groups = []
             for neighborhood, branch_list in jc_neighborhoods.items():
                 # Filter to only branches that actually exist in our data
-                # For libraries, check calendar_source; for bookstores, they're already in the list
+                # For libraries, check calendar_source; for bookstores, they're already in the list; for recreation, check recreation_locations
                 available_branches = []
                 for branch in branch_list:
                     if branch in library_branches:
@@ -403,6 +434,9 @@ def get_branches(city):
                         available_branches.append(display_name)
                     elif branch in jc_bookstores_display:
                         # It's a bookstore - use as-is (already has "(Bookstore)" suffix)
+                        available_branches.append(branch)
+                    elif branch in recreation_locations:
+                        # It's a recreation location - use as-is
                         available_branches.append(branch)
 
                 if available_branches:
@@ -602,6 +636,18 @@ def filter_by_age(events, age_input):
         if 'all ages' in audience and user_min <= 5:
             filtered.append(event)
             continue
+
+        # Check age_min/age_max fields (for recreation events with explicit age ranges)
+        if event.get('age_min') and event.get('age_max'):
+            try:
+                event_min = int(event.get('age_min'))
+                event_max = int(event.get('age_max'))
+                if check_age_overlap(user_min, user_max, event_min, event_max):
+                    filtered.append(event)
+                continue  # Skip other checks since we found explicit age range
+            except (ValueError, TypeError):
+                # If conversion fails, fall through to other checks
+                pass
 
         # Try to extract age range from description text
         desc_age_range = extract_age_range_from_text(description)
@@ -823,12 +869,16 @@ def filter_by_branches(events, branches):
 
     filtered = []
     for event in events:
-        # Check both 'calendar_source' (for library events) and 'venue_name' (for bookstore events)
-        event_branch = event.get('calendar_source', event.get('venue_name', ''))
-
-        # Also check 'location' field as a fallback
-        if not event_branch:
+        # For recreation events (venue_type == 'recreation'), use 'location' field
+        # For library events, use 'calendar_source'
+        # For bookstore events, use 'venue_name'
+        if event.get('venue_type') == 'recreation':
             event_branch = event.get('location', '')
+        else:
+            event_branch = event.get('calendar_source', event.get('venue_name', ''))
+            # Also check 'location' field as a fallback
+            if not event_branch:
+                event_branch = event.get('location', '')
 
         # Match if any of the selected branches match this event
         for branch in branches:
@@ -911,7 +961,7 @@ def filter_by_event_type(events, event_type):
 
     Args:
         events: List of event dictionaries
-        event_type: String - 'storytime', 'arts', 'steam', 'music'
+        event_type: String - 'storytime', 'arts', 'steam', 'music', 'ballet', 'swimming', 'skating'
 
     Returns:
         Filtered list of events matching the type
@@ -924,7 +974,10 @@ def filter_by_event_type(events, event_type):
         'storytime': ['Storytime Events', 'storytime', 'story time'],
         'arts': ['Arts and Crafts', 'arts', 'crafts'],
         'steam': ['S.T.E.A.M', 'STEM', 'steam', 'stem'],
-        'music': ['Music and Dance', 'music', 'dance']
+        'music': ['Music and Dance', 'music', 'dance'],
+        'ballet': ['ballet', 'ballerina', 'Dance Classes'],
+        'swimming': ['swim', 'swimming', 'pool'],
+        'skating': ['skate', 'skating', 'ice rink', 'roller rink']
     }
 
     keywords = type_keywords.get(event_type, [])
@@ -936,8 +989,9 @@ def filter_by_event_type(events, event_type):
         categories = event.get('categories', [])
         title = event.get('title', '').lower()
         description = event.get('description', '').lower()
+        location = event.get('location', '').lower()
 
-        # Check if any keyword matches categories, title, or description
+        # Check if any keyword matches categories, title, description, or location
         match = False
         for keyword in keywords:
             keyword_lower = keyword.lower()
@@ -945,8 +999,8 @@ def filter_by_event_type(events, event_type):
             if any(keyword_lower in cat.lower() for cat in categories):
                 match = True
                 break
-            # Check title and description as fallback
-            if keyword_lower in title or keyword_lower in description:
+            # Check title, description, and location as fallback
+            if keyword_lower in title or keyword_lower in description or keyword_lower in location:
                 match = True
                 break
 
