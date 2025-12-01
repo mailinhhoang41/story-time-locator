@@ -1112,6 +1112,7 @@ def refresh_data():
     return jsonify({
         'message': 'Event data refreshed',
         'jersey_city_count': len(jersey_city_events),
+        'recdesk_count': len(popup_classes),
         'hoboken_count': len(hoboken_events),
         'bookstore_count': len(bookstore_events)
     })

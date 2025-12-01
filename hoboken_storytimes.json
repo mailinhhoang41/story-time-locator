@@ -1,19 +1,5 @@
 [
   {
-    "title": "Books and Bubbles Pop Up",
-    "location": "The Bunny Hive",
-    "description": "Friday, November 14 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "link": "https://www.thebunnyhive.com/hoboken",
-    "date": "2025-11-14",
-    "day_of_week": "Friday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Fri, 14 Nov 2025 12:00:00 +0000",
-    "organizer": "The Bunny Hive",
-    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "audience": "All Ages"
-  },
-  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Saturday, November 15 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -140,20 +126,6 @@
     ]
   },
   {
-    "title": "Books and Bubbles Pop Up",
-    "location": "The Bunny Hive",
-    "description": "Friday, November 21 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "link": "https://www.thebunnyhive.com/hoboken",
-    "date": "2025-11-21",
-    "day_of_week": "Friday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Fri, 21 Nov 2025 12:00:00 +0000",
-    "organizer": "The Bunny Hive",
-    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "audience": "All Ages"
-  },
-  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Saturday, November 22 2025 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -242,45 +214,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": "Sensory Play Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, November 25 2025 10:30am - 11:30am \n Explore Through the Senses! Join us for a variety of sensory activities for little ones.",
-    "link": "https://hobokenlibrary.libnet.info/event/14828364",
-    "date": "2025-11-25",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 25 Nov 2025 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Explore Through the Senses! Join us for a variety of sensory activities for little ones."
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, November 25 2025 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/14921230",
-    "date": "2025-11-25",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 25 Nov 2025 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Yoga Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 26 2025 10:30am - 11:00am \n An active story time for your little yogi!",
-    "link": "https://hobokenlibrary.libnet.info/event/14920832",
-    "date": "2025-11-26",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 26 Nov 2025 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "An active story time for your little yogi!"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -537,6 +470,20 @@
     "datetime": "Fri, 05 Dec 2025 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Hormones Under Your Hood",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, December 06 2025 10:30am - 11:00am \n Celebrate a fun, inclusive, multisensory childrens book, and meet Dopamine! Registration per child attending is required. This book and story time is best suited for children 6 - 11 years old.",
+    "link": "https://hobokenlibrary.libnet.info/event/15181441",
+    "date": "2025-12-06",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 06 Dec 2025 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Celebrate a fun, inclusive, multisensory childrens book, and meet Dopamine! Registration per child attending is required. This book and story time is best suited for children 6 - 11 years old.",
+    "audience": "Ages 6-11"
   },
   {
     "title": "Cake Decorating Class",
@@ -1375,5 +1322,33 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us for music and dancing!",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Books and Bubbles Pop Up",
+    "location": "The Bunny Hive",
+    "description": "Friday, November 14 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "link": "https://www.thebunnyhive.com/hoboken",
+    "date": "2025-11-14",
+    "day_of_week": "Friday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Fri, 14 Nov 2025 12:00:00 +0000",
+    "organizer": "The Bunny Hive",
+    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "audience": "All Ages"
+  },
+  {
+    "title": "Books and Bubbles Pop Up",
+    "location": "The Bunny Hive",
+    "description": "Friday, November 21 2025 12:00pm - 12:30pm \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "link": "https://www.thebunnyhive.com/hoboken",
+    "date": "2025-11-21",
+    "day_of_week": "Friday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Fri, 21 Nov 2025 12:00:00 +0000",
+    "organizer": "The Bunny Hive",
+    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "audience": "All Ages"
   }
 ]

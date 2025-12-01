@@ -57,6 +57,7 @@ def refresh_flask_server():
             data = response.json()
             print("[OK] Flask server refreshed successfully!")
             print(f"   Jersey City events: {data.get('jersey_city_count', 'N/A')}")
+            print(f"   RecDesk POP UP classes: {data.get('recdesk_count', 'N/A')}")
             print(f"   Hoboken events: {data.get('hoboken_count', 'N/A')}")
             print(f"   Bookstore events: {data.get('bookstore_count', 'N/A')}")
             return True
@@ -78,11 +79,34 @@ def main():
     print()
 
     success_count = 0
-    total_parsers = 3
+    total_parsers = 4
 
     # Run Jersey City parser
     if run_parser('jc_library_rss_parser.py', 'Jersey City Library RSS Parser'):
         success_count += 1
+
+    # Run Jersey City RecDesk scraper for POP UP classes at Pershing Field
+    if run_parser('jc_recdesk_scraper_playwright.py', 'Jersey City RecDesk POP UP Classes'):
+        success_count += 1
+
+        # Filter out adult classes, keep only children's classes
+        print("\n" + "="*80)
+        print("Filtering RecDesk classes (children only, ages 8-15)...")
+        print("="*80 + "\n")
+
+        try:
+            import json
+            with open('jc_recdesk_popup.json', 'r', encoding='utf-8') as f:
+                all_classes = json.load(f)
+
+            children_only = [c for c in all_classes if int(c.get('age_max', '99')) <= 15]
+
+            with open('jc_recdesk_popup.json', 'w', encoding='utf-8') as f:
+                json.dump(children_only, f, indent=2, ensure_ascii=False)
+
+            print(f"[OK] Filtered to {len(children_only)} children's classes (removed {len(all_classes) - len(children_only)} adult classes)")
+        except Exception as e:
+            print(f"[WARNING] Could not filter classes: {e}")
 
     # Run Hoboken parser
     if run_parser('hoboken_library_rss_parser.py', 'Hoboken Library RSS Parser'):
