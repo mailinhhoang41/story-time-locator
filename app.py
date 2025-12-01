@@ -961,7 +961,7 @@ def filter_by_event_type(events, event_type):
 
     Args:
         events: List of event dictionaries
-        event_type: String - 'storytime', 'arts', 'steam', 'music', 'ballet', 'swimming', 'skating'
+        event_type: String - 'storytime', 'arts', 'steam', 'music', 'ballet', 'swimming', 'skating', 'special'
 
     Returns:
         Filtered list of events matching the type
@@ -977,7 +977,11 @@ def filter_by_event_type(events, event_type):
         'music': ['Music and Dance', 'music', 'dance'],
         'ballet': ['ballet', 'ballerina', 'Dance Classes'],
         'swimming': ['swim', 'swimming', 'pool'],
-        'skating': ['skate', 'skating', 'ice rink', 'roller rink']
+        'skating': ['skate', 'skating', 'ice rink', 'roller rink'],
+        'special': ['cake', 'museum', 'cocoa', 'new year', 'hanukkah', 'holiday',
+                    'party', 'celebration', 'festival', 'pajama', 'movie', 'puppet',
+                    'flamenco', 'cooking', 'diamond art', 'sensory', 'theater',
+                    'performance', 'author', 'illustrator', 'special', 'pop up']
     }
 
     keywords = type_keywords.get(event_type, [])
