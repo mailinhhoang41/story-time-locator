@@ -1,5 +1,22 @@
 [
   {
+    "title": "Crafting with Ms. Julie!",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, January 5, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to make a special craft with Ms. Julie!</p>",
+    "link": "https://jclibrary.libcal.com/event/15898191",
+    "date": "2026-01-05",
+    "day_of_week": "Monday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "January"
+    ]
+  },
+  {
     "title": "Bingo",
     "calendar_source": "Priscilla Gardner Main Library",
     "calendar_id": 17419,
@@ -636,24 +653,6 @@
     ]
   },
   {
-    "title": "Mr. Markman",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Tuesday, January 13, 2026<br/> <strong>Time:</strong> 6:00pm - 7:00pm<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/15976564",
-    "date": "2026-01-13",
-    "day_of_week": "Tuesday",
-    "start_time": "18:00:00",
-    "formatted_time": "06:00 PM",
-    "end_time": "19:00:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "January",
-      "Popular Events > Children Events"
-    ]
-  },
-  {
     "title": "Family Day: SEL Winter Fun",
     "calendar_source": "Earl A. Morgan Branch (Greenville)",
     "calendar_id": 17420,
@@ -668,76 +667,6 @@
     "audience": "Children (6-11)",
     "categories": [
       "January"
-    ]
-  },
-  {
-    "title": "Spring Story Time",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Wednesday, January 21, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to read, move, and make! Enjoy stories brought to life with music, silly songs, dancing fun, and a creative craft to take home. Perfect for wiggly readers and busy hands!</p>",
-    "link": "https://jclibrary.libcal.com/event/16080817",
-    "date": "2026-01-21",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Wiggle & Wonder: Sensory Play",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Monday, January 26, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Toddlers are invited to touch, pour, shake, and explore! This playful sensory experience builds fine motor skills, early learning, and imagination through colorful, hands-on fun made just for little ones.</p>",
-    "link": "https://jclibrary.libcal.com/event/16081239",
-    "date": "2026-01-26",
-    "day_of_week": "Monday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:30:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "Spring Story Time",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Wednesday, January 28, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to read, move, and make! Enjoy stories brought to life with music, silly songs, dancing fun, and a creative craft to take home. Perfect for wiggly readers and busy hands!</p>",
-    "link": "https://jclibrary.libcal.com/event/16080818",
-    "date": "2026-01-28",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "Create Your Own Puzzle",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Thursday, January 29, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Celebrate National Puzzle Day with us by coloring or drawing your own puzzle!</p>",
-    "link": "https://jclibrary.libcal.com/event/15646341",
-    "date": "2026-01-29",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Family Events",
-      "Popular Events > Fun and Games Events"
     ]
   },
   {
@@ -758,40 +687,6 @@
     ]
   },
   {
-    "title": "Wiggle & Wonder: Sensory Play",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Monday, February 2, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Toddlers are invited to touch, pour, shake, and explore! This playful sensory experience builds fine motor skills, early learning, and imagination through colorful, hands-on fun made just for little ones.</p>",
-    "link": "https://jclibrary.libcal.com/event/16081240",
-    "date": "2026-02-02",
-    "day_of_week": "Monday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:30:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "Spring Story Time",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Wednesday, February 4, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Get ready to read, move, and make! Enjoy stories brought to life with music, silly songs, dancing fun, and a creative craft to take home. Perfect for wiggly readers and busy hands!</p>",
-    "link": "https://jclibrary.libcal.com/event/16080819",
-    "date": "2026-02-04",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Earl Morgan Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
     "title": "Black History Bingo",
     "calendar_source": "Earl A. Morgan Branch (Greenville)",
     "calendar_id": 17420,
@@ -809,54 +704,38 @@
     ]
   },
   {
-    "title": "Story Hour with Miss Sheena",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Wednesday, January 21, 2026<br/> <strong>Time:</strong> 10:00am - 11:00am<br/> <strong>Presenter:</strong> Sheena Henry<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Join us for a fun and educational story hour with Miss Sheena!</p>\n\n<p>All children are capable of learning with the proper support. Such as differentiated instruction, visual aids, and hands-on activities, can help children thrive. My goal during story hour is to help prepare children for preschool and a foundation for lifelong learning.</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/16116987",
-    "date": "2026-01-21",
-    "day_of_week": "Wednesday",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "11:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Early Childhood (0-5)",
+    "title": "Decorate a Snowman Contest",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Monday, January 5, 2026<br/> <strong>Time:</strong> 12:30pm - 7:30pm<br/> <strong>Presenter:</strong> Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p data-end=\"361\" data-start=\"130\">Showoff YOUR Creativity at Pavonia Branch&rsquo;s Snowman Contest!&nbsp;</p>\n\n<p>How to Enter:</p>\n\n<ul>\n\t<li>Pick up a snowman template at the Pavonia Branch Library.</li>\n\t<li>Get creative! You can use crayons, markers, glitter&mdash;anything you like. Remember, the most elaborate snowman won&rsquo;t automatically win. We&rsquo;re giving big points for personality and creativity!</li>\n\t<li>Name your snowman. The name will be judged along with your artwork, so choose one that fits your snowman&rsquo;s look and personality.</li>\n\t<li>Submit your entry. When you&rsquo;re finished, drop off your snowman and give it to any staff member at the Pavonia Branch. Please include your name, grade level, age, and contact information on the back. Deadline: All entries must be submitted by Friday, January 23. We will select two winners.</li>\n\t<li>Winners will be notified, and all entries will be displayed in the library on Friday, January 30.</li>\n</ul>\n\n<p>Prizes will be awarded for:</p>\n\n<ul>\n\t<li>Most Creative</li>\n\t<li>Winners will receive a special prize and library swag.&nbsp;</li>\n</ul>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15738589",
+    "date": "2026-01-05",
+    "day_of_week": "Monday",
+    "start_time": "12:30:00",
+    "formatted_time": "12:30 PM",
+    "end_time": "19:30:00",
+    "location": "Pavonia Branch",
+    "audience": "Children (6-11)",
     "categories": [
-      "January"
+      "Popular Events > Children Events"
     ]
   },
   {
-    "title": "Story Hour with Miss Sheena",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Wednesday, January 28, 2026<br/> <strong>Time:</strong> 10:00am - 11:00am<br/> <strong>Presenter:</strong> Sheena Henry<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Join us for a fun and educational story hour with Miss Sheena!</p>\n\n<p>All children are capable of learning with the proper support. Such as differentiated instruction, visual aids, and hands-on activities, can help children thrive. My goal during story hour is to help prepare children for preschool and a foundation for lifelong learning.</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/16116988",
-    "date": "2026-01-28",
-    "day_of_week": "Wednesday",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "11:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Early Childhood (0-5)",
+    "title": "Youth Guitar Workshop",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Monday, January 5, 2026<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Reena Campbell<br/> <strong>Location:</strong>  JCFPL Creative Arts Center<br/>  <p>Interested in learning to play the guitar?&nbsp;Join Ms. Reena at the JCFPL Creative Arts Center to learn the basics of guitar, chords and learn songs.</p>\n\n<p>For ages 8-18.</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/15856397",
+    "date": "2026-01-05",
+    "day_of_week": "Monday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "JCFPL Creative Arts Center",
+    "audience": "Children (6-11)",
     "categories": [
-      "January"
-    ]
-  },
-  {
-    "title": "Story Hour with Miss Sheena",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Wednesday, February 4, 2026<br/> <strong>Time:</strong> 10:00am - 11:00am<br/> <strong>Presenter:</strong> Sheena Henry<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Join us for a fun and educational story hour with Miss Sheena!</p>\n\n<p>All children are capable of learning with the proper support. Such as differentiated instruction, visual aids, and hands-on activities, can help children thrive. My goal during story hour is to help prepare children for preschool and a foundation for lifelong learning.</p>\n\n<p>&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/16116989",
-    "date": "2026-02-04",
-    "day_of_week": "Wednesday",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
-    "end_time": "11:00:00",
-    "location": "West Bergen Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "January"
+      "Popular Events > Children Events",
+      "Popular Events > Teen Programs"
     ]
   },
   {
@@ -1770,24 +1649,6 @@
     ]
   },
   {
-    "title": "January Storytime",
-    "calendar_source": "Glenn D. Cunningham Branch",
-    "calendar_id": 17427,
-    "description": "<strong>Date:</strong> Tuesday, January 13, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Join us for books, songs, crafts, and activities to support early literacy.</p>\n\n<p>Tuesday mornings at 10:30 AM.</p>\n\n<p>01/13</p>\n\n<p>01/20</p>\n\n<p>01/27</p>",
-    "link": "https://jclibrary.libcal.com/event/16108519",
-    "date": "2026-01-13",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Glenn D. Cunningham Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "January",
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
     "title": "Movie Day: Coraline",
     "calendar_source": "Glenn D. Cunningham Branch",
     "calendar_id": 17427,
@@ -1802,42 +1663,6 @@
     "audience": "Children (6-11)",
     "categories": [
       "January"
-    ]
-  },
-  {
-    "title": "January Storytime",
-    "calendar_source": "Glenn D. Cunningham Branch",
-    "calendar_id": 17427,
-    "description": "<strong>Date:</strong> Tuesday, January 20, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Join us for books, songs, crafts, and activities to support early literacy.</p>\n\n<p>Tuesday mornings at 10:30 AM.</p>\n\n<p>01/13</p>\n\n<p>01/20</p>\n\n<p>01/27</p>",
-    "link": "https://jclibrary.libcal.com/event/16108520",
-    "date": "2026-01-20",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Glenn D. Cunningham Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "January",
-      "Popular Events > Storytime Events"
-    ]
-  },
-  {
-    "title": "January Storytime",
-    "calendar_source": "Glenn D. Cunningham Branch",
-    "calendar_id": 17427,
-    "description": "<strong>Date:</strong> Tuesday, January 27, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Join us for books, songs, crafts, and activities to support early literacy.</p>\n\n<p>Tuesday mornings at 10:30 AM.</p>\n\n<p>01/13</p>\n\n<p>01/20</p>\n\n<p>01/27</p>",
-    "link": "https://jclibrary.libcal.com/event/16108521",
-    "date": "2026-01-27",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Glenn D. Cunningham Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "January",
-      "Popular Events > Storytime Events"
     ]
   },
   {
