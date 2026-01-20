@@ -9,10 +9,30 @@
       "POP UP"
     ],
     "is_all_day": false,
-    "title": "Learn to FIGURE Skate-Beginners POPUP Class 4:10",
-    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5281",
+    "title": "Learn to FIGURE Skate-Advanced POPUP Class 4:50",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5299",
     "location": "Pershing Field Charlie Heger Ice Rink/Roller Rink",
-    "date": "2026-01-15",
+    "date": "2026-01-22",
+    "day_of_week": "Thursday",
+    "start_time": "16:50:00",
+    "formatted_time": "4:50 PM",
+    "age_min": "8",
+    "age_max": "15"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Learn to FIGURE Skate-Beginners POPUP Class 4:10",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5300",
+    "location": "Pershing Field Charlie Heger Ice Rink/Roller Rink",
+    "date": "2026-01-22",
     "day_of_week": "Thursday",
     "start_time": "16:10:00",
     "formatted_time": "4:10 PM",
@@ -30,52 +50,12 @@
     ],
     "is_all_day": false,
     "title": "Learn to FIGURE Skate-Beginners POPUP Class 5:30",
-    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5282",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5301",
     "location": "Pershing Field Charlie Heger Ice Rink/Roller Rink",
-    "date": "2026-01-15",
+    "date": "2026-01-22",
     "day_of_week": "Thursday",
     "start_time": "17:30:00",
     "formatted_time": "5:30 PM",
-    "age_min": "8",
-    "age_max": "15"
-  },
-  {
-    "venue_type": "recreation",
-    "venue_name": "Jersey City Recreation Department",
-    "city": "Jersey City",
-    "categories": [
-      "Recreation Classes",
-      "FREE",
-      "POP UP"
-    ],
-    "is_all_day": false,
-    "title": "Children Learn to Skate POPUP Class Jan17 Sat330pm",
-    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5230",
-    "location": "Pershing Field Charlie Heger Ice Rink/Roller Rink",
-    "date": "2026-01-17",
-    "day_of_week": "Saturday",
-    "start_time": "15:30:00",
-    "formatted_time": "3:30 PM",
-    "age_min": "8",
-    "age_max": "15"
-  },
-  {
-    "venue_type": "recreation",
-    "venue_name": "Jersey City Recreation Department",
-    "city": "Jersey City",
-    "categories": [
-      "Recreation Classes",
-      "FREE",
-      "POP UP"
-    ],
-    "is_all_day": false,
-    "title": "Children Learn to Skate POPUP Class Jan18 Sun110pm",
-    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5225",
-    "location": "Pershing Field Charlie Heger Ice Rink/Roller Rink",
-    "date": "2026-01-18",
-    "day_of_week": "Sunday",
-    "start_time": "13:10:00",
-    "formatted_time": "1:10 PM",
     "age_min": "8",
     "age_max": "15"
   },
@@ -114,9 +94,229 @@
     "location": "Pershing Field Charlie Heger Ice Rink/Roller Rink",
     "date": "2026-01-25",
     "day_of_week": "Sunday",
-    "start_time": "13:10:00",
-    "formatted_time": "1:10 PM",
+    "start_time": "13:30:00",
+    "formatted_time": "1:30 PM",
     "age_min": "8",
     "age_max": "15"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "POP UP PERSHING Swim Class PSA- Thursday 350pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5297",
+    "date": "2026-01-22",
+    "day_of_week": "Thursday",
+    "start_time": "15:50:00",
+    "formatted_time": "3:50 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "4",
+    "age_max": "5"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "POP UP PERSHING Swim Class PSA- Tuesday 350pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5296",
+    "date": "2026-01-20",
+    "day_of_week": "Tuesday",
+    "start_time": "15:50:00",
+    "formatted_time": "3:50 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "4",
+    "age_max": "5"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "POP UP PERSHING Swim Class PSA- Wednesday 435pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5304",
+    "date": "2026-01-21",
+    "day_of_week": "Wednesday",
+    "start_time": "16:35:00",
+    "formatted_time": "4:35 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "4",
+    "age_max": "5"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Pop-Up  PERSHING Swim Class LTS 3- Tuesday 350pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5293",
+    "date": "2026-01-20",
+    "day_of_week": "Tuesday",
+    "start_time": "15:50:00",
+    "formatted_time": "3:50 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "6",
+    "age_max": "14"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Pop-Up  PERSHING Swim Class LTS 3- Wednesday 435pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5292",
+    "date": "2026-01-21",
+    "day_of_week": "Wednesday",
+    "start_time": "16:35:00",
+    "formatted_time": "4:35 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "6",
+    "age_max": "14"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "POPUP Baby & Me Class-Tuesday 435pm Pershing Field",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5232",
+    "date": "2026-01-20",
+    "day_of_week": "Tuesday",
+    "start_time": "16:35:00",
+    "formatted_time": "4:35 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "1",
+    "age_max": "3"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Pop-Up PERSHING Swim Class LTS 1- Thursday 435pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5288",
+    "date": "2026-01-22",
+    "day_of_week": "Thursday",
+    "start_time": "16:35:00",
+    "formatted_time": "4:35 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "6",
+    "age_max": "14"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Pop-Up PERSHING Swim Class LTS 1- Tuesday 435pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5287",
+    "date": "2026-01-20",
+    "day_of_week": "Tuesday",
+    "start_time": "16:35:00",
+    "formatted_time": "4:35 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "6",
+    "age_max": "14"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Pop-Up PERSHING Swim Class LTS 2- Thursday 350pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5291",
+    "date": "2026-01-22",
+    "day_of_week": "Thursday",
+    "start_time": "15:50:00",
+    "formatted_time": "3:50 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "6",
+    "age_max": "14"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Pop-Up PERSHING Swim Class LTS 2- Wednesday 350pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5290",
+    "date": "2026-01-21",
+    "day_of_week": "Wednesday",
+    "start_time": "15:50:00",
+    "formatted_time": "3:50 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "6",
+    "age_max": "14"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Pop-Up PERSHING Swim Clinic-LTS4&5 Thursday 435pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5295",
+    "date": "2026-01-22",
+    "day_of_week": "Thursday",
+    "start_time": "16:35:00",
+    "formatted_time": "4:35 PM",
+    "location": "Pershing Field Pool",
+    "age_min": "6",
+    "age_max": "14"
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "venue_type": "bookstore",
+    "venue_name": "WORD Bookstore",
+    "city": "Jersey City",
+    "location": "WORD Bookstore, 123 Newark Ave, Jersey City, NJ",
+    "title": "Gwei the Hungry Ghost Story Time with Emeline Lee and Basia Tran",
+    "link": "https://withfriends.co/event/27134596/emeline_lee_and_basia_tran",
+    "description": "Join us for a special story time featuring 'Gwei the Hungry Ghost' with authors Emeline Lee and Basia Tran at WORD Bookstore in Jersey City.",
+    "full_description": "Join us for a special story time featuring 'Gwei the Hungry Ghost' with authors Emeline Lee and Basia Tran at WORD Bookstore in Jersey City.",
+    "day_of_week": "Saturday",
+    "date": "2026-01-17",
+    "start_time": "11:30:00",
+    "formatted_time": "11:30 AM",
+    "end_time": "12:15:00",
+    "formatted_end_time": "12:15 PM",
+    "registration_link": "https://withfriends.co/event/27134596/emeline_lee_and_basia_tran",
+    "audience": "Ages 0-5 (All welcome)",
+    "categories": [
+      "Bookstore Events",
+      "Storytime Events"
+    ]
+  }
+]
