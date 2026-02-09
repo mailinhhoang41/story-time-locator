@@ -1,0 +1,44 @@
+[
+  {
+    "venue_type": "bookstore",
+    "venue_name": "WORD Bookstore",
+    "city": "Jersey City",
+    "location": "WORD Bookstore, 123 Newark Ave, Jersey City, NJ",
+    "categories": [
+      "Bookstore Events",
+      "Storytime Events"
+    ],
+    "link": "https://withfriends.co/event/27421886/story_time_with_lisa_ascolese",
+    "event_id": "27421886",
+    "registration_link": "https://withfriends.co/event/27421886/story_time_with_lisa_ascolese",
+    "date": "2026-02-28",
+    "day_of_week": "Saturday",
+    "start_time": "11:30:00",
+    "formatted_time": "11:30 AM",
+    "title": "Story Time with Lisa Ascolese",
+    "description": "Story Time with Lisa Ascolese",
+    "full_description": "Saturday, February 28 at 11:30 AM\n\nStory Time with Lisa Ascolese\n\nHamilton Park, Jersey City, NJ\n\nrsvp",
+    "audience": "Ages 0-5 (All welcome)"
+  },
+  {
+    "venue_type": "bookstore",
+    "venue_name": "WORD Bookstore",
+    "city": "Jersey City",
+    "location": "WORD Bookstore, 123 Newark Ave, Jersey City, NJ",
+    "categories": [
+      "Bookstore Events",
+      "Storytime Events"
+    ],
+    "link": "https://withfriends.co/event/27407532/kristen_mei_chase_and_basia_tran",
+    "event_id": "27407532",
+    "registration_link": "https://withfriends.co/event/27407532/kristen_mei_chase_and_basia_tran",
+    "date": "2026-03-14",
+    "day_of_week": "Saturday",
+    "start_time": "11:30:00",
+    "formatted_time": "11:30 AM",
+    "title": "Kristen Mei Chase and Basia Tran",
+    "description": "Kristen Mei Chase and Basia Tran",
+    "full_description": "Saturday, March 14 at 11:30 AM\n\nKristen Mei Chase and Basia Tran\n\nHamilton Park, Jersey City, NJ\n\nrsvp",
+    "audience": "Ages 0-5 (All welcome)"
+  }
+]
