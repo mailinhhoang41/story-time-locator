@@ -58,5 +58,25 @@
     "formatted_time": "5:30 PM",
     "age_min": "8",
     "age_max": "15"
+  },
+  {
+    "venue_type": "recreation",
+    "venue_name": "Jersey City Recreation Department",
+    "city": "Jersey City",
+    "categories": [
+      "Recreation Classes",
+      "FREE",
+      "POP UP"
+    ],
+    "is_all_day": false,
+    "title": "Children Learn to Skate POPUP Class Feb15 Sun130pm",
+    "link": "https://jcrec.recdesk.com/Community/Program/Detail?programId=5391",
+    "location": "Pershing Field Charlie Heger Ice Rink/Roller Rink",
+    "date": "2026-02-15",
+    "day_of_week": "Sunday",
+    "start_time": "13:30:00",
+    "formatted_time": "1:30 PM",
+    "age_min": "8",
+    "age_max": "15"
   }
 ]

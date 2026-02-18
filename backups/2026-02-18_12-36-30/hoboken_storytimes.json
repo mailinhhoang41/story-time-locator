@@ -1,5 +1,383 @@
 [
   {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Monday, February 09 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15618688",
+    "date": "2026-02-09",
+    "day_of_week": "Monday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Mon, 09 Feb 2026 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, February 09 2026 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-09",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 09 Feb 2026 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, February 09 2026 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-09",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 09 Feb 2026 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Black History Month Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, February 10 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for Black History Month Story Time and Craft!",
+    "link": "https://hobokenlibrary.libnet.info/event/15531901",
+    "date": "2026-02-10",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 10 Feb 2026 10:30:00 +0000",
+    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "full_description": "Join us at our Grand St. Branch for Black History Month Story Time and Craft!"
+  },
+  {
+    "title": "Bilingual Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, February 10 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/15624351",
+    "date": "2026-02-10",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 10 Feb 2026 15:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
+  },
+  {
+    "title": "Toddler Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, February 11 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
+    "link": "https://hobokenlibrary.libnet.info/event/15531964",
+    "date": "2026-02-11",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 11 Feb 2026 10:30:00 +0000",
+    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "full_description": "Join us in the morning for some books, music, and movement!",
+    "audience": "Ages 1-3"
+  },
+  {
+    "title": "Crafternoons",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, February 11 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "link": "https://hobokenlibrary.libnet.info/event/15623288",
+    "date": "2026-02-11",
+    "day_of_week": "Wednesday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Wed, 11 Feb 2026 15:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
+  },
+  {
+    "title": "Black History Listening + Quiet Reading Lounge",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, February 11 2026 5:30pm - 6:45pm \n Join us for an evening of music and literature as we listen to the jazz rooted + West African inspired sounds of Kokoroko and read books by Black authors.",
+    "link": "https://hobokenlibrary.libnet.info/event/15733759",
+    "date": "2026-02-11",
+    "day_of_week": "Wednesday",
+    "start_time": "17:30:00",
+    "formatted_time": "05:30 PM",
+    "datetime": "Wed, 11 Feb 2026 17:30:00 +0000",
+    "organizer": "dejeunee.depts@hobokenlibrary.org (Dejeunee Depts)",
+    "full_description": "Join us for an evening of music and literature as we listen to the jazz rooted + West African inspired sounds of Kokoroko and read books by Black authors."
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, February 11 2026 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-11",
+    "day_of_week": "Wednesday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Wed, 11 Feb 2026 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 2 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Wednesday, February 11 2026 10:30 AM - 11:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-11",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 11 Feb 2026 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Baby Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, February 12 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
+    "link": "https://hobokenlibrary.libnet.info/event/15618689",
+    "date": "2026-02-12",
+    "day_of_week": "Thursday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "datetime": "Thu, 12 Feb 2026 12:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us for a story time for our littlest learners!",
+    "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "After School Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, February 12 2026 3:30pm - 4:00pm \n Join us after school for some books, music, and movement!",
+    "link": "https://hobokenlibrary.libnet.info/event/15532023",
+    "date": "2026-02-12",
+    "day_of_week": "Thursday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Thu, 12 Feb 2026 15:30:00 +0000",
+    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "full_description": "Join us after school for some books, music, and movement!"
+  },
+  {
+    "title": "Yoga Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Friday, February 13 2026 10:30am - 11:00am \n An active story time for your little yogi!",
+    "link": "https://hobokenlibrary.libnet.info/event/15618909",
+    "date": "2026-02-13",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 13 Feb 2026 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Crafternoons",
+    "location": "Hoboken Public Library",
+    "description": "Friday, February 13 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "link": "https://hobokenlibrary.libnet.info/event/15623289",
+    "date": "2026-02-13",
+    "day_of_week": "Friday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Fri, 13 Feb 2026 15:00:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
+  },
+  {
+    "title": "Books and Bubbles Pop Up",
+    "location": "The Bunny Hive",
+    "description": "Friday, February 13 2026 12:00 PM - 12:30  \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "link": "https://www.thebunnyhive.com/hoboken",
+    "date": "2026-02-13",
+    "day_of_week": "Friday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "end_time": "12:30:00",
+    "datetime": "Fri, 13 Feb 2026 12:00:00 +0000",
+    "organizer": "The Bunny Hive",
+    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
+    "audience": "All Ages"
+  },
+  {
+    "title": "Story Time with Jack and Bill",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, February 14 2026 11:00am - 12:00pm \n Join us for a fun Saturday morning story time and craft at the Grand Street Branch with our friends Jack and Bill!",
+    "link": "https://hobokenlibrary.libnet.info/event/15532151",
+    "date": "2026-02-14",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "datetime": "Sat, 14 Feb 2026 11:00:00 +0000",
+    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "full_description": "Join us for a fun Saturday morning story time and craft at the Grand Street Branch with our friends Jack and Bill!"
+  },
+  {
+    "title": "Therapy Dog Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, February 14 2026 2:00pm - 3:00pm \n with Riley Maverick Mills!",
+    "link": "https://hobokenlibrary.libnet.info/event/15692938",
+    "date": "2026-02-14",
+    "day_of_week": "Saturday",
+    "start_time": "14:00:00",
+    "formatted_time": "02:00 PM",
+    "datetime": "Sat, 14 Feb 2026 14:00:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "with Riley Maverick Mills!"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, February 14 2026 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-14",
+    "day_of_week": "Saturday",
+    "start_time": "08:45:00",
+    "formatted_time": "08:45 AM",
+    "datetime": "Sat, 14 Feb 2026 08:45:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, February 14 2026 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-14",
+    "day_of_week": "Saturday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Sat, 14 Feb 2026 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Saturday, February 14 2026 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-14",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 14 Feb 2026 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Toddler Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Sunday, February 15 2026 10:30am - 11:00am \n Join us for a special Story Time celebrating Valentine's Day!",
+    "link": "https://hobokenlibrary.libnet.info/event/15785931",
+    "date": "2026-02-15",
+    "day_of_week": "Sunday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sun, 15 Feb 2026 10:30:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "Join us for a special Story Time celebrating Valentine's Day!",
+    "audience": "Ages 1-3"
+  },
+  {
+    "title": "Ballerina Princess (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, February 16 2026 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-16",
+    "day_of_week": "Monday",
+    "start_time": "09:30:00",
+    "formatted_time": "09:30 AM",
+    "datetime": "Mon, 16 Feb 2026 09:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Ages 2-3. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Ages 2-3",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Tiny Dancers Ballet - Level 1 (FREE)",
+    "location": "Garden Street School of the Performing Arts",
+    "description": "Monday, February 16 2026 10:30 AM - 11:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "link": "https://www.gardenstreetmusic.com/2019-summer-dance-classes",
+    "date": "2026-02-16",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Mon, 16 Feb 2026 10:30:00 +0000",
+    "organizer": "Garden Street School of the Performing Arts",
+    "full_description": "Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
+    "audience": "Walking to 2 years",
+    "categories": [
+      "Dance Classes",
+      "Free Events"
+    ]
+  },
+  {
+    "title": "Lunar New Year Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, February 17 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a Lunar New Year Story Time and Craft!",
+    "link": "https://hobokenlibrary.libnet.info/event/15531906",
+    "date": "2026-02-17",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 17 Feb 2026 10:30:00 +0000",
+    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "full_description": "Join us at our Grand St. Branch for a Lunar New Year Story Time and Craft!"
+  },
+  {
+    "title": "Bilingual Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, February 17 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/15624352",
+    "date": "2026-02-17",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 17 Feb 2026 15:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
+  },
+  {
     "title": "Toddler Story Time",
     "location": "Hoboken Public Library",
     "description": "Wednesday, February 18 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
@@ -544,19 +922,6 @@
     ]
   },
   {
-    "title": "Happy Hippotastic Holi! How to Celebrate with Consent",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, March 01 2026 10:30am - 11:30am \n Join us for a special storytelling workshop with author Geshu Sugandh!",
-    "link": "https://hobokenlibrary.libnet.info/event/15840529",
-    "date": "2026-03-01",
-    "day_of_week": "Sunday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sun, 01 Mar 2026 10:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us for a special storytelling workshop with author Geshu Sugandh!"
-  },
-  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Monday, March 02 2026 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -591,46 +956,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 03 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837597",
-    "date": "2026-03-03",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 03 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 03 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/15806046",
-    "date": "2026-03-03",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 03 Mar 2026 15:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, March 04 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837617",
-    "date": "2026-03-04",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 04 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
   },
   {
     "title": "Crafternoons",
@@ -697,19 +1022,6 @@
     "audience": "Ages 0-18 months"
   },
   {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, March 05 2026 3:30pm - 4:00pm \n Join us after school for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837661",
-    "date": "2026-03-05",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 05 Mar 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Friday, March 06 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -722,19 +1034,6 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, March 06 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854781",
-    "date": "2026-03-06",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 06 Mar 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
     "title": "Books and Bubbles Pop Up",
@@ -856,46 +1155,6 @@
     ]
   },
   {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 10 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837598",
-    "date": "2026-03-10",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 10 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 10 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/15806047",
-    "date": "2026-03-10",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 10 Mar 2026 15:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, March 11 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837618",
-    "date": "2026-03-11",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 11 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Wednesday, March 11 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -946,19 +1205,6 @@
     ]
   },
   {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, March 12 2026 3:30pm - 4:00pm \n Join us after school for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837662",
-    "date": "2026-03-12",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 12 Mar 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Friday, March 13 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -971,19 +1217,6 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, March 13 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854782",
-    "date": "2026-03-13",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 13 Mar 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
     "title": "Books and Bubbles Pop Up",
@@ -999,19 +1232,6 @@
     "organizer": "The Bunny Hive",
     "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
     "audience": "All Ages"
-  },
-  {
-    "title": "Story Time with Jack and Bill",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, March 14 2026 11:00am - 12:00pm \n Join us for a fun Saturday morning story time and craft at the Grand Street Branch!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837705",
-    "date": "2026-03-14",
-    "day_of_week": "Saturday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "datetime": "Sat, 14 Mar 2026 11:00:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us for a fun Saturday morning story time and craft at the Grand Street Branch!"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -1082,19 +1302,6 @@
     "audience": "Ages 1-3"
   },
   {
-    "title": "Therapy Dog Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, March 15 2026 1:00pm - 2:00pm \n with Riley Maverick Mills!",
-    "link": "https://hobokenlibrary.libnet.info/event/15860141",
-    "date": "2026-03-15",
-    "day_of_week": "Sunday",
-    "start_time": "13:00:00",
-    "formatted_time": "01:00 PM",
-    "datetime": "Sun, 15 Mar 2026 13:00:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "with Riley Maverick Mills!"
-  },
-  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Monday, March 16 2026 09:30 AM - 10:15 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -1129,46 +1336,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 17 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837599",
-    "date": "2026-03-17",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 17 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 17 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/15806048",
-    "date": "2026-03-17",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 17 Mar 2026 15:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, March 18 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837619",
-    "date": "2026-03-18",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 18 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
   },
   {
     "title": "Crafternoons",
@@ -1221,19 +1388,6 @@
     ]
   },
   {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, March 19 2026 3:30pm - 4:00pm \n Join us after school for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837663",
-    "date": "2026-03-19",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 19 Mar 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Friday, March 20 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -1246,19 +1400,6 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, March 20 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854783",
-    "date": "2026-03-20",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 20 Mar 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
     "title": "Books and Bubbles Pop Up",
@@ -1380,46 +1521,6 @@
     ]
   },
   {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 24 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837600",
-    "date": "2026-03-24",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 24 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 24 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/15806049",
-    "date": "2026-03-24",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 24 Mar 2026 15:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, March 25 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837620",
-    "date": "2026-03-25",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 25 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Wednesday, March 25 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -1470,19 +1571,6 @@
     ]
   },
   {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, March 26 2026 3:30pm - 4:00pm \n Join us after school for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837664",
-    "date": "2026-03-26",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 26 Mar 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Friday, March 27 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
@@ -1495,19 +1583,6 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, March 27 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854784",
-    "date": "2026-03-27",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 27 Mar 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
     "title": "Books and Bubbles Pop Up",
@@ -1657,32 +1732,6 @@
     ]
   },
   {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 31 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/15837601",
-    "date": "2026-03-31",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 31 Mar 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, March 31 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/15806050",
-    "date": "2026-03-31",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 31 Mar 2026 15:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Wednesday, April 01 2026 09:30 AM - 10:15 AM \n Walking to 2 years. Free drop-in ballet class at Garden Street Music.",
@@ -1717,19 +1766,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, April 03 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854785",
-    "date": "2026-04-03",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 03 Apr 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
     "title": "Books and Bubbles Pop Up",
@@ -1873,19 +1909,6 @@
     ]
   },
   {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, April 10 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854786",
-    "date": "2026-04-10",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 10 Apr 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
-  },
-  {
     "title": "Books and Bubbles Pop Up",
     "location": "The Bunny Hive",
     "description": "Friday, April 10 2026 12:00 PM - 12:30  \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
@@ -1953,19 +1976,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": "Therapy Dog Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, April 12 2026 1:00pm - 2:00pm \n with Riley Maverick Mills!",
-    "link": "https://hobokenlibrary.libnet.info/event/15860163",
-    "date": "2026-04-12",
-    "day_of_week": "Sunday",
-    "start_time": "13:00:00",
-    "formatted_time": "01:00 PM",
-    "datetime": "Sun, 12 Apr 2026 13:00:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "with Riley Maverick Mills!"
   },
   {
     "title": "Ballerina Princess (FREE)",
@@ -2038,19 +2048,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, April 17 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854787",
-    "date": "2026-04-17",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 17 Apr 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
     "title": "Books and Bubbles Pop Up",
@@ -2206,19 +2203,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Friday, April 24 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854788",
-    "date": "2026-04-24",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Fri, 24 Apr 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
     "title": "Books and Bubbles Pop Up",
@@ -2518,19 +2502,6 @@
     "audience": "All Ages"
   },
   {
-    "title": "Therapy Dog Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, May 09 2026 2:00pm - 3:00pm \n with Riley Maverick Mills!",
-    "link": "https://hobokenlibrary.libnet.info/event/15860250",
-    "date": "2026-05-09",
-    "day_of_week": "Saturday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "datetime": "Sat, 09 May 2026 14:00:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "with Riley Maverick Mills!"
-  },
-  {
     "title": "Ballerina Princess (FREE)",
     "location": "Garden Street School of the Performing Arts",
     "description": "Saturday, May 09 2026 08:45 AM - 9:30 AM \n Ages 2-3. Free drop-in ballet class at Garden Street Music.",
@@ -2655,21 +2626,6 @@
       "Dance Classes",
       "Free Events"
     ]
-  },
-  {
-    "title": "Books and Bubbles Pop Up",
-    "location": "The Bunny Hive",
-    "description": "Friday, May 15 2026 12:00 PM - 12:30  \n Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "link": "https://www.thebunnyhive.com/hoboken",
-    "date": "2026-05-15",
-    "day_of_week": "Friday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "end_time": "12:30:00",
-    "datetime": "Fri, 15 May 2026 12:00:00 +0000",
-    "organizer": "The Bunny Hive",
-    "full_description": "Join us for Books and Bubbles at The Bunny Hive in Hoboken!",
-    "audience": "All Ages"
   },
   {
     "title": "Ballerina Princess (FREE)",
