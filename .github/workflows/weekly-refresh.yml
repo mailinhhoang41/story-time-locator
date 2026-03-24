@@ -1,0 +1,53 @@
+name: Weekly Data Refresh
+
+# When to run this workflow
+on:
+  schedule:
+    # Every Monday at 9:00 AM Eastern Time
+    # GitHub Actions uses UTC: 9 AM ET (EDT, UTC-4) = 1 PM UTC
+    - cron: '0 13 * * 1'
+  # Also allows you to trigger it manually from the GitHub website
+  workflow_dispatch:
+
+# Give the workflow permission to write back to the repo
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Download the repo code onto the GitHub Actions machine
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Install Python (same version you use locally)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      # Step 3: Install Python packages the scrapers need
+      - name: Install Python dependencies
+        run: pip install requests beautifulsoup4 playwright
+
+      # Step 4: Install Chromium browser for Playwright
+      # (Playwright controls a real browser to scrape sites that need JavaScript)
+      - name: Install Playwright browser
+        run: playwright install chromium --with-deps
+
+      # Step 5: Run all the scrapers to fetch fresh event data
+      - name: Run data refresh
+        run: python update_all_events.py
+
+      # Step 6: Commit the updated JSON files and push to GitHub
+      # This push is what triggers Render to redeploy the live site
+      - name: Commit and push updated data
+        run: |
+          git config user.name "Story Time Locator Bot"
+          git config user.email "actions@github.com"
+          git add jersey_city_storytimes.json hoboken_storytimes.json jc_recdesk_popup.json bookstore_storytimes.json
+          # Only commit if there are actual changes (the || true prevents failure if no changes)
+          git diff --staged --quiet || git commit -m "Auto-update: Fresh event data - $(date '+%Y-%m-%d %I:%M %p') UTC"
+          git push
