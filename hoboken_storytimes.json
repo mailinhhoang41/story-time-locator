@@ -882,168 +882,6 @@
     ]
   },
   {
-    "title": "Baby Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Monday, April 20 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/15951004",
-    "date": "2026-04-20",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 20 Apr 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Monday, April 20 2026 3:30pm - 4:00pm \n Join us at our Grand St. Branch for story time with a special guest story teller Dani Martineck!",
-    "link": "https://hobokenlibrary.libnet.info/event/16321293",
-    "date": "2026-04-20",
-    "day_of_week": "Monday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Mon, 20 Apr 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for story time with a special guest story teller Dani Martineck!"
-  },
-  {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, April 21 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft with special guest author Ka Huen Kwong.",
-    "link": "https://hobokenlibrary.libnet.info/event/16048523",
-    "date": "2026-04-21",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 21 Apr 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft with special guest author Ka Huen Kwong."
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, April 21 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/16117513",
-    "date": "2026-04-21",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 21 Apr 2026 15:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "The Brain is the Ocean We Live in",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, April 21 2026 5:30pm - 7:00pm \n Celebrate National Poetry Month with a special author event featuring Dr. Catalina Florina Florescu. Enjoy a live reading from her newest poetry collection, The Brain is the Ocean We Live In.",
-    "link": "https://hobokenlibrary.libnet.info/event/16114771",
-    "date": "2026-04-21",
-    "day_of_week": "Tuesday",
-    "start_time": "17:30:00",
-    "formatted_time": "05:30 PM",
-    "datetime": "Tue, 21 Apr 2026 17:30:00 +0000",
-    "organizer": "sabrina.quinones@hobokenlibrary.org (Sabrina Quinones)",
-    "full_description": "Celebrate National Poetry Month with a special author event featuring Dr. Catalina Florina Florescu. Enjoy a live reading from her newest poetry collection, The Brain is the Ocean We Live In."
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, April 22 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement with local nanny, Teresa!",
-    "link": "https://hobokenlibrary.libnet.info/event/16048570",
-    "date": "2026-04-22",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 22 Apr 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement with local nanny, Teresa!",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Music Class",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, April 23 2026 12:00pm - 12:30pm \n Join us for music and dancing!",
-    "link": "https://hobokenlibrary.libnet.info/event/16155593",
-    "date": "2026-04-23",
-    "day_of_week": "Thursday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Thu, 23 Apr 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for music and dancing!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, April 23 2026 3:30pm - 4:00pm \n Join us after school for some books, music, and movement with special guest playwright, Crystal Skillman.",
-    "link": "https://hobokenlibrary.libnet.info/event/16048633",
-    "date": "2026-04-23",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 23 Apr 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement with special guest playwright, Crystal Skillman."
-  },
-  {
-    "title": "Yoga Story Time in Church Square Park",
-    "location": "Hoboken Public Library",
-    "description": "Friday, April 24 2026 10:30am - 11:00am \n An active story time for your little yogi!",
-    "link": "https://hobokenlibrary.libnet.info/event/16072112",
-    "date": "2026-04-24",
-    "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 24 Apr 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "An active story time for your little yogi!"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Friday, April 24 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072016",
-    "date": "2026-04-24",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Fri, 24 Apr 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, April 25 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072310",
-    "date": "2026-04-25",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 25 Apr 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, April 26 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072313",
-    "date": "2026-04-26",
-    "day_of_week": "Sunday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sun, 26 Apr 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
-    "audience": "Ages 1-3"
-  },
-  {
     "title": "Baby Story Time",
     "location": "Hoboken Public Library",
     "description": "Monday, April 27 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
@@ -1207,6 +1045,19 @@
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
   },
   {
+    "title": "Bilingual Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, May 05 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/16368694",
+    "date": "2026-05-05",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 05 May 2026 15:30:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
+  },
+  {
     "title": "Toddler Story Time",
     "location": "Hoboken Public Library",
     "description": "Wednesday, May 06 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
@@ -1342,6 +1193,19 @@
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
   },
   {
+    "title": "Bilingual Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, May 12 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/16368695",
+    "date": "2026-05-12",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 12 May 2026 15:30:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
+  },
+  {
     "title": "Toddler Story Time",
     "location": "Hoboken Public Library",
     "description": "Wednesday, May 13 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
@@ -1424,18 +1288,17 @@
     "audience": "Ages 1-3"
   },
   {
-    "title": "Toddler Story Time",
+    "title": "Jewish Heritage Month Story Time",
     "location": "Hoboken Public Library",
-    "description": "Sunday, May 17 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
-    "link": "https://hobokenlibrary.libnet.info/event/16314811",
+    "description": "Sunday, May 17 2026 10:30am - 11:00am \n Join us for a story time in celebration of Jewish Heritage Month!",
+    "link": "https://hobokenlibrary.libnet.info/event/16389040",
     "date": "2026-05-17",
     "day_of_week": "Sunday",
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Sun, 17 May 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
-    "audience": "Ages 1-3"
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "Join us for a story time in celebration of Jewish Heritage Month!"
   },
   {
     "title": "Baby Story Time",
@@ -1463,6 +1326,19 @@
     "datetime": "Tue, 19 May 2026 10:30:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
+  },
+  {
+    "title": "Bilingual Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, May 19 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/16368696",
+    "date": "2026-05-19",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 19 May 2026 15:30:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
   },
   {
     "title": "Toddler Story Time",
@@ -1558,6 +1434,19 @@
     "datetime": "Tue, 26 May 2026 10:30:00 +0000",
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
+  },
+  {
+    "title": "Bilingual Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, May 26 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
+    "link": "https://hobokenlibrary.libnet.info/event/16368697",
+    "date": "2026-05-26",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 26 May 2026 15:30:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
   },
   {
     "title": "Toddler Story Time",
@@ -1766,6 +1655,19 @@
     "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
+    "title": "Therapy Dog Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Sunday, June 14 2026 1:00pm - 2:00pm \n with Riley Maverick Mills!",
+    "link": "https://hobokenlibrary.libnet.info/event/16384919",
+    "date": "2026-06-14",
+    "day_of_week": "Sunday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Sun, 14 Jun 2026 13:00:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "with Riley Maverick Mills!"
+  },
+  {
     "title": "Baby Story Time",
     "location": "Hoboken Public Library",
     "description": "Monday, June 15 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
@@ -1919,6 +1821,19 @@
     "audience": "Ages 6+"
   },
   {
+    "title": "Therapy Dog Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Sunday, July 12 2026 1:00pm - 2:00pm \n with Riley Maverick Mills!",
+    "link": "https://hobokenlibrary.libnet.info/event/16384934",
+    "date": "2026-07-12",
+    "day_of_week": "Sunday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Sun, 12 Jul 2026 13:00:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "with Riley Maverick Mills!"
+  },
+  {
     "title": "Baby Story Time",
     "location": "Hoboken Public Library",
     "description": "Monday, July 13 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
@@ -1959,6 +1874,20 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
+  },
+  {
+    "title": "Toddler Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Sunday, July 19 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
+    "link": "https://hobokenlibrary.libnet.info/event/16314811",
+    "date": "2026-07-19",
+    "day_of_week": "Sunday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sun, 19 Jul 2026 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
+    "audience": "Ages 1-3"
   },
   {
     "title": "Baby Story Time",
@@ -2043,6 +1972,19 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
+  },
+  {
+    "title": "Therapy Dog Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Sunday, August 09 2026 1:00pm - 2:00pm \n with Riley Maverick Mills!",
+    "link": "https://hobokenlibrary.libnet.info/event/16384958",
+    "date": "2026-08-09",
+    "day_of_week": "Sunday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Sun, 09 Aug 2026 13:00:00 +0000",
+    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
+    "full_description": "with Riley Maverick Mills!"
   },
   {
     "title": "Crafternoons",
