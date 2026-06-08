@@ -884,154 +884,6 @@
   {
     "title": "Baby Story Time",
     "location": "Hoboken Public Library",
-    "description": "Monday, June 01 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/16191620",
-    "date": "2026-06-01",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 01 Jun 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, June 02 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/16550899",
-    "date": "2026-06-02",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 02 Jun 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Bilingual Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, June 02 2026 3:30pm - 4:00pm \n Join us every Tuesday for a Bilingual Story Time!",
-    "link": "https://hobokenlibrary.libnet.info/event/16523056",
-    "date": "2026-06-02",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 02 Jun 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us every Tuesday for a Bilingual Story Time!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, June 03 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/16550957",
-    "date": "2026-06-03",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 03 Jun 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, June 04 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/16191625",
-    "date": "2026-06-04",
-    "day_of_week": "Thursday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Thu, 04 Jun 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, June 04 2026 3:30pm - 4:30pm \n Join us after school for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/16550923",
-    "date": "2026-06-04",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 04 Jun 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
-    "title": "Yoga Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Friday, June 05 2026 10:30am - 11:00am \n An active story time for your little yogi!",
-    "link": "https://hobokenlibrary.libnet.info/event/16522976",
-    "date": "2026-06-05",
-    "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 05 Jun 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "An active story time for your little yogi!"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Friday, June 05 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072030",
-    "date": "2026-06-05",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Fri, 05 Jun 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
-  },
-  {
-    "title": "Drag Queen Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, June 06 2026 10:30am - 11:00am \n Join us for a special story time with our friend, Harmonica Sunbeam, in celebration of Pride Month!",
-    "link": "https://hobokenlibrary.libnet.info/event/16491832",
-    "date": "2026-06-06",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 06 Jun 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a special story time with our friend, Harmonica Sunbeam, in celebration of Pride Month!"
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, June 06 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854786",
-    "date": "2026-06-06",
-    "day_of_week": "Saturday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Sat, 06 Jun 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, June 07 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072311",
-    "date": "2026-06-07",
-    "day_of_week": "Sunday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sun, 07 Jun 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
     "description": "Monday, June 08 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
     "link": "https://hobokenlibrary.libnet.info/event/16191621",
     "date": "2026-06-08",
@@ -1070,7 +922,7 @@
     "full_description": "Join us every Tuesday for a Bilingual Story Time!"
   },
   {
-    "title": "Story Walk",
+    "title": "StoryWalk",
     "location": "Hoboken Public Library",
     "description": "Wednesday, June 10 2026 10:00am - 4:00pm \n Join us on a StoryWalk and read an excerpt from the book, Killer Underwear Invasion! How to Spot Fake News, Disinformation, and Conspiracy Theories by Elise Gravel.",
     "link": "https://hobokenlibrary.libnet.info/event/16527000",
@@ -1110,7 +962,7 @@
     "full_description": "Celebrate the start of summer with a party in the park! We will be kicking off our annual summer reading challenge."
   },
   {
-    "title": "Story Walk",
+    "title": "StoryWalk",
     "location": "Hoboken Public Library",
     "description": "Thursday, June 11 2026 10:00am - 4:00pm \n Join us on a StoryWalk and read an excerpt from the book, Killer Underwear Invasion! How to Spot Fake News, Disinformation, and Conspiracy Theories by Elise Gravel.",
     "link": "https://hobokenlibrary.libnet.info/event/16527001",
@@ -1150,7 +1002,7 @@
     "full_description": "Join us after school for some books, music, and movement!"
   },
   {
-    "title": "Story Walk",
+    "title": "StoryWalk",
     "location": "Hoboken Public Library",
     "description": "Friday, June 12 2026 10:00am - 4:00pm \n Join us on a StoryWalk and read an excerpt from the book, Killer Underwear Invasion! How to Spot Fake News, Disinformation, and Conspiracy Theories by Elise Gravel.",
     "link": "https://hobokenlibrary.libnet.info/event/16527002",
@@ -1216,9 +1068,9 @@
     "full_description": "We meet in the Story Time Room on the third floor!"
   },
   {
-    "title": "Toddler Story Time",
+    "title": "Father's Day Story Time",
     "location": "Hoboken Public Library",
-    "description": "Sunday, June 14 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
+    "description": "Sunday, June 14 2026 10:30am - 11:00am \n Join us for a story time in celebration of Father's Day!",
     "link": "https://hobokenlibrary.libnet.info/event/16523078",
     "date": "2026-06-14",
     "day_of_week": "Sunday",
@@ -1226,8 +1078,7 @@
     "formatted_time": "10:30 AM",
     "datetime": "Sun, 14 Jun 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
-    "audience": "Ages 1-3"
+    "full_description": "Join us for a story time in celebration of Father's Day!"
   },
   {
     "title": "Therapy Dog Story Time",
@@ -1366,6 +1217,19 @@
     "audience": "Ages 0-18 months"
   },
   {
+    "title": "Pride Month Bingo",
+    "location": "Hoboken Public Library",
+    "description": "Monday, June 22 2026 5:30pm - 6:30pm \n Celebrate Pride Month with an exciting game of bingo! Enjoy prizes, community, and plenty of fun while honoring LGBTQ+ history, culture, and pride.",
+    "link": "https://hobokenlibrary.libnet.info/event/16662110",
+    "date": "2026-06-22",
+    "day_of_week": "Monday",
+    "start_time": "17:30:00",
+    "formatted_time": "05:30 PM",
+    "datetime": "Mon, 22 Jun 2026 17:30:00 +0000",
+    "organizer": "sabrina.quinones@hobokenlibrary.org (Sabrina Quinones)",
+    "full_description": "Celebrate Pride Month with an exciting game of bingo! Enjoy prizes, community, and plenty of fun while honoring LGBTQ+ history, culture, and pride."
+  },
+  {
     "title": " Rise & Read",
     "location": "Hoboken Public Library",
     "description": "Tuesday, June 23 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
@@ -1501,6 +1365,19 @@
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us for a story time for our littlest learners!",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Finding Our Voices",
+    "location": "Hoboken Public Library",
+    "description": "Monday, June 29 2026 6:00pm - 7:30pm \n Your voice has power, and your story matters.",
+    "link": "https://hobokenlibrary.libnet.info/event/16661421",
+    "date": "2026-06-29",
+    "day_of_week": "Monday",
+    "start_time": "18:00:00",
+    "formatted_time": "06:00 PM",
+    "datetime": "Mon, 29 Jun 2026 18:00:00 +0000",
+    "organizer": "sabrina.quinones@hobokenlibrary.org (Sabrina Quinones)",
+    "full_description": "Your voice has power, and your story matters."
   },
   {
     "title": " Rise & Read",
