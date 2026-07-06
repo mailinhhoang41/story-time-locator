@@ -884,113 +884,6 @@
   {
     "title": "Baby Story Time",
     "location": "Hoboken Public Library",
-    "description": "Monday, June 29 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/16191624",
-    "date": "2026-06-29",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 29 Jun 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Finding Our Voices",
-    "location": "Hoboken Public Library",
-    "description": "Monday, June 29 2026 6:00pm - 7:30pm \n Your voice has power, and your story matters.",
-    "link": "https://hobokenlibrary.libnet.info/event/16661421",
-    "date": "2026-06-29",
-    "day_of_week": "Monday",
-    "start_time": "18:00:00",
-    "formatted_time": "06:00 PM",
-    "datetime": "Mon, 29 Jun 2026 18:00:00 +0000",
-    "organizer": "sabrina.quinones@hobokenlibrary.org (Sabrina Quinones)",
-    "full_description": "Your voice has power, and your story matters."
-  },
-  {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, June 30 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/16550903",
-    "date": "2026-06-30",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 30 Jun 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "BookBike Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, June 30 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
-    "link": "https://hobokenlibrary.libnet.info/event/16810430",
-    "date": "2026-06-30",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 30 Jun 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, July 01 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/16744813",
-    "date": "2026-07-01",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 01 Jul 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, July 02 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/16191633",
-    "date": "2026-07-02",
-    "day_of_week": "Thursday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Thu, 02 Jul 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, July 02 2026 3:30pm - 4:00pm \n Join us after school for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/16744890",
-    "date": "2026-07-02",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 02 Jul 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us after school for some books, music, and movement!"
-  },
-  {
-    "title": "Story Time Celebrating Be Nice to New Jersey Week!",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, July 05 2026 10:30am - 11:00am \n Join us for a story time in celebration of Be Nice to New Jersey Week!",
-    "link": "https://hobokenlibrary.libnet.info/event/16829513",
-    "date": "2026-07-05",
-    "day_of_week": "Sunday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sun, 05 Jul 2026 10:30:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "Join us for a story time in celebration of Be Nice to New Jersey Week!"
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
     "description": "Monday, July 06 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
     "link": "https://hobokenlibrary.libnet.info/event/16191629",
     "date": "2026-07-06",
@@ -1030,6 +923,19 @@
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
   },
   {
+    "title": "Social Worker Drop-In Hours",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, July 07 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865689",
+    "date": "2026-07-07",
+    "day_of_week": "Tuesday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Tue, 07 Jul 2026 13:00:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
+  },
+  {
     "title": "BookBike Story Time",
     "location": "Hoboken Public Library",
     "description": "Tuesday, July 07 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
@@ -1055,6 +961,19 @@
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, July 08 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865363",
+    "date": "2026-07-08",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 08 Jul 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1108,6 +1027,19 @@
     "datetime": "Fri, 10 Jul 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Friday, July 10 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865364",
+    "date": "2026-07-10",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 10 Jul 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Toddler Story Time",
@@ -1203,6 +1135,19 @@
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, July 15 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865365",
+    "date": "2026-07-15",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 15 Jul 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1313,6 +1258,19 @@
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
   },
   {
+    "title": "Social Worker Drop-In Hours",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, July 21 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865690",
+    "date": "2026-07-21",
+    "day_of_week": "Tuesday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Tue, 21 Jul 2026 13:00:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
+  },
+  {
     "title": "BookBike Story Time",
     "location": "Hoboken Public Library",
     "description": "Tuesday, July 21 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
@@ -1338,6 +1296,19 @@
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, July 22 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865366",
+    "date": "2026-07-22",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 22 Jul 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1380,18 +1351,17 @@
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Toddler Story Time",
+    "title": "Paid Family Leave Insurance Workshop",
     "location": "Hoboken Public Library",
-    "description": "Saturday, July 25 2026 10:30am - 11:00am \n Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "link": "https://hobokenlibrary.libnet.info/event/16522384",
-    "date": "2026-07-25",
-    "day_of_week": "Saturday",
+    "description": "Friday, July 24 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865367",
+    "date": "2026-07-24",
+    "day_of_week": "Friday",
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
-    "datetime": "Sat, 25 Jul 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "audience": "Ages 1-3"
+    "datetime": "Fri, 24 Jul 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Story Time with Jack and Bill",
@@ -1462,6 +1432,19 @@
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
   },
   {
+    "title": "Social Worker Drop-In Hours",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, July 28 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865691",
+    "date": "2026-07-28",
+    "day_of_week": "Tuesday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Tue, 28 Jul 2026 13:00:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
+  },
+  {
     "title": "BookBike Story Time",
     "location": "Hoboken Public Library",
     "description": "Tuesday, July 28 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
@@ -1487,6 +1470,19 @@
     "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, July 29 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865368",
+    "date": "2026-07-29",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 29 Jul 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Music Class",
@@ -1527,6 +1523,19 @@
     "datetime": "Fri, 31 Jul 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Friday, July 31 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865369",
+    "date": "2026-07-31",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 31 Jul 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Dungeons & Dragons Club",
@@ -1570,6 +1579,19 @@
     "audience": "Ages 6+"
   },
   {
+    "title": "Social Worker Drop-In Hours",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, August 04 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865692",
+    "date": "2026-08-04",
+    "day_of_week": "Tuesday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Tue, 04 Aug 2026 13:00:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
+  },
+  {
     "title": "BookBike Story Time",
     "location": "Hoboken Public Library",
     "description": "Tuesday, August 04 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
@@ -1581,6 +1603,19 @@
     "datetime": "Tue, 04 Aug 2026 15:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, August 05 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865370",
+    "date": "2026-08-05",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 05 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1610,17 +1645,17 @@
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Therapy Dog Story Time",
+    "title": "Paid Family Leave Insurance Workshop",
     "location": "Hoboken Public Library",
-    "description": "Sunday, August 09 2026 1:00pm - 2:00pm \n with Riley Maverick Mills!",
-    "link": "https://hobokenlibrary.libnet.info/event/16384958",
-    "date": "2026-08-09",
-    "day_of_week": "Sunday",
-    "start_time": "13:00:00",
-    "formatted_time": "01:00 PM",
-    "datetime": "Sun, 09 Aug 2026 13:00:00 +0000",
-    "organizer": "vanessa.soto@hobokenlibrary.org (Vanessa Soto)",
-    "full_description": "with Riley Maverick Mills!"
+    "description": "Friday, August 07 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865371",
+    "date": "2026-08-07",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 07 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1651,6 +1686,19 @@
     "audience": "Ages 6+"
   },
   {
+    "title": "Social Worker Drop-In Hours",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, August 11 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865693",
+    "date": "2026-08-11",
+    "day_of_week": "Tuesday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Tue, 11 Aug 2026 13:00:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
+  },
+  {
     "title": "BookBike Story Time",
     "location": "Hoboken Public Library",
     "description": "Tuesday, August 11 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
@@ -1662,6 +1710,19 @@
     "datetime": "Tue, 11 Aug 2026 15:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, August 12 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865372",
+    "date": "2026-08-12",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 12 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1689,6 +1750,19 @@
     "datetime": "Fri, 14 Aug 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 14 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865373",
+    "date": "2026-08-14",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 14 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Toddler Story Time",
@@ -1733,6 +1807,19 @@
     "audience": "Ages 6+"
   },
   {
+    "title": "Social Worker Drop-In Hours",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, August 18 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865694",
+    "date": "2026-08-18",
+    "day_of_week": "Tuesday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Tue, 18 Aug 2026 13:00:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
+  },
+  {
     "title": "BookBike Story Time",
     "location": "Hoboken Public Library",
     "description": "Tuesday, August 18 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
@@ -1744,6 +1831,19 @@
     "datetime": "Tue, 18 Aug 2026 15:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, August 19 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865374",
+    "date": "2026-08-19",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 19 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Music Class",
@@ -1771,6 +1871,19 @@
     "datetime": "Fri, 21 Aug 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 21 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865375",
+    "date": "2026-08-21",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 21 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1801,6 +1914,19 @@
     "audience": "Ages 6+"
   },
   {
+    "title": "Social Worker Drop-In Hours",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, August 25 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865695",
+    "date": "2026-08-25",
+    "day_of_week": "Tuesday",
+    "start_time": "13:00:00",
+    "formatted_time": "01:00 PM",
+    "datetime": "Tue, 25 Aug 2026 13:00:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
+  },
+  {
     "title": "BookBike Story Time",
     "location": "Hoboken Public Library",
     "description": "Tuesday, August 25 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
@@ -1812,6 +1938,19 @@
     "datetime": "Tue, 25 Aug 2026 15:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, August 26 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865376",
+    "date": "2026-08-26",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 26 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1839,6 +1978,19 @@
     "datetime": "Fri, 28 Aug 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "An active story time for your little yogi!"
+  },
+  {
+    "title": "Paid Family Leave Insurance Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 28 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/16865377",
+    "date": "2026-08-28",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 28 Aug 2026 10:30:00 +0000",
+    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
     "title": "Baby Story Time",
@@ -1907,6 +2059,20 @@
     "datetime": "Sat, 05 Sep 2026 10:30:00 +0000",
     "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
     "full_description": "Join us for Toddler Story Time, geared towards toddlers and their caregivers",
+    "audience": "Ages 1-3"
+  },
+  {
+    "title": "Toddler Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Sunday, September 06 2026 10:30am - 11:00am \n Story Time features stories, movement, songs, and nursery rhymes.",
+    "link": "https://hobokenlibrary.libnet.info/event/16864559",
+    "date": "2026-09-06",
+    "day_of_week": "Sunday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sun, 06 Sep 2026 10:30:00 +0000",
+    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
     "audience": "Ages 1-3"
   },
   {
