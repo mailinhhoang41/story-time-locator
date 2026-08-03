@@ -882,176 +882,16 @@
     ]
   },
   {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Monday, July 27 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/16191632",
-    "date": "2026-07-27",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 27 Jul 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for a story time for our littlest learners!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Monday, July 27 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072012",
-    "date": "2026-07-27",
-    "day_of_week": "Monday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Mon, 27 Jul 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
-  },
-  {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, July 28 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/16744740",
-    "date": "2026-07-28",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 28 Jul 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Social Worker Drop-In Hours",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, July 28 2026 1:00pm - 3:00pm \n Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th.",
-    "link": "https://hobokenlibrary.libnet.info/event/16865691",
-    "date": "2026-07-28",
-    "day_of_week": "Tuesday",
-    "start_time": "13:00:00",
-    "formatted_time": "01:00 PM",
-    "datetime": "Tue, 28 Jul 2026 13:00:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
-    "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
-  },
-  {
-    "title": "BookBike Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, July 28 2026 3:30pm - 4:30pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
-    "link": "https://hobokenlibrary.libnet.info/event/16810434",
-    "date": "2026-07-28",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 28 Jul 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, July 29 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/16744817",
-    "date": "2026-07-29",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 29 Jul 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Paid Family Leave Insurance Workshop",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, July 29 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
-    "link": "https://hobokenlibrary.libnet.info/event/16865368",
-    "date": "2026-07-29",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 29 Jul 2026 10:30:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
-    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
-  },
-  {
-    "title": "Baby Music Class",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, July 30 2026 12:00pm - 12:30pm \n Join us for music and dancing with Ms. Dana!",
-    "link": "https://hobokenlibrary.libnet.info/event/16819718",
-    "date": "2026-07-30",
-    "day_of_week": "Thursday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Thu, 30 Jul 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for music and dancing with Ms. Dana!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Afternoon Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, July 30 2026 3:30pm - 4:00pm \n Join us in the afternoon for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/16744894",
-    "date": "2026-07-30",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 30 Jul 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
-    "full_description": "Join us in the afternoon for some books, music, and movement!"
-  },
-  {
-    "title": "Yoga Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Friday, July 31 2026 10:30am - 11:00am \n An active story time for your little yogi!",
-    "link": "https://hobokenlibrary.libnet.info/event/16745642",
-    "date": "2026-07-31",
-    "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 31 Jul 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "An active story time for your little yogi!"
-  },
-  {
-    "title": "Paid Family Leave Insurance Workshop",
-    "location": "Hoboken Public Library",
-    "description": "Friday, July 31 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
-    "link": "https://hobokenlibrary.libnet.info/event/16865369",
-    "date": "2026-07-31",
-    "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 31 Jul 2026 10:30:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
-    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
-  },
-  {
-    "title": "Dungeons & Dragons Club",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, August 01 2026 3:30pm - 4:45pm \n We meet in the Story Time Room on the third floor!",
-    "link": "https://hobokenlibrary.libnet.info/event/15854788",
-    "date": "2026-08-01",
-    "day_of_week": "Saturday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Sat, 01 Aug 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "We meet in the Story Time Room on the third floor!"
-  },
-  {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Monday, August 03 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072013",
+    "link": "https://hobokenlibrary.libnet.info/event/17069091",
     "date": "2026-08-03",
     "day_of_week": "Monday",
     "start_time": "15:00:00",
     "formatted_time": "03:00 PM",
     "datetime": "Mon, 03 Aug 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
   },
@@ -1065,7 +905,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Tue, 04 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
   },
   {
@@ -1078,7 +918,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Tue, 04 Aug 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
@@ -1091,9 +931,22 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Wed, 05 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "Paid Family Leave Workshop",
+    "location": "Hoboken Public Library",
+    "description": "Wednesday, August 05 2026 10:30am - 12:30pm \n Having a baby? \nCaring for a loved one with an illness or injury?\nWe can help answer all your questions about NJ Paid Family Leave and help you with an application.",
+    "link": "https://hobokenlibrary.libnet.info/event/17064446",
+    "date": "2026-08-05",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Wed, 05 Aug 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Having a baby? \nCaring for a loved one with an illness or injury?\nWe can help answer all your questions about NJ Paid Family Leave and help you with an application."
   },
   {
     "title": "Afternoon Story Time",
@@ -1105,7 +958,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Thu, 06 Aug 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the afternoon for some books, music, and movement!"
   },
   {
@@ -1118,7 +971,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 07 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
@@ -1131,7 +984,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 07 Aug 2026 10:30:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
@@ -1144,20 +997,20 @@
     "start_time": "11:00:00",
     "formatted_time": "11:00 AM",
     "datetime": "Sat, 08 Aug 2026 11:00:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us for a fun Saturday morning story time and craft at the Grand Street Branch!"
   },
   {
     "title": "Crafternoons",
     "location": "Hoboken Public Library",
     "description": "Monday, August 10 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072017",
+    "link": "https://hobokenlibrary.libnet.info/event/17069092",
     "date": "2026-08-10",
     "day_of_week": "Monday",
     "start_time": "15:00:00",
     "formatted_time": "03:00 PM",
     "datetime": "Mon, 10 Aug 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
     "audience": "Ages 6+"
   },
@@ -1171,7 +1024,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Tue, 11 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
   },
   {
@@ -1184,7 +1037,7 @@
     "start_time": "13:00:00",
     "formatted_time": "01:00 PM",
     "datetime": "Tue, 11 Aug 2026 13:00:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
   },
   {
@@ -1197,7 +1050,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Tue, 11 Aug 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
@@ -1210,7 +1063,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Wed, 12 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
   },
@@ -1224,7 +1077,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 13 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1238,9 +1091,22 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 13 Aug 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Crafty Thursday",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, August 13 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17070280",
+    "date": "2026-08-13",
+    "day_of_week": "Thursday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Thu, 13 Aug 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Afternoon Story Time",
@@ -1252,7 +1118,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Thu, 13 Aug 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the afternoon for some books, music, and movement!"
   },
   {
@@ -1265,7 +1131,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 14 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
@@ -1278,22 +1144,34 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 14 Aug 2026 10:30:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
   },
   {
-    "title": "Toddler Story Time",
+    "title": "Teen Uno Tournament",
     "location": "Hoboken Public Library",
-    "description": "Saturday, August 15 2026 10:30am - 11:00am \n Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "link": "https://hobokenlibrary.libnet.info/event/16522386",
-    "date": "2026-08-15",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 15 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "audience": "Ages 1-3"
+    "description": "Friday, August 14 2026 2:00pm - 4:00pm \n Join us for a thrilling Teen Uno Tournament, where strategy, luck, and a little bit of mischief come together in a fast-paced card game showdown!",
+    "link": "https://hobokenlibrary.libnet.info/event/17070416",
+    "date": "2026-08-14",
+    "day_of_week": "Friday",
+    "start_time": "14:00:00",
+    "formatted_time": "02:00 PM",
+    "datetime": "Fri, 14 Aug 2026 14:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Join us for a thrilling Teen Uno Tournament, where strategy, luck, and a little bit of mischief come together in a fast-paced card game showdown!"
+  },
+  {
+    "title": "Screen Free Friday ",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 14 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069445",
+    "date": "2026-08-14",
+    "day_of_week": "Friday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Fri, 14 Aug 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Toddler Story Time",
@@ -1305,7 +1183,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Mon, 17 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1319,23 +1197,22 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 17 Aug 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
   {
-    "title": "Crafternoons",
+    "title": "Fine Motor Skills Prep ",
     "location": "Hoboken Public Library",
-    "description": "Monday, August 17 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072018",
+    "description": "Monday, August 17 2026 1:30pm - 2:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
+    "link": "https://hobokenlibrary.libnet.info/event/17061133",
     "date": "2026-08-17",
     "day_of_week": "Monday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Mon, 17 Aug 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
+    "start_time": "13:30:00",
+    "formatted_time": "01:30 PM",
+    "datetime": "Mon, 17 Aug 2026 13:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
   },
   {
     "title": " Rise & Read",
@@ -1347,8 +1224,21 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Tue, 18 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
+  },
+  {
+    "title": "Columbus Park Pop-Up Library",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, August 18 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056395",
+    "date": "2026-08-18",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 18 Aug 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
   },
   {
     "title": "Toddler Story Time",
@@ -1360,7 +1250,7 @@
     "start_time": "11:30:00",
     "formatted_time": "11:30 AM",
     "datetime": "Tue, 18 Aug 2026 11:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1374,7 +1264,7 @@
     "start_time": "13:00:00",
     "formatted_time": "01:00 PM",
     "datetime": "Tue, 18 Aug 2026 13:00:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
   },
   {
@@ -1387,7 +1277,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Tue, 18 Aug 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
@@ -1400,7 +1290,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Wed, 19 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
   },
@@ -1414,7 +1304,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 20 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1428,9 +1318,35 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 20 Aug 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Crafty Thursday",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, August 20 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17070288",
+    "date": "2026-08-20",
+    "day_of_week": "Thursday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Thu, 20 Aug 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
+  },
+  {
+    "title": "Crafty Thursday",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, August 20 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17070290",
+    "date": "2026-08-20",
+    "day_of_week": "Thursday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Thu, 20 Aug 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Afternoon Story Time",
@@ -1442,7 +1358,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Thu, 20 Aug 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the afternoon for some books, music, and movement!"
   },
   {
@@ -1455,7 +1371,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 21 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
@@ -1468,8 +1384,34 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 21 Aug 2026 10:30:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
+  },
+  {
+    "title": "Teen Uno Tournament",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 21 2026 2:00pm - 4:00pm \n Join us for a thrilling Teen Uno Tournament, where strategy, luck, and a little bit of mischief come together in a fast-paced card game showdown!",
+    "link": "https://hobokenlibrary.libnet.info/event/17070417",
+    "date": "2026-08-21",
+    "day_of_week": "Friday",
+    "start_time": "14:00:00",
+    "formatted_time": "02:00 PM",
+    "datetime": "Fri, 21 Aug 2026 14:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Join us for a thrilling Teen Uno Tournament, where strategy, luck, and a little bit of mischief come together in a fast-paced card game showdown!"
+  },
+  {
+    "title": "Screen Free Friday",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 21 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069470",
+    "date": "2026-08-21",
+    "day_of_week": "Friday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Fri, 21 Aug 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Toddler Story Time",
@@ -1481,7 +1423,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Mon, 24 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1495,23 +1437,22 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 24 Aug 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
   {
-    "title": "Crafternoons",
+    "title": "Fine Motor Skills Prep ",
     "location": "Hoboken Public Library",
-    "description": "Monday, August 24 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072019",
+    "description": "Monday, August 24 2026 1:30pm - 2:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
+    "link": "https://hobokenlibrary.libnet.info/event/17061147",
     "date": "2026-08-24",
     "day_of_week": "Monday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Mon, 24 Aug 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
+    "start_time": "13:30:00",
+    "formatted_time": "01:30 PM",
+    "datetime": "Mon, 24 Aug 2026 13:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
   },
   {
     "title": " Rise & Read",
@@ -1523,8 +1464,21 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Tue, 25 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us at our Grand St. Branch for a story time and craft!"
+  },
+  {
+    "title": "Columbus Park Pop-Up Library",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, August 25 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056396",
+    "date": "2026-08-25",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 25 Aug 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
   },
   {
     "title": "Toddler Story Time",
@@ -1536,7 +1490,7 @@
     "start_time": "11:30:00",
     "formatted_time": "11:30 AM",
     "datetime": "Tue, 25 Aug 2026 11:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1550,7 +1504,7 @@
     "start_time": "13:00:00",
     "formatted_time": "01:00 PM",
     "datetime": "Tue, 25 Aug 2026 13:00:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Meet with the Hoboken Public Library Social Workers for Drop-In Services on Tuesdays in the 2nd floor Reading Room. No drop-in hours on Tuesday July 14th."
   },
   {
@@ -1563,7 +1517,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Tue, 25 Aug 2026 15:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
@@ -1576,7 +1530,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Wed, 26 Aug 2026 10:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the morning for some books, music, and movement!",
     "audience": "Ages 1-3"
   },
@@ -1590,7 +1544,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 27 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1604,9 +1558,22 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 27 Aug 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Crafty Thursday",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, August 27 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17070316",
+    "date": "2026-08-27",
+    "day_of_week": "Thursday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Thu, 27 Aug 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Afternoon Story Time",
@@ -1618,7 +1585,7 @@
     "start_time": "15:30:00",
     "formatted_time": "03:30 PM",
     "datetime": "Thu, 27 Aug 2026 15:30:00 +0000",
-    "organizer": "ally.blumenfeld@hobokenlibrary.org (Ally Blumenfeld)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the afternoon for some books, music, and movement!"
   },
   {
@@ -1631,7 +1598,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 28 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
@@ -1644,8 +1611,34 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 28 Aug 2026 10:30:00 +0000",
-    "organizer": "stefanie.jackowitz@hobokenlibrary.org (Stefanie Jackowitz)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
+  },
+  {
+    "title": "Teen Uno Tournament",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 28 2026 2:00pm - 4:00pm \n Join us for a thrilling Teen Uno Tournament, where strategy, luck, and a little bit of mischief come together in a fast-paced card game showdown!",
+    "link": "https://hobokenlibrary.libnet.info/event/17070418",
+    "date": "2026-08-28",
+    "day_of_week": "Friday",
+    "start_time": "14:00:00",
+    "formatted_time": "02:00 PM",
+    "datetime": "Fri, 28 Aug 2026 14:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Join us for a thrilling Teen Uno Tournament, where strategy, luck, and a little bit of mischief come together in a fast-paced card game showdown!"
+  },
+  {
+    "title": "Screen Free Friday",
+    "location": "Hoboken Public Library",
+    "description": "Friday, August 28 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069459",
+    "date": "2026-08-28",
+    "day_of_week": "Friday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Fri, 28 Aug 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Toddler Story Time",
@@ -1657,7 +1650,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Mon, 31 Aug 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1671,23 +1664,62 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 31 Aug 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
   {
-    "title": "Crafternoons",
+    "title": "Fine Motor Skills Prep",
     "location": "Hoboken Public Library",
-    "description": "Monday, August 31 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072020",
+    "description": "Monday, August 31 2026 1:30pm - 2:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
+    "link": "https://hobokenlibrary.libnet.info/event/17061167",
     "date": "2026-08-31",
     "day_of_week": "Monday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Mon, 31 Aug 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
+    "start_time": "13:30:00",
+    "formatted_time": "01:30 PM",
+    "datetime": "Mon, 31 Aug 2026 13:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
+  },
+  {
+    "title": "Columbus Park Pop-Up Library",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 01 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056397",
+    "date": "2026-09-01",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 01 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
+  },
+  {
+    "title": "Toddler Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 01 2026 11:30am - 12:00pm \n New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
+    "link": "https://hobokenlibrary.libnet.info/event/17056212",
+    "date": "2026-09-01",
+    "day_of_week": "Tuesday",
+    "start_time": "11:30:00",
+    "formatted_time": "11:30 AM",
+    "datetime": "Tue, 01 Sep 2026 11:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
+    "audience": "Ages 1-3"
+  },
+  {
+    "title": "BookBike Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 01 2026 3:30pm - 4:00pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056637",
+    "date": "2026-09-01",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 01 Sep 2026 15:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
     "title": "Toddler Story Time",
@@ -1699,7 +1731,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 03 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1713,7 +1745,7 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 03 Sep 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
@@ -1727,22 +1759,47 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 04 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Toddler Story Time",
+    "title": "Paid Family Leave Insurance Workshop September",
     "location": "Hoboken Public Library",
-    "description": "Saturday, September 05 2026 10:30am - 11:00am \n Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "link": "https://hobokenlibrary.libnet.info/event/16609670",
-    "date": "2026-09-05",
-    "day_of_week": "Saturday",
+    "description": "Friday, September 04 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/17078382",
+    "date": "2026-09-04",
+    "day_of_week": "Friday",
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
-    "datetime": "Sat, 05 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "audience": "Ages 1-3"
+    "datetime": "Fri, 04 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
+  },
+  {
+    "title": "Screen Free Friday",
+    "location": "Hoboken Public Library",
+    "description": "Friday, September 04 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069582",
+    "date": "2026-09-04",
+    "day_of_week": "Friday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Fri, 04 Sep 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
+  },
+  {
+    "title": "Columbus Park Pop-Up Library",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 08 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056398",
+    "date": "2026-09-08",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 08 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
   },
   {
     "title": "Toddler Story Time",
@@ -1754,9 +1811,22 @@
     "start_time": "11:30:00",
     "formatted_time": "11:30 AM",
     "datetime": "Tue, 08 Sep 2026 11:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "BookBike Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 08 2026 3:30pm - 4:00pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056638",
+    "date": "2026-09-08",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 08 Sep 2026 15:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
     "title": "Toddler Story Time",
@@ -1768,7 +1838,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 10 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1782,7 +1852,7 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 10 Sep 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
@@ -1796,22 +1866,34 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 11 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Crafternoons",
+    "title": "Paid Family Leave Insurance Workshop September",
     "location": "Hoboken Public Library",
-    "description": "Friday, September 11 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072026",
+    "description": "Friday, September 11 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/17078381",
+    "date": "2026-09-11",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 11 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
+  },
+  {
+    "title": "Screen Free Friday",
+    "location": "Hoboken Public Library",
+    "description": "Friday, September 11 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069638",
     "date": "2026-09-11",
     "day_of_week": "Friday",
     "start_time": "15:00:00",
     "formatted_time": "03:00 PM",
     "datetime": "Fri, 11 Sep 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Toddler Story Time",
@@ -1823,7 +1905,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Mon, 14 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1837,9 +1919,35 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 14 Sep 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Fine Motor Skills Prep",
+    "location": "Hoboken Public Library",
+    "description": "Monday, September 14 2026 1:30pm - 2:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
+    "link": "https://hobokenlibrary.libnet.info/event/17061493",
+    "date": "2026-09-14",
+    "day_of_week": "Monday",
+    "start_time": "13:30:00",
+    "formatted_time": "01:30 PM",
+    "datetime": "Mon, 14 Sep 2026 13:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
+  },
+  {
+    "title": "Columbus Park Pop-Up Library",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 15 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056399",
+    "date": "2026-09-15",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 15 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
   },
   {
     "title": "Toddler Story Time",
@@ -1851,9 +1959,22 @@
     "start_time": "11:30:00",
     "formatted_time": "11:30 AM",
     "datetime": "Tue, 15 Sep 2026 11:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "BookBike Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 15 2026 3:30pm - 4:00pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056639",
+    "date": "2026-09-15",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 15 Sep 2026 15:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
     "title": "Toddler Story Time",
@@ -1865,7 +1986,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 17 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1879,7 +2000,7 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 17 Sep 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
@@ -1893,36 +2014,34 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 18 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Crafternoons",
+    "title": "Paid Family Leave Insurance Workshop September",
     "location": "Hoboken Public Library",
-    "description": "Friday, September 18 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072027",
+    "description": "Friday, September 18 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/17078383",
+    "date": "2026-09-18",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 18 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
+  },
+  {
+    "title": "Screen Free Friday",
+    "location": "Hoboken Public Library",
+    "description": "Friday, September 18 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069643",
     "date": "2026-09-18",
     "day_of_week": "Friday",
     "start_time": "15:00:00",
     "formatted_time": "03:00 PM",
     "datetime": "Fri, 18 Sep 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, September 19 2026 10:30am - 11:00am \n Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "link": "https://hobokenlibrary.libnet.info/event/16522387",
-    "date": "2026-09-19",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 19 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "audience": "Ages 1-3"
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Toddler Story Time",
@@ -1934,7 +2053,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Mon, 21 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1948,9 +2067,35 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 21 Sep 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Fine Motor Skills Prep",
+    "location": "Hoboken Public Library",
+    "description": "Monday, September 21 2026 1:30pm - 2:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
+    "link": "https://hobokenlibrary.libnet.info/event/17061485",
+    "date": "2026-09-21",
+    "day_of_week": "Monday",
+    "start_time": "13:30:00",
+    "formatted_time": "01:30 PM",
+    "datetime": "Mon, 21 Sep 2026 13:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
+  },
+  {
+    "title": "Columbus Park Pop-Up Library",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 22 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056400",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 22 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
   },
   {
     "title": "Toddler Story Time",
@@ -1962,9 +2107,22 @@
     "start_time": "11:30:00",
     "formatted_time": "11:30 AM",
     "datetime": "Tue, 22 Sep 2026 11:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "BookBike Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 22 2026 3:30pm - 4:00pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056640",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 22 Sep 2026 15:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
     "title": "Toddler Story Time",
@@ -1976,7 +2134,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 24 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -1990,7 +2148,7 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 24 Sep 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
@@ -2004,36 +2162,34 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 25 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Crafternoons",
+    "title": "Paid Family Leave Insurance Workshop September",
     "location": "Hoboken Public Library",
-    "description": "Friday, September 25 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072028",
+    "description": "Friday, September 25 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/17078384",
+    "date": "2026-09-25",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 25 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
+  },
+  {
+    "title": "Screen Free Friday",
+    "location": "Hoboken Public Library",
+    "description": "Friday, September 25 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069667",
     "date": "2026-09-25",
     "day_of_week": "Friday",
     "start_time": "15:00:00",
     "formatted_time": "03:00 PM",
     "datetime": "Fri, 25 Sep 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, September 26 2026 10:30am - 11:00am \n Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "link": "https://hobokenlibrary.libnet.info/event/16728495",
-    "date": "2026-09-26",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 26 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Join us for Toddler Story Time, geared towards toddlers and their caregivers",
-    "audience": "Ages 1-3"
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Toddler Story Time",
@@ -2045,7 +2201,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Mon, 28 Sep 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -2059,9 +2215,35 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Mon, 28 Sep 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Fine Motor Skills Prep",
+    "location": "Hoboken Public Library",
+    "description": "Monday, September 28 2026 1:30pm - 2:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
+    "link": "https://hobokenlibrary.libnet.info/event/17061015",
+    "date": "2026-09-28",
+    "day_of_week": "Monday",
+    "start_time": "13:30:00",
+    "formatted_time": "01:30 PM",
+    "datetime": "Mon, 28 Sep 2026 13:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
+  },
+  {
+    "title": "Columbus Park Pop-Up Library",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 29 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056401",
+    "date": "2026-09-29",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Tue, 29 Sep 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
   },
   {
     "title": "Toddler Story Time",
@@ -2073,9 +2255,22 @@
     "start_time": "11:30:00",
     "formatted_time": "11:30 AM",
     "datetime": "Tue, 29 Sep 2026 11:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "New Story Time Time! Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "BookBike Story Time",
+    "location": "Hoboken Public Library",
+    "description": "Tuesday, September 29 2026 3:30pm - 4:00pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
+    "link": "https://hobokenlibrary.libnet.info/event/17056641",
+    "date": "2026-09-29",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "datetime": "Tue, 29 Sep 2026 15:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
   },
   {
     "title": "Toddler Story Time",
@@ -2087,7 +2282,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Thu, 01 Oct 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
   },
@@ -2101,7 +2296,7 @@
     "start_time": "12:00:00",
     "formatted_time": "12:00 PM",
     "datetime": "Thu, 01 Oct 2026 12:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
     "audience": "Ages 0-18 months"
   },
@@ -2115,22 +2310,34 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Fri, 02 Oct 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "An active story time for your little yogi!"
   },
   {
-    "title": "Crafternoons",
+    "title": "Paid Family Leave Insurance Workshop September",
     "location": "Hoboken Public Library",
-    "description": "Friday, October 02 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/16072029",
+    "description": "Friday, October 02 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply.",
+    "link": "https://hobokenlibrary.libnet.info/event/17078385",
+    "date": "2026-10-02",
+    "day_of_week": "Friday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Fri, 02 Oct 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Paid Family Leave Insurance and help you apply."
+  },
+  {
+    "title": "Screen Free Friday",
+    "location": "Hoboken Public Library",
+    "description": "Friday, October 02 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
+    "link": "https://hobokenlibrary.libnet.info/event/17069703",
     "date": "2026-10-02",
     "day_of_week": "Friday",
     "start_time": "15:00:00",
     "formatted_time": "03:00 PM",
     "datetime": "Fri, 02 Oct 2026 15:00:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
   },
   {
     "title": "Toddler Story Time ",
@@ -2142,7 +2349,7 @@
     "start_time": "10:30:00",
     "formatted_time": "10:30 AM",
     "datetime": "Sun, 04 Oct 2026 10:30:00 +0000",
-    "organizer": "valerie.coughlin@hobokenlibrary.org (Valerie Coughlin)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Story Time features stories, movement, songs, and nursery rhymes.",
     "audience": "Ages 1-3"
   },
@@ -2156,7 +2363,7 @@
     "start_time": "16:00:00",
     "formatted_time": "04:00 PM",
     "datetime": "Sun, 08 Nov 2026 16:00:00 +0000",
-    "organizer": "james.cox@hobokenlibrary.org (James Cox)",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "November 8th 4pm at the Hoboken Historical Museum"
   },
   {
