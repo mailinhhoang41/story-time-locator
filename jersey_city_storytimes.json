@@ -1,96 +1,5 @@
 [
   {
-    "title": "Bonetti Craft Night",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, August 17, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Julie Metri<br/> <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>JOIN US TO WORK ON A SPECIAL CRAFT WITH MS. JULIE AND BONETTI STAFF!</p>\n",
-    "link": "https://jclibrary.libcal.com/event/16907163",
-    "date": "2026-08-17",
-    "day_of_week": "Monday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "July",
-      "June"
-    ]
-  },
-  {
-    "title": "Crochet Club for Kids",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Tuesday, August 18, 2026<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Aleksandra Brittain and Julie Metri<br/> <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Come hang out, play with yarn, and up your knitting and crochet game with Ms. Julie and Ms. Aleks!</p>\n\n<p>This craft is intended for ages 8 and up. Children who are not above the age of 8 will not be permitted to participate.&nbsp;</p>\n",
-    "link": "https://jclibrary.libcal.com/event/16907195",
-    "date": "2026-08-18",
-    "day_of_week": "Tuesday",
-    "start_time": "17:00:00",
-    "formatted_time": "05:00 PM",
-    "end_time": "18:00:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "July",
-      "June"
-    ]
-  },
-  {
-    "title": "Bonetti Movie Night: Cats & Dogs",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Wednesday, August 19, 2026<br/> <strong>Time:</strong> 6:00pm - 7:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to watch a fun movie and enjoy a light refreshment!</p>",
-    "link": "https://jclibrary.libcal.com/event/17131300",
-    "date": "2026-08-19",
-    "day_of_week": "Wednesday",
-    "start_time": "18:00:00",
-    "formatted_time": "06:00 PM",
-    "end_time": "19:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August"
-    ]
-  },
-  {
-    "title": "Marshmallow Catapults",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Thursday, August 20, 2026<br/> <strong>Time:</strong> 2:00pm - 3:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Learn how to build marshmallow catapults with us! Ages 7 and up recommended. Registration required.</p>",
-    "link": "https://jclibrary.libcal.com/event/17059255",
-    "date": "2026-08-20",
-    "day_of_week": "Thursday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "end_time": "15:00:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August"
-    ]
-  },
-  {
-    "title": "Free Play Friday",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Friday, August 21, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Bonetti Staff<br/> <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Have fun with LEGO!</p>",
-    "link": "https://jclibrary.libcal.com/event/16907332",
-    "date": "2026-08-21",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "July",
-      "June"
-    ]
-  },
-  {
     "title": "Resin Jewelry Making",
     "calendar_source": "Priscilla Gardner Main Library",
     "calendar_id": 17419,
@@ -286,23 +195,6 @@
     ]
   },
   {
-    "title": "Bonetti Craft Night (6 and up)",
-    "calendar_source": "Priscilla Gardner Main Library",
-    "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, September 7, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Julie Metri<br/> <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to work on a special craft with Ms. Julie and Bonetti staff!</p>\n\n<p>*Ages 6 and up*</p>",
-    "link": "https://jclibrary.libcal.com/event/17321290",
-    "date": "2026-09-07",
-    "day_of_week": "Monday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "PGML- Bonetti Room",
-    "audience": "Children (6-11)",
-    "categories": [
-      "September"
-    ]
-  },
-  {
     "title": "Crochet Club for Kids (8 and up)",
     "calendar_source": "Priscilla Gardner Main Library",
     "calendar_id": 17419,
@@ -361,11 +253,11 @@
     ]
   },
   {
-    "title": "Bonetti Craft Night (6 and up)",
+    "title": "Jewelry - Group A - Ages 8 and up",
     "calendar_source": "Priscilla Gardner Main Library",
     "calendar_id": 17419,
-    "description": "<strong>Date:</strong> Monday, September 14, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Julie Metri<br/> <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to work on a special craft with Ms. Julie and Bonetti staff!</p>\n\n<p>*Ages 6 and up*</p>",
-    "link": "https://jclibrary.libcal.com/event/17321291",
+    "description": "<strong>Date:</strong> Monday, September 14, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Learn how to make a resin pendant with Miss Julie! Due to the materials being used, children younger than 8 will not be admitted. No exceptions.&nbsp;</p>\n\n<p>This class will have 2 groups. If you are in Group A, DO NOT sign up for Group B! Your second registration will be deleted.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/17476923",
     "date": "2026-09-14",
     "day_of_week": "Monday",
     "start_time": "15:30:00",
@@ -375,6 +267,25 @@
     "audience": "Children (6-11)",
     "categories": [
       "September"
+    ]
+  },
+  {
+    "title": "Binguito Bailable",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, September 15, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/> <strong>Presenter:</strong> Amanda and Elisa<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Join us for a vibrant event filled with fun, dancing and exciting prizes!</p>\n\n<p>For Children ages 1-5</p>\n\n<p>&Uacute;nete a la Criolla para disfrutar de un espacio de diversi&oacute;n, baile y muchos premios</p>\n\n<p>Para ni&ntilde;os de edades: 1-5</p>\n\n<p><strong>Registration Required</strong></p>\n\n<p><strong>Registro Requerido</strong></p>",
+    "link": "https://jclibrary.libcal.com/event/17443487",
+    "date": "2026-09-15",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:30:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Music and Dance Events",
+      "September > Hispanic Heritage Month (Sep 15 - Oct 15)"
     ]
   },
   {
@@ -412,20 +323,150 @@
     ]
   },
   {
-    "title": "For The Love of Legos",
-    "calendar_source": "Earl A. Morgan Branch (Greenville)",
-    "calendar_id": 17420,
-    "description": "<strong>Date:</strong> Friday, August 21, 2026<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Come and enjoy an afternoon of lego buildng fun!</p>",
-    "link": "https://jclibrary.libcal.com/event/17347060",
-    "date": "2026-08-21",
+    "title": "Tarde de Cuentos | Storytime in the Afternoon",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Thursday, September 17, 2026<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/> <strong>Presenter:</strong> Amanda Dominguez<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Bienvenidos a una tarde the cuentos y manualidades Hispano</p>\n\n<p>Join us for an afternoon of Hispanic Stories and Crafts</p>",
+    "link": "https://jclibrary.libcal.com/event/17446944",
+    "date": "2026-09-17",
+    "day_of_week": "Thursday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Storytime Events",
+      "September > Hispanic Heritage Month (Sep 15 - Oct 15)"
+    ]
+  },
+  {
+    "title": "Fun Fridays in Criolla / Viernes Divertidos en la Criolla",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Friday, September 18, 2026<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>🎉 <strong>FUN FRIDAYS / VIERNES DIVERTIDOS</strong> 🎉<br />\n&nbsp; &nbsp; &nbsp; &nbsp; at Biblioteca Criolla / en la Biblioteca Criolla</p>\n\n<p>AFTER SCHOOL = FUN TIME! &nbsp;🎨🕹️<br />\nDESPU&Eacute;S DE LA ESCUELA = &iexcl;HORA DE DIVERSI&Oacute;N! &nbsp;🎨🕹️</p>\n\n<p><strong>Every Friday: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cada viernes:</strong></p>\n\n<p>🃏 Mexican Bingo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🃏 Loteria</p>\n\n<p>✨ Crafts &amp; Projects &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;✨ Manualidades y proyectos<br />\n🎲 Games &amp; Activities &nbsp; &nbsp; &nbsp; &nbsp; 🎲 Juegos y actividades<br />\n💻 Computers &amp; Nintendo Switch 2 &nbsp; 💻 Computadoras y Nintendo Switch 2<br />\n🍎 Refreshments Provided! &nbsp; &nbsp; 🍎 &iexcl;Se ofrecen refrigerios!</p>\n\n<p>Build, create, play, and make friends! &nbsp;<br />\n&iexcl;Construye, crea, juega y haz amigos!</p>\n\n<p>Ages 4 &amp;+ / Edades 4 &amp;+</p>\n\n<p>📧 More info / M&aacute;s informaci&oacute;n:&nbsp;</p>\n\n<p>Call: 201-547-4541 Email: criolla@jclibrary.org</p>",
+    "link": "https://jclibrary.libcal.com/event/17446815",
+    "date": "2026-09-18",
     "day_of_week": "Friday",
     "start_time": "15:00:00",
     "formatted_time": "03:00 PM",
     "end_time": "16:30:00",
-    "location": "Earl Morgan Branch",
+    "location": "PGML-Biblioteca Criolla",
     "audience": "Children (6-11)",
     "categories": [
-      "Popular Events > Children Events"
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Children Events",
+      "Popular Events > Fun and Games Events",
+      "September > Hispanic Heritage Month (Sep 15 - Oct 15)"
+    ]
+  },
+  {
+    "title": "Biblioteca Criolla Hora de Cuentos Mes de Hispanidad | Storytime at Biblioteca Criolla Hispanic Heritage Month",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, September 21, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/> <strong>Presenter:</strong> Amanda and Elisa<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Celebrate Hispanic Heritage Month with us at Biblioteca Criolla</p>\n\n<p>Bilingual Story Hour with Amanda &amp; Elisa</p>\n\n<p>Stories, Songs, and Fun in English &amp; Spanish!</p>\n\n<p><strong>Registration Required</strong></p>\n\n<p>Celebra el mes de Hispanidad con nosotros en Biblioteca Criolla</p>\n\n<p>Hora de Cuentos Bilingual con Amanda, y Elisa</p>\n\n<p>Canciones y cuentos muy divertidos en Ingles y Espanol</p>\n\n<p><strong>Inscripci&oacute;n Requerida</strong></p>",
+    "link": "https://jclibrary.libcal.com/event/17441534",
+    "date": "2026-09-21",
+    "day_of_week": "Monday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:30:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Storytime Events",
+      "September > Hispanic Heritage Month (Sep 15 - Oct 15)"
+    ]
+  },
+  {
+    "title": "Bonetti Craft Night (6 and up)",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Monday, September 21, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/> <strong>Presenter:</strong> Julie Metri<br/> <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to work on a special craft with Ms. Julie and Bonetti staff!</p>\n\n<p>*Ages 6 and up*</p>",
+    "link": "https://jclibrary.libcal.com/event/17321292",
+    "date": "2026-09-21",
+    "day_of_week": "Monday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "Born 2 Move | Nacido para Moverse",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/> <strong>Presenter:</strong> Amanda<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>A Bilingual Dance and movement session for toddlers and their guardians.</p>\n\n<p>Baila y Mueve con tu bebe en dos idiomas!</p>",
+    "link": "https://jclibrary.libcal.com/event/17444624",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:30:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Music and Dance Events",
+      "September > Hispanic Heritage Month (Sep 15 - Oct 15)"
+    ]
+  },
+  {
+    "title": "Crochet Club for Kids (8 and up)",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/> <strong>Presenter:</strong> Julie Metri and Aleksandra Brittain<br/> <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Come hang out, play with yarn, and up your knitting and crochet game with Ms. Julie and Ms. Aleks!</p>\n\n<p>*Children who are not above the age of 8 will not be permitted to participate*</p>",
+    "link": "https://jclibrary.libcal.com/event/17322282",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "Bonetti Movie Night: Winning London",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Wednesday, September 23, 2026<br/> <strong>Time:</strong> 6:00pm - 8:00pm<br/>  <strong>Location:</strong>  PGML- Bonetti Room<br/>  <p>Join us to watch a fun family-friendly movie and enjoy a light snack!</p>\n\n<p>*Registration not required*</p>\n\n<p>&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/17320299",
+    "date": "2026-09-23",
+    "day_of_week": "Wednesday",
+    "start_time": "18:00:00",
+    "formatted_time": "06:00 PM",
+    "end_time": "20:00:00",
+    "location": "PGML- Bonetti Room",
+    "audience": "Children (6-11)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "Tarde de Cuentos | Storytime in the Afternoon",
+    "calendar_source": "Priscilla Gardner Main Library",
+    "calendar_id": 17419,
+    "description": "<strong>Date:</strong> Thursday, September 24, 2026<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/> <strong>Presenter:</strong> Amanda Dominguez<br/> <strong>Location:</strong>  PGML-Biblioteca Criolla<br/>  <p>Bienvenidos a una tarde the cuentos y manualidades Hispano</p>\n\n<p>Join us for an afternoon of Hispanic Stories and Crafts</p>",
+    "link": "https://jclibrary.libcal.com/event/17446945",
+    "date": "2026-09-24",
+    "day_of_week": "Thursday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "PGML-Biblioteca Criolla",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Biblioteca Criolla Events",
+      "Popular Events > Storytime Events",
+      "September > Hispanic Heritage Month (Sep 15 - Oct 15)"
     ]
   },
   {
@@ -498,17 +539,35 @@
     ]
   },
   {
-    "title": "Story Hour with Miss Sheena",
-    "calendar_source": "West Bergen Branch",
-    "calendar_id": 17421,
-    "description": "<strong>Date:</strong> Wednesday, August 19, 2026<br/> <strong>Time:</strong> 10:00am - 11:00am<br/> <strong>Presenter:</strong> Sheena Henry<br/> <strong>Location:</strong>  West Bergen Branch<br/>  <p>Join us for a fun and educational story hour with Miss Sheena!</p>\n\n<p>All children are capable of learning with the proper support. Such as differentiated instruction, visual aids, and hands-on activities, can help children thrive. My goal during story hour is to help prepare children for preschool and a foundation for lifelong learning.</p>\n\n<p><span style=\"font-size:18px;\"><span style=\"background-color:#ffff00;\">Saturday Dates: July 11th and 25th/ August 8th 10am-11am</span></span></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-    "link": "https://jclibrary.libcal.com/event/16117017",
-    "date": "2026-08-19",
+    "title": "Mr. Magico",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 4:00pm - 4:45pm<br/>  <strong>Location:</strong>  Earl A Morgan Auditorium<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/16654154",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "16:45:00",
+    "location": "Earl A Morgan Auditorium",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Family Events",
+      "Popular Events > Summer Break JC"
+    ]
+  },
+  {
+    "title": "Tiny Tales Story Time",
+    "calendar_source": "Earl A. Morgan Branch (Greenville)",
+    "calendar_id": 17420,
+    "description": "<strong>Date:</strong> Wednesday, September 23, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Earl Morgan Branch<br/>  <p>Join us each week for stories, songs, rhymes, and a fun craft designed just for preschoolers. Story Time encourages early literacy, creativity, and social skills in a welcoming library environment.</p>\n\n<p><strong><span style=\"background-color:#ffff00;\">CLASS VISITS MUST BE SCHEDULED IN ADVANCE</span></strong></p>\n",
+    "link": "https://jclibrary.libcal.com/event/17169738",
+    "date": "2026-09-23",
     "day_of_week": "Wednesday",
-    "start_time": "10:00:00",
-    "formatted_time": "10:00 AM",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
     "end_time": "11:00:00",
-    "location": "West Bergen Branch",
+    "location": "Earl Morgan Branch",
     "audience": "Early Childhood (0-5)",
     "categories": [
       "Popular Events > Storytime Events"
@@ -546,57 +605,6 @@
     "audience": "Children (6-11)",
     "categories": [
       "August"
-    ]
-  },
-  {
-    "title": "Toddler Time",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Tuesday, August 18, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us for a fun and relaxed playtime where toddlers can explore, play with toys, and socialize with other children. A great opportunity for little ones to practice sharing, build friendships, and enjoy free play with their caregivers.</p>\n\n<p>For ages 1-3. No registration is needed.&nbsp;</p>\n\n<p>For more information email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/17223132",
-    "date": "2026-08-18",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:30:00",
-    "location": "Pavonia Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "Lego Build Time",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Friday, August 21, 2026<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p><span style=\"color:#16a085;\"><strong>It&#39;s Lego Time at Pavonia Branch Library! Join us to&nbsp;explore and build with our collection of Legos.</strong></span></p>\n\n<p><span style=\"color:#16a085;\"><strong>For ages 4-11.</strong></span></p>\n\n<p><span style=\"color:#16a085;\"><strong>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</strong></span></p>",
-    "link": "https://jclibrary.libcal.com/event/17174955",
-    "date": "2026-08-21",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:30:00",
-    "location": "Pavonia Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "Family Music & Movement",
-    "calendar_source": "Pavonia Branch",
-    "calendar_id": 17422,
-    "description": "<strong>Date:</strong> Saturday, August 22, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/> <strong>Presenter:</strong> Angelita Tubungbanua<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Wiggle, giggle, and move with Ms. Angie! Every other Saturday, little ones and their families are invited to enjoy a fun-filled music and movement class featuring songs and dancing.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/17293519",
-    "date": "2026-08-22",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:00:00",
-    "location": "Pavonia Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events > Children Events"
     ]
   },
   {
@@ -841,61 +849,71 @@
     ]
   },
   {
-    "title": "Tie-Dye Party",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Tuesday, August 18, 2026<br/> <strong>Time:</strong> 3:00pm - 4:30pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p>Join us for a fun time outside creating our own unique fabric-dyed accessory.</p>\n\n<p>Choose between a tote or drawstring bag to fold into a design and splatter tie-dye paint into your own colorful style.</p>\n\n<p>Bring your own white cotton t-shirt to have a piece of wearable art to remember the summer!</p>",
-    "link": "https://jclibrary.libcal.com/event/17273053",
-    "date": "2026-08-18",
-    "day_of_week": "Tuesday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "end_time": "16:30:00",
-    "location": "Miller Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "Popular Events > All-Ages Events",
-      "Popular Events > Summer Break JC"
-    ]
-  },
-  {
-    "title": "Story Time and Dance Party",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Wednesday, August 19, 2026<br/> <strong>Time:</strong> 1:00pm - 2:00pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p>Join us for a joyful storytime and dance party for babies, toddlers, and their grown-ups! Wear your little one or let older kids groove alongside you as we move, wiggle, and celebrate together. Enjoy upbeat music, easy-to-follow dances, and a welcoming, judgment-free atmosphere filled with connection, laughter, and community. Perfect for babies in carriers, toddlers, preschoolers, and their caregivers. No dance experience necessary&mdash;just bring your little ones and get ready to shake, shimmy, and have fun together. Registration required.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/17367221",
-    "date": "2026-08-19",
-    "day_of_week": "Wednesday",
-    "start_time": "13:00:00",
-    "formatted_time": "01:00 PM",
-    "end_time": "14:00:00",
-    "location": "Miller Branch",
+    "title": "Family Music & Movement",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Saturday, September 19, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/> <strong>Presenter:</strong> Angelita Tubungbanua<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Wiggle, giggle, and move with Ms. Angie! Every other Saturday, little ones and their families are invited to enjoy a fun-filled music and movement class featuring songs and dancing.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/17293521",
+    "date": "2026-09-19",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Pavonia Branch",
     "audience": "Early Childhood (0-5)",
     "categories": [
-      "August",
-      "Popular Events > Storytime Events",
-      "Popular Events > Summer Break JC"
+      "Popular Events > Children Events"
     ]
   },
   {
-    "title": "STEM Workshop: Building Marshmallow Catapults",
-    "calendar_source": "Miller Branch",
-    "calendar_id": 17423,
-    "description": "<strong>Date:</strong> Thursday, August 20, 2026<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p>Students will design and build a catapult to launch marshmallows. Students will work in groups or alone to create an object that is able to launch marshmallows at least 6 feet. Everyone will demonstrate their finished products at the end.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/17228445",
-    "date": "2026-08-20",
+    "title": "Lapsit Storytime",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us for a gentle and interactive Storytime designed especially for babies and their caregivers!</p>\n\n<p><strong>For ages birth-12 months.&nbsp;</strong></p>\n\n<p>For more information email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>\n",
+    "link": "https://jclibrary.libcal.com/event/17371813",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Pavonia Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Toddler & Preschool Storytime",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Thursday, September 24, 2026<br/> <strong>Time:</strong> 11:00am - 11:30am<br/> <strong>Presenter:</strong> Angelita Tubungbanua & Tyara Tucker<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Join us at the Pavonia Branch Library for a fun-filled Storytime designed for little learners! Come sing, read, and move, while building early literacy skills!</p>\n\n<p><strong>For ages 2-5.&nbsp;</strong></p>\n\n<p>For more information email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>\n",
+    "link": "https://jclibrary.libcal.com/event/17372027",
+    "date": "2026-09-24",
     "day_of_week": "Thursday",
     "start_time": "11:00:00",
     "formatted_time": "11:00 AM",
-    "end_time": "12:00:00",
-    "location": "Miller Branch",
+    "end_time": "11:30:00",
+    "location": "Pavonia Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "National Dance Day!",
+    "calendar_source": "Pavonia Branch",
+    "calendar_id": 17422,
+    "description": "<strong>Date:</strong> Thursday, September 24, 2026<br/> <strong>Time:</strong> 3:30pm - 4:15pm<br/> <strong>Presenter:</strong> Angelita Tubungbanua<br/> <strong>Location:</strong>  Pavonia Branch<br/>  <p>Stop by the Pavonia Branch to celebrate National Dance Day! Get ready to move, groove, and have fun!</p>\n\n<p>For ages 4-11.&nbsp;</p>\n\n<p>For more info email pavoniabranch@jclibrary.org or call us at (201) 547-4808.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/17302894",
+    "date": "2026-09-24",
+    "day_of_week": "Thursday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:15:00",
+    "location": "Pavonia Branch",
     "audience": "Children (6-11)",
     "categories": [
-      "August",
-      "Popular Events > Children Events",
-      "Popular Events > Educational Workshops",
-      "Popular Events > S.T.E.A.M/ST.E.M Programs"
+      "Popular Events > Children Events"
     ]
   },
   {
@@ -916,103 +934,23 @@
     ]
   },
   {
-    "title": "JC Pride Diamond Art Craft",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Monday, August 17, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/17072122",
-    "date": "2026-08-17",
-    "day_of_week": "Monday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "Marion Branch",
+    "title": "International 'Talk Like a Pirate' Day",
+    "calendar_source": "Miller Branch",
+    "calendar_id": 17423,
+    "description": "<strong>Date:</strong> Saturday, September 19, 2026<br/> <strong>Time:</strong> 12:00pm - 1:00pm<br/>  <strong>Location:</strong>  Miller Branch<br/>  <p>Come have fun talking like a pirate, mate!</p>\n\n<p>Join our treasure hunt activity and search for prizes in the library!</p>",
+    "link": "https://jclibrary.libcal.com/event/17335826",
+    "date": "2026-09-19",
+    "day_of_week": "Saturday",
+    "start_time": "12:00:00",
+    "formatted_time": "12:00 PM",
+    "end_time": "13:00:00",
+    "location": "Miller Branch",
     "audience": "Children (6-11)",
     "categories": [
-      "August",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Children Events",
-      "Popular Events > Cultural Celebrations"
-    ]
-  },
-  {
-    "title": "JC Pride Diamond Art Craft",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Tuesday, August 18, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/17072123",
-    "date": "2026-08-18",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "Marion Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Children Events",
-      "Popular Events > Cultural Celebrations"
-    ]
-  },
-  {
-    "title": "JC Pride Diamond Art Craft",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Wednesday, August 19, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/17072124",
-    "date": "2026-08-19",
-    "day_of_week": "Wednesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "Marion Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Children Events",
-      "Popular Events > Cultural Celebrations"
-    ]
-  },
-  {
-    "title": "JC Pride Diamond Art Craft",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Thursday, August 20, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/17072125",
-    "date": "2026-08-20",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "Marion Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Children Events",
-      "Popular Events > Cultural Celebrations"
-    ]
-  },
-  {
-    "title": "JC Pride Diamond Art Craft",
-    "calendar_source": "Marion Branch",
-    "calendar_id": 17424,
-    "description": "<strong>Date:</strong> Friday, August 21, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
-    "link": "https://jclibrary.libcal.com/event/17072126",
-    "date": "2026-08-21",
-    "day_of_week": "Friday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "end_time": "16:30:00",
-    "location": "Marion Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August",
-      "Popular Events > Arts and Crafts Events",
-      "Popular Events > Children Events",
-      "Popular Events > Cultural Celebrations"
+      "Popular Events",
+      "Popular Events > All-Ages Events",
+      "Popular Events > Fun and Games Events",
+      "September"
     ]
   },
   {
@@ -1198,6 +1136,66 @@
     ]
   },
   {
+    "title": "Children's Craft Afternoons",
+    "calendar_source": "Marion Branch",
+    "calendar_id": 17424,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Marion Branch<br/>  <p>Join us every week for a new craft!</p>",
+    "link": "https://jclibrary.libcal.com/event/17185752",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Marion Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "November",
+      "October",
+      "Popular Events > Arts and Crafts Events",
+      "Popular Events > Fun and Games Events",
+      "September"
+    ]
+  },
+  {
+    "title": "Pre-K Story Hour",
+    "calendar_source": "Marion Branch",
+    "calendar_id": 17424,
+    "description": "<strong>Date:</strong> Thursday, September 24, 2026<br/> <strong>Time:</strong> 10:30am - 11:00am<br/>  <strong>Location:</strong>  Marion Branch<br/>  ",
+    "link": "https://jclibrary.libcal.com/event/17374092",
+    "date": "2026-09-24",
+    "day_of_week": "Thursday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:00:00",
+    "location": "Marion Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Baby-Toddler Lego Block Playtime",
+    "calendar_source": "Marion Branch",
+    "calendar_id": 17424,
+    "description": "<strong>Date:</strong> Thursday, September 24, 2026<br/> <strong>Time:</strong> 11:00am - 11:30am<br/>  <strong>Location:</strong>  Marion Branch<br/>  <p>Babies and toddlers guided by their parents have an opportunity to develop their cognitive, social and fine motor skills building with large Lego-like blocks.</p>",
+    "link": "https://jclibrary.libcal.com/event/17373573",
+    "date": "2026-09-24",
+    "day_of_week": "Thursday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "11:30:00",
+    "location": "Marion Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "November",
+      "October",
+      "Popular Events > Children Events",
+      "Popular Events > Family Events",
+      "Popular Events > Fun and Games Events",
+      "September"
+    ]
+  },
+  {
     "title": "Back to School: DIY PENCIL CASE",
     "calendar_source": "Lafayette Branch",
     "calendar_id": 17425,
@@ -1213,6 +1211,24 @@
     "categories": [
       "Popular Events > Arts and Crafts Events",
       "Popular Events > Children Events"
+    ]
+  },
+  {
+    "title": "Saturday Story hour with CAS: 'You Can do It All'",
+    "calendar_source": "Lafayette Branch",
+    "calendar_id": 17425,
+    "description": "<strong>Date:</strong> Saturday, September 12, 2026<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Lafayette Branch<br/>  <p>Join us for an uplifting Story Hour celebrating confidence, imagination, and the belief that anything is possible! Through engaging storytelling, fun activities, and positive messages, children will be encouraged to dream big, discover their unique strengths, and remember that they can do amazing things when they believe in themselves.</p>",
+    "link": "https://jclibrary.libcal.com/event/17374423",
+    "date": "2026-09-12",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "12:00:00",
+    "location": "Lafayette Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Community Awareness Series (CAS)"
     ]
   },
   {
@@ -1252,55 +1268,78 @@
     ]
   },
   {
-    "title": "Youth Chess Club",
-    "calendar_source": "Heights Branch",
-    "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Monday, August 17, 2026<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">The Youth Chess Club provides a welcoming and engaging space for teens to enjoy friendly games, improve their chess skills, and explore new strategies. </span></span></span></p>\n\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">Open to all skill levels, (Ages 8+) the club fosters a supportive community where participants can develop critical thinking, problem-solving, and strategic skills while having fun and making new friends.</span></span></span></p>\n\n<p style=\"margin-bottom:11px\">&nbsp;</p>\n",
-    "link": "https://jclibrary.libcal.com/event/16989755",
-    "date": "2026-08-17",
+    "title": "Story Hour With Express Yourself Studios",
+    "calendar_source": "Lafayette Branch",
+    "calendar_id": 17425,
+    "description": "<strong>Date:</strong> Saturday, September 19, 2026<br/> <strong>Time:</strong> 2:00pm - 3:00pm<br/>  <strong>Location:</strong>  Lafayette Branch<br/>  <p>Celebrate Hispanic Heritage Month with a special story hour featuring <i>I Am / Yo Soy: Color, Culture &amp; Me</i>! Children and families will explore themes of identity, culture, community, and pride through this engaging bilingual story. After the reading, participants will create a fun, hands-on craft inspired by the story and their own unique identities.</p>\n\n<p>Come celebrate the many colors, cultures, and traditions that make each of us special!</p>",
+    "link": "https://jclibrary.libcal.com/event/17476255",
+    "date": "2026-09-19",
+    "day_of_week": "Saturday",
+    "start_time": "14:00:00",
+    "formatted_time": "02:00 PM",
+    "end_time": "15:00:00",
+    "location": "Lafayette Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "Popular Events > Children Events",
+      "Popular Events > Cultural Celebrations",
+      "Popular Events > Storytime Events",
+      "September"
+    ]
+  },
+  {
+    "title": "Hispanic Heritage Month- Cafecito: A reading of Latin-American poets",
+    "calendar_source": "Lafayette Branch",
+    "calendar_id": 17425,
+    "description": "<strong>Date:</strong> Monday, September 21, 2026<br/> <strong>Time:</strong> 6:00pm - 7:30pm<br/> <strong>Presenter:</strong> Sam Williams<br/> <strong>Location:</strong>  Lafayette Branch<br/>  <p>Community Awareness Series: Hispanic Heritage Month Celebration In collaboration with St. Peter&#39;s University (RAIIS) Presents: Cafecito</p>\n\n<p>A reading of Latin-American poets along with coffee and refreshments.</p>",
+    "link": "https://jclibrary.libcal.com/event/17272520",
+    "date": "2026-09-21",
     "day_of_week": "Monday",
-    "start_time": "16:00:00",
-    "formatted_time": "04:00 PM",
-    "end_time": "17:00:00",
-    "location": "Heights Branch",
-    "audience": "Children (6-11)",
+    "start_time": "18:00:00",
+    "formatted_time": "06:00 PM",
+    "end_time": "19:30:00",
+    "location": "Lafayette Branch",
+    "audience": "General (All)",
     "categories": [
-      "Popular Events > S.T.E.A.M/ST.E.M Programs",
-      "Popular Events > Teen Programs"
+      "Popular Events > Community Awareness Series (CAS)",
+      "Popular Events > Cultural Celebrations",
+      "September > Hispanic Heritage Month (Sep 15 - Oct 15)"
     ]
   },
   {
-    "title": "Zentangle with Miss Zoe",
-    "calendar_source": "Heights Branch",
-    "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Tuesday, August 18, 2026<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Georgia,serif;\">Miss Zoe (the new Heights Branch Children&#39;s Librarian) will be leading an hour of <strong>quiet doodling/drawing</strong> with relaxing instrumental music.</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Georgia,serif;\">Zentangle is a style of art consisting repeating patterns where the end result appears like an optical illusion. Young artists will be encouraged to trust their gut, relax, and make the <strong>pattern of the day </strong>their own!</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Georgia,serif;\"><strong>Children and teens (between the ages of 6 and 17) </strong>are welcome to attend this<strong> free program</strong> which will be held in the Community Room (downstairs of the Heights Branch Library). Capacity is limited to the number of seats in the room (roughly 20).</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Georgia,serif;\"> Caretakers, if your child cannot be trusted with markers, they should not attend this event.</span></span></p>",
-    "link": "https://jclibrary.libcal.com/event/17227490",
-    "date": "2026-08-18",
+    "title": "Baby & Me Story Hour",
+    "calendar_source": "Lafayette Branch",
+    "calendar_id": 17425,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/> <strong>Presenter:</strong> Yolanda Sargent<br/> <strong>Location:</strong>  Lafayette Branch<br/>  <p>WE ARE BACK!&nbsp; Join us again every Tuesday at 11:00 am for our exciting Story hour with Ms. Yolanda. As an added flavor we would be doing a special focus on our Hispanic Authors and Illustrators as we Celebrate Hispanic Heritage Month from September15th - October 15th.&nbsp;</p>\n",
+    "link": "https://jclibrary.libcal.com/event/17272430",
+    "date": "2026-09-22",
     "day_of_week": "Tuesday",
-    "start_time": "16:00:00",
-    "formatted_time": "04:00 PM",
-    "end_time": "17:00:00",
-    "location": "Heights Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "August"
-    ]
-  },
-  {
-    "title": "Storytime in the Heights",
-    "calendar_source": "Heights Branch",
-    "calendar_id": 17426,
-    "description": "<strong>Date:</strong> Wednesday, August 19, 2026<br/> <strong>Time:</strong> 11:00am - 12:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"text-align: center;\"><span style=\"font-size:16px;\"><strong><span style=\"font-family:Comic Sans MS,cursive;\">Join Miss Zoe (the new Heights Branch Children&#39;s Librarian) for an hour of singing, stories, and play.&nbsp;</span></strong></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><span style=\"font-family:Comic Sans MS,cursive;\"><strong>Children ages 0-5 are welcome!</strong></span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:16px;\"><span style=\"font-family:Comic Sans MS,cursive;\"><strong>11 am - Noon on Wednesdays in the Community Room (downstairs)</strong></span></span></p>\n\n<p style=\"text-align: center;\">REGISTRATION REQUIRED (will open 3 days in advance, reminder email sent three hours in advance)</p>\n\n<p><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:12px;\">Following the Supercharged Storytimes framework, we will read roughly four books (sandwiched by songs) and spend the last twenty minutes on group social time (playing with blocks or coloring).</span></span></p>\n\n<p><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:12px;\">This event will run for ages 0-5 on Wednesdays at 11 am <strong>through August 26th</strong>. Beginning in September, we will hold storytime twice weekly: once for babies and toddlers ages 0-3 (Wednesdays at 10:30 am) and once for preschoolers and kindergarteners ages 3-5 (Tuesdays at 5 pm). Caretakers should not bring their children to both events in a given week.</span></span></p>",
-    "link": "https://jclibrary.libcal.com/event/17227155",
-    "date": "2026-08-19",
-    "day_of_week": "Wednesday",
     "start_time": "11:00:00",
     "formatted_time": "11:00 AM",
     "end_time": "12:00:00",
-    "location": "Heights Branch",
+    "location": "Lafayette Branch",
     "audience": "Early Childhood (0-5)",
     "categories": [
-      "July"
+      "Popular Events > Family Events",
+      "Popular Events > Storytime Events"
+    ]
+  },
+  {
+    "title": "Desk Mat Making",
+    "calendar_source": "Lafayette Branch",
+    "calendar_id": 17425,
+    "description": "<strong>Date:</strong> Thursday, September 24, 2026<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/> <strong>Presenter:</strong> Yolanda Sargent<br/> <strong>Location:</strong>  Lafayette Branch<br/>  <p>Make your mat artistic, fun, silly and crazy. YOUR MAT, YOUR WAY!</p>",
+    "link": "https://jclibrary.libcal.com/event/17272853",
+    "date": "2026-09-24",
+    "day_of_week": "Thursday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "Lafayette Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Arts and Crafts Events",
+      "Popular Events > Children Events"
     ]
   },
   {
@@ -1424,6 +1463,23 @@
     ]
   },
   {
+    "title": "DIY Friendship Bracelets",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Wednesday, September 9, 2026<br/> <strong>Time:</strong> 4:00pm - 6:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"text-align: center;\"><strong><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Join Miss Zoe and Heights Branch staff from 4:00 - 5:45 pm in the Community Room for DIY Friendship Bracelets.</span></span></strong></p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Don&#39;t know how to make bracelets already? No problem! Learn from your peers and from printouts/tutorials from the internet.</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\"><strong>Bring your own materials or use the string/beads/charms/rubber bands/looms provided.</strong></span></span></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\"><strong>Ages 6 - 17 are welcome.</strong></span></span></p>\n\n<p><span style=\"font-size:11px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Children under the age of 9 must be accompanied by an adult (even in the community room while the program is taking place). Library staff are not authorized to watch children.</span></span></p>\n\n<p><span style=\"font-size:14px;\"><strong><span style=\"font-family:Comic Sans MS,cursive;\">Registration is not required.</span></strong></span></p>",
+    "link": "https://jclibrary.libcal.com/event/17428060",
+    "date": "2026-09-09",
+    "day_of_week": "Wednesday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "18:00:00",
+    "location": "Heights Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
     "title": "Youth Chess Club",
     "calendar_source": "Heights Branch",
     "calendar_id": 17426,
@@ -1471,6 +1527,92 @@
     "end_time": "11:30:00",
     "location": "Heights Branch",
     "audience": "Early Childhood (0-5)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "BINGO NIGHT in the Heights",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Wednesday, September 16, 2026<br/> <strong>Time:</strong> 4:30pm - 6:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"text-align: center;\"><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Join Miss Zoe and the Heights Branch staff for Bingo Night from 4:30 to 5:45 pm in the Community Room.</span></span></p>\n\n<p style=\"text-align: center;\"><strong><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">We will play multiple rounds of bingo with prizes including: coloring books, activity books, Funko Pops, and art supplies.</span></span></strong></p>\n\n<p>&nbsp;</p>\n\n<p><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Ages 6-17 are welcome (although many of the prizes will be geared towards 6&ndash;12-year-olds).</span></span></p>\n\n<p><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Children under the age of 9 must be accompanied by an adult-- even during the program. Library Staff are not authorized to watch children.</span></span></p>\n\n<p><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">No registration is required to attend this event.</span></span></p>",
+    "link": "https://jclibrary.libcal.com/event/17428333",
+    "date": "2026-09-16",
+    "day_of_week": "Wednesday",
+    "start_time": "16:30:00",
+    "formatted_time": "04:30 PM",
+    "end_time": "18:00:00",
+    "location": "Heights Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "Youth Chess Club",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Monday, September 21, 2026<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">The Youth Chess Club provides a welcoming and engaging space for teens to enjoy friendly games, improve their chess skills, and explore new strategies. </span></span></span></p>\n\n<p style=\"margin-bottom:11px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\">Open to all skill levels, (Ages 8+) the club fosters a supportive community where participants can develop critical thinking, problem-solving, and strategic skills while having fun and making new friends.</span></span></span></p>\n\n<p style=\"margin-bottom:11px\">&nbsp;</p>\n",
+    "link": "https://jclibrary.libcal.com/event/16989760",
+    "date": "2026-09-21",
+    "day_of_week": "Monday",
+    "start_time": "16:00:00",
+    "formatted_time": "04:00 PM",
+    "end_time": "17:00:00",
+    "location": "Heights Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > S.T.E.A.M/ST.E.M Programs",
+      "Popular Events > Teen Programs"
+    ]
+  },
+  {
+    "title": "Pre-K Evening Storytime",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 5:00pm - 6:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:16px;\">Beginning September 1st, join Miss Zoe for a storytime designed especially for <strong>older toddlers and students preparing for kindergarten</strong>. </span></span><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:16px;\"></span></span><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:16px;\">We will sing songs, dance, read stories, color, and complete educational worksheets. </span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:16px;\"></span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:16px;\">This program will take place on Tuesdays at 5:00 pm (shortly before the branch&#39;s 6 pm closure) for the month of September--- and likely beyond. The official age range for the event is <strong>3-5 </strong>(but any toddlers who can walk and students up to the age of 6 may attend).</span></span></p>\n\n<p style=\"text-align: center;\"><span style=\"font-family:Comic Sans MS,cursive;\"><span style=\"font-size:16px;\"> <em>Children who cannot walk or will sit in their caretaker&#39;s lap should attend the storytime held at 10:30 am on Wednesdays instead.</em></span></span></p>",
+    "link": "https://jclibrary.libcal.com/event/17362139",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "end_time": "18:00:00",
+    "location": "Heights Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "Lap-Sit Storytime in the Heights",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Wednesday, September 23, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p style=\"text-align: center;\"><font face=\"Comic Sans MS, cursive\"><span style=\"font-size: 16px;\">Miss Zoe and the Heights Branch Library Staff welcome families and caretakers with very young children to attend our lap-sit storytime on Wednesdays at 10:30 am (beginning in Septmeber).</span></font></p>\n\n<p style=\"text-align: center;\">&nbsp;</p>\n\n<p style=\"text-align: center;\"><font face=\"Comic Sans MS, cursive\">This event will include stories, singing, and time for social play. It is especially designed for students ages 0-3 who do not yet attend school (even newborns and toddlers who cannot yet walk).&nbsp;</font></p>\n\n<p style=\"text-align: center;\"><font face=\"Comic Sans MS, cursive\">Older students who already attend preschool or kindergarten are encouraged to instead attend our Pre-K Evening Storytime (held Tuesday evenings at 5).&nbsp;</font></p>",
+    "link": "https://jclibrary.libcal.com/event/17362231",
+    "date": "2026-09-23",
+    "day_of_week": "Wednesday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "end_time": "11:30:00",
+    "location": "Heights Branch",
+    "audience": "Early Childhood (0-5)",
+    "categories": [
+      "September"
+    ]
+  },
+  {
+    "title": "STEM Games for Kids",
+    "calendar_source": "Heights Branch",
+    "calendar_id": 17426,
+    "description": "<strong>Date:</strong> Wednesday, September 23, 2026<br/> <strong>Time:</strong> 4:30pm - 6:00pm<br/>  <strong>Location:</strong>  Heights Branch<br/>  <p><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Join Miss Zoe and the Heights Branch staff to play online science and math games created by the<strong> Smithsonian Science Education Center</strong> and found on their <strong>Game Center</strong> website.</span></span></p>\n\n<p><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">This event will take place in the Community Room on Wednesday, September 23rd at 4:30 pm, and it will end 15 minutes before the branch closes.&nbsp;</span></span></p>\n\n<p><strong><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">There will be 10 laptops available for children to take turns playing games independently, and Miss Zoe will be leading a small group playing games together on the TV.</span></span></strong></p>\n\n<p><span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Due to limited capacity, <strong>you must register </strong>your child to attend this event, and it is strictly geared towards students in<strong> kindergarten through 5th grade</strong>.</span></span>&nbsp;<span style=\"font-size:14px;\"><span style=\"font-family:Comic Sans MS,cursive;\">Please just register once (under the child&#39;s name and parent&#39;s email address). Registration will open on Wednesday, September 9th.</span></span></p>\n\n<p><span style=\"font-family:Comic Sans MS,cursive;\">Children under the age of 9 must be accompanied by an adult when they attend this program.</span></p>",
+    "link": "https://jclibrary.libcal.com/event/17429196",
+    "date": "2026-09-23",
+    "day_of_week": "Wednesday",
+    "start_time": "16:30:00",
+    "formatted_time": "04:30 PM",
+    "end_time": "18:00:00",
+    "location": "Heights Branch",
+    "audience": "Children (6-11)",
     "categories": [
       "September"
     ]
@@ -1529,6 +1671,115 @@
     ]
   },
   {
+    "title": "STEM for Kids: 3D Doodle Pens",
+    "calendar_source": "Glenn D. Cunningham Branch",
+    "calendar_id": 17427,
+    "description": "<strong>Date:</strong> Thursday, September 10, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Come build unique creations with 3D Doodle Pens!</p>",
+    "link": "https://jclibrary.libcal.com/event/17421728",
+    "date": "2026-09-10",
+    "day_of_week": "Thursday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Glenn D. Cunningham Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > S.T.E.A.M/ST.E.M Programs",
+      "September"
+    ]
+  },
+  {
+    "title": "Fall Scavenger Hunt: Squishies",
+    "calendar_source": "Glenn D. Cunningham Branch",
+    "calendar_id": 17427,
+    "description": "<strong>Date:</strong> Wednesday, September 16, 2026<br/> <strong>Time:</strong> All Day Event<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Paper squishies are hiding around the library.</p>\n\n<p>Find as many as you can!</p>\n\n<p>Each squishy you find earns you a spot on the leaderboard.</p>\n\n<p>If you find all of the hidden squishies, you win a fidget!</p>\n\n<p>First 10 people to find all win a surprise dumpling.</p>\n\n<p>This scavenger hunt is for CHILDREN ages 5-12.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/17421777",
+    "date": "2026-09-16",
+    "day_of_week": "Wednesday",
+    "start_time": "00:00:00",
+    "formatted_time": "12:00 AM",
+    "end_time": "23:59:59",
+    "location": "Glenn D. Cunningham Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Children Events",
+      "September"
+    ]
+  },
+  {
+    "title": "DIY Stitch Paper Squishy",
+    "calendar_source": "Glenn D. Cunningham Branch",
+    "calendar_id": 17427,
+    "description": "<strong>Date:</strong> Wednesday, September 16, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Learn how to make a paper squishy of Stitch!</p>",
+    "link": "https://jclibrary.libcal.com/event/17421755",
+    "date": "2026-09-16",
+    "day_of_week": "Wednesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Glenn D. Cunningham Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Arts and Crafts Events",
+      "September"
+    ]
+  },
+  {
+    "title": "Teen Fandom Fridays: Avatar the Last Airbender",
+    "calendar_source": "Glenn D. Cunningham Branch",
+    "calendar_id": 17427,
+    "description": "<strong>Date:</strong> Friday, September 18, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Join us for our Teen Fandom Friday program to talk all things Avatar the Last Airbender! Vote on which episodes to watch, elemental rock painting, and BOBA TEA!🧋For teens ages 12-18.</p>",
+    "link": "https://jclibrary.libcal.com/event/17182310",
+    "date": "2026-09-18",
+    "day_of_week": "Friday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Glenn D. Cunningham Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Teen Programs",
+      "September"
+    ]
+  },
+  {
+    "title": "Preschool Storytime",
+    "calendar_source": "Glenn D. Cunningham Branch",
+    "calendar_id": 17427,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 11:00am - 11:45am<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Join us for songs, crafts, and stories this September!</p>",
+    "link": "https://jclibrary.libcal.com/event/17422296",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "end_time": "11:45:00",
+    "location": "Glenn D. Cunningham Branch",
+    "audience": "Adults (19+)",
+    "categories": [
+      "Popular Events > Storytime Events",
+      "September"
+    ]
+  },
+  {
+    "title": "Rock Painting: Avatar the Last Airbender",
+    "calendar_source": "Glenn D. Cunningham Branch",
+    "calendar_id": 17427,
+    "description": "<strong>Date:</strong> Tuesday, September 22, 2026<br/> <strong>Time:</strong> 3:30pm - 4:30pm<br/>  <strong>Location:</strong>  Glenn D. Cunningham Branch<br/>  <p>Join us for rock painting inspired by the Four Nations of Avatar: The Last Airbender! For kids ages 5-12.&nbsp;</p>",
+    "link": "https://jclibrary.libcal.com/event/17421930",
+    "date": "2026-09-22",
+    "day_of_week": "Tuesday",
+    "start_time": "15:30:00",
+    "formatted_time": "03:30 PM",
+    "end_time": "16:30:00",
+    "location": "Glenn D. Cunningham Branch",
+    "audience": "Children (6-11)",
+    "categories": [
+      "Popular Events > Arts and Crafts Events",
+      "Popular Events > Children Events",
+      "September"
+    ]
+  },
+  {
     "title": "Free Backpack Giveaway Distribution @ Five Corners",
     "calendar_source": "Five Corners Branch",
     "calendar_id": 17430,
@@ -1543,78 +1794,6 @@
     "audience": "Children (6-11)",
     "categories": [
       "August"
-    ]
-  },
-  {
-    "title": "Move and Groove",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Monday, August 17, 2026<br/> <strong>Time:</strong> 10:30am - 11:15am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p><meta charset=\"UTF-8\" /></p>\n\n<p>Get ready for 45 minutes of music, dance, stretches, and movement fun! This interactive program is designed for babies and toddlers ages 0&ndash;5 years old.</p>\n\n<p>📺 Note: This program will include screen time for kids to watch videos and follow along with movements.</p>\n\n<p>📅 When: Every Monday, January 26 &ndash; May 25<br />\n🕙 Time: 10:30 AM &ndash; 11:15 AM<br />\n🧸 Stay &amp; Play: After the session, enjoy 30 minutes of free play!</p>\n\n<p>Come move, groove, and make Mondays magical!</p>",
-    "link": "https://jclibrary.libcal.com/event/17262486",
-    "date": "2026-08-17",
-    "day_of_week": "Monday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:15:00",
-    "location": "Communipaw Branch",
-    "audience": "Early Childhood (0-5)",
-    "categories": [
-      "Popular Events",
-      "Popular Events > Children Events"
-    ]
-  },
-  {
-    "title": "The Floor Is Lava",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Monday, August 17, 2026<br/> <strong>Time:</strong> 4:00pm - 5:00pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p>Ah! There is Lava all over the Program Room Floor!</p>\n\n<p>Come see if you can escape the lava.&nbsp;</p>\n\n<p>This program is for children ages 6-11. For safety of all participants, participants younger than 6 and older than 11 will not be allowed to participate.&nbsp;</p>\n\n<p>Registration is required.&nbsp;</p>",
-    "link": "https://jclibrary.libcal.com/event/17301241",
-    "date": "2026-08-17",
-    "day_of_week": "Monday",
-    "start_time": "16:00:00",
-    "formatted_time": "04:00 PM",
-    "end_time": "17:00:00",
-    "location": "Communipaw Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Fun and Games Events"
-    ]
-  },
-  {
-    "title": "COMMUNIPAW BRANCH OPEN HOUSE",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Tuesday, August 18, 2026<br/> <strong>Time:</strong> 4:30pm - 7:30pm<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p><meta content=\"text/html; charset=us-ascii\" http-equiv=\"Content-Type\" />\n<style type=\"text/css\">a {\n    text-decoration: none;\n    color: #464feb;\n}\ntr th, tr td {\n    border: 1px solid #e6e6e6;\n}\ntr th {\n    background-color: #f5f5f5;\n}\n</style>\n</p>\n\n<p>Join us at the Communipaw Branch Library on Tuesday, August 18 from 4:30-7:30 PM for an afternoon of fun, creativity, and community. Enjoy makerspace demonstrations, live entertainment from violinist J Read, crafts and sensory activities for young children, library tours, and more.</p>",
-    "link": "https://jclibrary.libcal.com/event/17218604",
-    "date": "2026-08-18",
-    "day_of_week": "Tuesday",
-    "start_time": "16:30:00",
-    "formatted_time": "04:30 PM",
-    "end_time": "19:30:00",
-    "location": "Communipaw Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > All-Ages Events"
-    ]
-  },
-  {
-    "title": "Meet Author Dashawn Simms!",
-    "calendar_source": "Communipaw Branch",
-    "calendar_id": 19967,
-    "description": "<strong>Date:</strong> Wednesday, August 19, 2026<br/> <strong>Time:</strong> 10:30am - 11:30am<br/>  <strong>Location:</strong>  Communipaw Branch<br/>  <p><meta content=\"text/html; charset=us-ascii\" http-equiv=\"Content-Type\" />\n<style type=\"text/css\">a {\n    text-decoration: none;\n    color: #464feb;\n}\ntr th, tr td {\n    border: 1px solid #e6e6e6;\n}\ntr th {\n    background-color: #f5f5f5;\n}\n</style>\n</p>\n\n<p>Join us for a special event featuring <strong>Dashawn Simms</strong>, author of <em>Travis Learns to Walk</em>, <em>Kindness Looks Like</em>, and <em>DJ&rsquo;s First Day</em>.</p>\n\n<p>Enjoy an engaging <strong>storytime session</strong> as Dashawn reads from his books and shares his journey as an author. Learn how he got started writing, what inspires his stories, and the importance of kindness, perseverance, and self-confidence in children&#39;s literature.</p>\n\n<p><strong>Event Highlights:</strong></p>\n\n<ul>\n\t<li>Storytime with Dashawn Simms</li>\n\t<li>Discussion about his books and writing process</li>\n\t<li>Insights into what inspires his work</li>\n\t<li>Opportunity for questions and conversation</li>\n</ul>\n\n<p>Don&#39;t miss this exciting opportunity to meet a talented author and celebrate the joy of reading!</p>",
-    "link": "https://jclibrary.libcal.com/event/17264708",
-    "date": "2026-08-19",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "end_time": "11:30:00",
-    "location": "Communipaw Branch",
-    "audience": "Children (6-11)",
-    "categories": [
-      "Popular Events > Author Talks",
-      "Popular Events > Children Events",
-      "Popular Events > Family Events",
-      "Popular Events > Storytime Events"
     ]
   },
   {
