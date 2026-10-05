@@ -884,180 +884,6 @@
   {
     "title": "Baby Story Time",
     "location": "Hoboken Public Library",
-    "description": "Monday, September 28 2026 12:00pm - 12:30pm \n This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "link": "https://hobokenlibrary.libnet.info/event/17018731",
-    "date": "2026-09-28",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 28 Sep 2026 12:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Fine Motor Skills Prep",
-    "location": "Hoboken Public Library",
-    "description": "Monday, September 28 2026 1:30pm - 2:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
-    "link": "https://hobokenlibrary.libnet.info/event/17061015",
-    "date": "2026-09-28",
-    "day_of_week": "Monday",
-    "start_time": "13:30:00",
-    "formatted_time": "01:30 PM",
-    "datetime": "Mon, 28 Sep 2026 13:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
-  },
-  {
-    "title": "Columbus Park Pop-Up Library",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, September 29 2026 10:30am - 4:00pm \n Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!",
-    "link": "https://hobokenlibrary.libnet.info/event/17056401",
-    "date": "2026-09-29",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 29 Sep 2026 10:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Welcome to our Pop-Up Library! We are excited to bring a small but vibrant selection of kids and teen materials offsite for you!"
-  },
-  {
-    "title": " Rise & Read",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, September 29 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
-    "link": "https://hobokenlibrary.libnet.info/event/17196554",
-    "date": "2026-09-29",
-    "day_of_week": "Tuesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Tue, 29 Sep 2026 10:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us at our Grand St. Branch for a story time and craft!"
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, September 29 2026 11:30am - 12:00pm \n New Story Time timeslot! This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "link": "https://hobokenlibrary.libnet.info/event/17019354",
-    "date": "2026-09-29",
-    "day_of_week": "Tuesday",
-    "start_time": "11:30:00",
-    "formatted_time": "11:30 AM",
-    "datetime": "Tue, 29 Sep 2026 11:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "New Story Time timeslot! This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "BookBike Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Tuesday, September 29 2026 3:30pm - 4:00pm \n Catch the BookBike every Tuesday at Columbus Park in Hoboken!",
-    "link": "https://hobokenlibrary.libnet.info/event/17056641",
-    "date": "2026-09-29",
-    "day_of_week": "Tuesday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Tue, 29 Sep 2026 15:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Catch the BookBike every Tuesday at Columbus Park in Hoboken!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, September 30 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/17137259",
-    "date": "2026-09-30",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 30 Sep 2026 10:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, October 01 2026 12:00pm - 12:30pm \n This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "link": "https://hobokenlibrary.libnet.info/event/17018736",
-    "date": "2026-10-01",
-    "day_of_week": "Thursday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Thu, 01 Oct 2026 12:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, October 01 2026 3:30pm - 4:00pm \n Join us in the afternoon for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/17503197",
-    "date": "2026-10-01",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 01 Oct 2026 15:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us in the afternoon for some books, music, and movement!"
-  },
-  {
-    "title": "Yoga Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Friday, October 02 2026 10:30am - 11:00am \n An active story time for your little yogi!",
-    "link": "https://hobokenlibrary.libnet.info/event/17019129",
-    "date": "2026-10-02",
-    "day_of_week": "Friday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Fri, 02 Oct 2026 10:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "An active story time for your little yogi!"
-  },
-  {
-    "title": "Fine Motor Skills Prep",
-    "location": "Hoboken Public Library",
-    "description": "Friday, October 02 2026 11:00am - 12:00pm \n Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts.",
-    "link": "https://hobokenlibrary.libnet.info/event/17309928",
-    "date": "2026-10-02",
-    "day_of_week": "Friday",
-    "start_time": "11:00:00",
-    "formatted_time": "11:00 AM",
-    "datetime": "Fri, 02 Oct 2026 11:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Through hands-on activities such as finger painting, collages, and sensory crafts, children explore creativity while developing fine motor skills, language, and early literacy concepts."
-  },
-  {
-    "title": "Screen Free Friday",
-    "location": "Hoboken Public Library",
-    "description": "Friday, October 02 2026 3:00pm - 5:00pm \n Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!",
-    "link": "https://hobokenlibrary.libnet.info/event/17069703",
-    "date": "2026-10-02",
-    "day_of_week": "Friday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Fri, 02 Oct 2026 15:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Designed for kids, tweens, and teens to take a break from their digital devices and immerse themselves in a world of creativity and fun!"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, October 03 2026 10:30am - 11:00am \n Join us in the morning for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/17503276",
-    "date": "2026-10-03",
-    "day_of_week": "Saturday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Sat, 03 Oct 2026 10:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us in the morning for some books, music, and movement!",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
     "description": "Monday, October 05 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
     "link": "https://hobokenlibrary.libnet.info/event/17434291",
     "date": "2026-10-05",
@@ -1068,6 +894,20 @@
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us for a story time for our littlest learners!",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Crafternoons",
+    "location": "Hoboken Public Library",
+    "description": "Monday, October 05 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "link": "https://hobokenlibrary.libnet.info/event/17559613",
+    "date": "2026-10-05",
+    "day_of_week": "Monday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Mon, 05 Oct 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
   },
   {
     "title": " Rise & Read",
@@ -1176,6 +1016,19 @@
     "full_description": "Join us for a fun Saturday morning story time and craft at the Grand Street Branch!"
   },
   {
+    "title": "Kids Color and Chill",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, October 10 2026 11:00am - 1:00pm \n Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!",
+    "link": "https://hobokenlibrary.libnet.info/event/17566181",
+    "date": "2026-10-10",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "datetime": "Sat, 10 Oct 2026 11:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!"
+  },
+  {
     "title": "Toddler Story Time ",
     "location": "Hoboken Public Library",
     "description": "Sunday, October 11 2026 10:30am - 11:00am \n Join us for Toddler Story Time, geared towards toddlers and their caregivers featuring stories, songs, and dancing!",
@@ -1202,6 +1055,20 @@
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us for a story time for our littlest learners!",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Crafternoons",
+    "location": "Hoboken Public Library",
+    "description": "Monday, October 12 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "link": "https://hobokenlibrary.libnet.info/event/17559614",
+    "date": "2026-10-12",
+    "day_of_week": "Monday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Mon, 12 Oct 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
   },
   {
     "title": " Rise & Read",
@@ -1282,6 +1149,20 @@
     "datetime": "Thu, 15 Oct 2026 15:30:00 +0000",
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the afternoon for some books, music, and movement!"
+  },
+  {
+    "title": "Coding for Tweens",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, October 15 2026 5:00pm - 5:45pm \n Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "link": "https://hobokenlibrary.libnet.info/event/17566259",
+    "date": "2026-10-15",
+    "day_of_week": "Thursday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "datetime": "Thu, 15 Oct 2026 17:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "audience": "Ages 5+"
   },
   {
     "title": "NJ Family Leave Insurance Workshop ",
@@ -1378,6 +1259,20 @@
     "full_description": "Baby sleep changes quickly throughout the first year. Join Certified Pediatric Sleep Consultant Deena Keren for a workshop designed to help families build a strong foundation for better sleep!"
   },
   {
+    "title": "Crafternoons",
+    "location": "Hoboken Public Library",
+    "description": "Monday, October 19 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "link": "https://hobokenlibrary.libnet.info/event/17559615",
+    "date": "2026-10-19",
+    "day_of_week": "Monday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Mon, 19 Oct 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
+  },
+  {
     "title": " Rise & Read",
     "location": "Hoboken Public Library",
     "description": "Tuesday, October 20 2026 10:30am - 11:30am \n Join us at our Grand St. Branch for a story time and craft!",
@@ -1432,6 +1327,20 @@
     "full_description": "Join us in the afternoon for some books, music, and movement!"
   },
   {
+    "title": "Coding for Tweens",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, October 22 2026 5:00pm - 5:45pm \n Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "link": "https://hobokenlibrary.libnet.info/event/17566268",
+    "date": "2026-10-22",
+    "day_of_week": "Thursday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "datetime": "Thu, 22 Oct 2026 17:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "audience": "Ages 5+"
+  },
+  {
     "title": "NJ Family Leave Insurance Workshop ",
     "location": "Hoboken Public Library",
     "description": "Friday, October 23 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Temporary Disability and Paid Family Leave Insurance.",
@@ -1471,6 +1380,19 @@
     "full_description": "Meet us in the afternoon for a story time meant for our big kids!"
   },
   {
+    "title": "Kids Color and Chill",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, October 24 2026 11:00am - 1:00pm \n Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!",
+    "link": "https://hobokenlibrary.libnet.info/event/17566182",
+    "date": "2026-10-24",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "datetime": "Sat, 24 Oct 2026 11:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!"
+  },
+  {
     "title": "Toddler Story Time ",
     "location": "Hoboken Public Library",
     "description": "Sunday, October 25 2026 10:30am - 11:00am \n Join us for Toddler Story Time, geared towards toddlers and their caregivers featuring stories, songs, and dancing!",
@@ -1497,6 +1419,34 @@
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us for a story time for our littlest learners!",
     "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Safe Sleep, Safe Baby",
+    "location": "Hoboken Public Library",
+    "description": "Monday, October 26 2026 12:30pm - 1:30pm \n Join Certified Pediatric Sleep Consultant Deena Keren & Certified CPR & First Aid Instructor Susan Kolesar for an interactive workshop.",
+    "link": "https://hobokenlibrary.libnet.info/event/17564449",
+    "date": "2026-10-26",
+    "day_of_week": "Monday",
+    "start_time": "12:30:00",
+    "formatted_time": "12:30 PM",
+    "datetime": "Mon, 26 Oct 2026 12:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Join Certified Pediatric Sleep Consultant Deena Keren & Certified CPR & First Aid Instructor Susan Kolesar for an interactive workshop.",
+    "audience": "Ages 0-18 months"
+  },
+  {
+    "title": "Crafternoons",
+    "location": "Hoboken Public Library",
+    "description": "Monday, October 26 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "link": "https://hobokenlibrary.libnet.info/event/17559616",
+    "date": "2026-10-26",
+    "day_of_week": "Monday",
+    "start_time": "15:00:00",
+    "formatted_time": "03:00 PM",
+    "datetime": "Mon, 26 Oct 2026 15:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
+    "audience": "Ages 6+"
   },
   {
     "title": " Rise & Read",
@@ -1566,6 +1516,20 @@
     "full_description": "Join us in the afternoon for some books, music, and movement!"
   },
   {
+    "title": "Coding for Tweens",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, October 29 2026 5:00pm - 5:45pm \n Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "link": "https://hobokenlibrary.libnet.info/event/17566693",
+    "date": "2026-10-29",
+    "day_of_week": "Thursday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "datetime": "Thu, 29 Oct 2026 17:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "audience": "Ages 5+"
+  },
+  {
     "title": "NJ Family Leave Insurance Workshop ",
     "location": "Hoboken Public Library",
     "description": "Friday, October 30 2026 10:30am - 12:30pm \n Having a baby? Caring for a loved one with an illness or injury?  We can help answer all your questions about NJ Temporary Disability and Paid Family Leave Insurance.",
@@ -1619,6 +1583,33 @@
     "full_description": "Meet us in the afternoon for a story time meant for our big kids!"
   },
   {
+    "title": "Coding for Tweens",
+    "location": "Hoboken Public Library",
+    "description": "Thursday, November 05 2026 5:00pm - 5:45pm \n Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "link": "https://hobokenlibrary.libnet.info/event/17566876",
+    "date": "2026-11-05",
+    "day_of_week": "Thursday",
+    "start_time": "17:00:00",
+    "formatted_time": "05:00 PM",
+    "datetime": "Thu, 05 Nov 2026 17:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Coding For Kids is an engaging and interactive coding instruction class designed specifically for students in grades 5 and up.",
+    "audience": "Ages 5+"
+  },
+  {
+    "title": "Kids Color and Chill",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, November 07 2026 11:00am - 1:00pm \n Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!",
+    "link": "https://hobokenlibrary.libnet.info/event/17566183",
+    "date": "2026-11-07",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "datetime": "Sat, 07 Nov 2026 11:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!"
+  },
+  {
     "title": "The History of Applied Companies with Joe Barry",
     "location": "Hoboken Public Library",
     "description": "Sunday, November 08 2026 4:00pm - 6:00pm \n November 8th 4pm at the Hoboken Historical Museum",
@@ -1657,6 +1648,32 @@
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us for Toddler Story Time, geared towards toddlers and their caregivers featuring stories, songs, and dancing!",
     "audience": "Ages 1-3"
+  },
+  {
+    "title": "Kids Color and Chill",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, November 21 2026 11:00am - 1:00pm \n Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!",
+    "link": "https://hobokenlibrary.libnet.info/event/17566184",
+    "date": "2026-11-21",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "datetime": "Sat, 21 Nov 2026 11:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!"
+  },
+  {
+    "title": "Kids Color and Chill",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, December 05 2026 11:00am - 1:00pm \n Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!",
+    "link": "https://hobokenlibrary.libnet.info/event/17566185",
+    "date": "2026-12-05",
+    "day_of_week": "Saturday",
+    "start_time": "11:00:00",
+    "formatted_time": "11:00 AM",
+    "datetime": "Sat, 05 Dec 2026 11:00:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Kids Color and Chill is a fun and creative program where children can explore coloring, craft, and self-expression. The program enhances fine motor skills and provides a relaxing space to socialize!"
   },
   {
     "title": "Books and Bubbles Pop Up",
