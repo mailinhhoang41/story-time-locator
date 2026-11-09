@@ -882,140 +882,6 @@
     ]
   },
   {
-    "title": "Baby Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Monday, November 02 2026 12:00pm - 12:30pm \n Join us for a story time for our littlest learners!",
-    "link": "https://hobokenlibrary.libnet.info/event/17724956",
-    "date": "2026-11-02",
-    "day_of_week": "Monday",
-    "start_time": "12:00:00",
-    "formatted_time": "12:00 PM",
-    "datetime": "Mon, 02 Nov 2026 12:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us for a story time for our littlest learners!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Crafternoons",
-    "location": "Hoboken Public Library",
-    "description": "Monday, November 02 2026 3:00pm - 5:00pm \n Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "link": "https://hobokenlibrary.libnet.info/event/17739563",
-    "date": "2026-11-02",
-    "day_of_week": "Monday",
-    "start_time": "15:00:00",
-    "formatted_time": "03:00 PM",
-    "datetime": "Mon, 02 Nov 2026 15:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Meet HPL staff for fun, games, crafting and more at our \"Little Library\" at 401 Harrison St.",
-    "audience": "Ages 6+"
-  },
-  {
-    "title": "Toddler Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 04 2026 10:30am - 11:00am \n Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
-    "link": "https://hobokenlibrary.libnet.info/event/17683866",
-    "date": "2026-11-04",
-    "day_of_week": "Wednesday",
-    "start_time": "10:30:00",
-    "formatted_time": "10:30 AM",
-    "datetime": "Wed, 04 Nov 2026 10:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
-    "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 04 2026 11:45am - 12:15pm \n Join us for board books, finger play rhymes, and lapsit songs!",
-    "link": "https://hobokenlibrary.libnet.info/event/17795040",
-    "date": "2026-11-04",
-    "day_of_week": "Wednesday",
-    "start_time": "11:45:00",
-    "formatted_time": "11:45 AM",
-    "datetime": "Wed, 04 Nov 2026 11:45:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us for board books, finger play rhymes, and lapsit songs!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Afternoon Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 04 2026 1:15pm - 1:45pm \n This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "link": "https://hobokenlibrary.libnet.info/event/17743559",
-    "date": "2026-11-04",
-    "day_of_week": "Wednesday",
-    "start_time": "13:15:00",
-    "formatted_time": "01:15 PM",
-    "datetime": "Wed, 04 Nov 2026 13:15:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music."
-  },
-  {
-    "title": "Picture Book Bingo",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, November 05 2026 2:00pm - 3:00pm \n Picture Book Bingo is an engaging and delightful twist on the classic game of bingo, designed especially for children and their caregivers.",
-    "link": "https://hobokenlibrary.libnet.info/event/17599962",
-    "date": "2026-11-05",
-    "day_of_week": "Thursday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "datetime": "Thu, 05 Nov 2026 14:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Picture Book Bingo is an engaging and delightful twist on the classic game of bingo, designed especially for children and their caregivers."
-  },
-  {
-    "title": "After School Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Thursday, November 05 2026 3:30pm - 4:00pm \n Join us in the afternoon for some books, music, and movement!",
-    "link": "https://hobokenlibrary.libnet.info/event/17684143",
-    "date": "2026-11-05",
-    "day_of_week": "Thursday",
-    "start_time": "15:30:00",
-    "formatted_time": "03:30 PM",
-    "datetime": "Thu, 05 Nov 2026 15:30:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us in the afternoon for some books, music, and movement!"
-  },
-  {
-    "title": "Bilingual Birdies",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, November 07 2026 1:00pm - 1:45pm \n Explore music and language with Bilingual Birdies! Each class is taught by a live musician who teaches new vocabulary through songs, movement, dance, and puppetry.",
-    "link": "https://hobokenlibrary.libnet.info/event/17743052",
-    "date": "2026-11-07",
-    "day_of_week": "Saturday",
-    "start_time": "13:00:00",
-    "formatted_time": "01:00 PM",
-    "datetime": "Sat, 07 Nov 2026 13:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Explore music and language with Bilingual Birdies! Each class is taught by a live musician who teaches new vocabulary through songs, movement, dance, and puppetry."
-  },
-  {
-    "title": "Toy Story Toy Drive",
-    "location": "Hoboken Public Library",
-    "description": "Saturday, November 07 2026 2:00pm - 4:00pm \n Kick-off our holiday toy drive supporting HOPES! Bring a toy to donate, craft with us, and watch a movie together.",
-    "link": "https://hobokenlibrary.libnet.info/event/17687628",
-    "date": "2026-11-07",
-    "day_of_week": "Saturday",
-    "start_time": "14:00:00",
-    "formatted_time": "02:00 PM",
-    "datetime": "Sat, 07 Nov 2026 14:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Kick-off our holiday toy drive supporting HOPES! Bring a toy to donate, craft with us, and watch a movie together."
-  },
-  {
-    "title": "The History of Applied Companies with Joe Barry",
-    "location": "Hoboken Public Library",
-    "description": "Sunday, November 08 2026 4:00pm - 6:00pm \n November 8th 4pm at the Hoboken Historical Museum",
-    "link": "https://hobokenlibrary.libnet.info/event/16236014",
-    "date": "2026-11-08",
-    "day_of_week": "Sunday",
-    "start_time": "16:00:00",
-    "formatted_time": "04:00 PM",
-    "datetime": "Sun, 08 Nov 2026 16:00:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "November 8th 4pm at the Hoboken Historical Museum"
-  },
-  {
     "title": "Baby Story Time ",
     "location": "Hoboken Public Library",
     "description": "Monday, November 09 2026 11:45am - 12:15pm \n Join us for board books, finger play rhymes, and lapsit songs!",
@@ -1081,6 +947,19 @@
     "datetime": "Thu, 12 Nov 2026 15:30:00 +0000",
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Join us in the afternoon for some books, music, and movement!"
+  },
+  {
+    "title": "Yoga Story Time ",
+    "location": "Hoboken Public Library",
+    "description": "Friday, November 13 2026 11:45am - 12:15pm \n Get moving with our favorite yoga teacher, Ms. Carolyn!",
+    "link": "https://hobokenlibrary.libnet.info/event/17809187",
+    "date": "2026-11-13",
+    "day_of_week": "Friday",
+    "start_time": "11:45:00",
+    "formatted_time": "11:45 AM",
+    "datetime": "Fri, 13 Nov 2026 11:45:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Get moving with our favorite yoga teacher, Ms. Carolyn!"
   },
   {
     "title": "Story Time with Jack and Bill",
@@ -1230,6 +1109,32 @@
     "full_description": "Join us in the afternoon for some books, music, and movement!"
   },
   {
+    "title": "Yoga Story Time ",
+    "location": "Hoboken Public Library",
+    "description": "Friday, November 20 2026 11:45am - 12:15pm \n Get moving with our favorite yoga teacher, Ms. Carolyn!",
+    "link": "https://hobokenlibrary.libnet.info/event/17809188",
+    "date": "2026-11-20",
+    "day_of_week": "Friday",
+    "start_time": "11:45:00",
+    "formatted_time": "11:45 AM",
+    "datetime": "Fri, 20 Nov 2026 11:45:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Get moving with our favorite yoga teacher, Ms. Carolyn!"
+  },
+  {
+    "title": "NJPACs Books on the Move",
+    "location": "Hoboken Public Library",
+    "description": "Saturday, November 21 2026 10:30am - 11:00am \n NJPACs Books on the Move series celebrates artists of color with interactive readings of picture books about musical icons and artistic legends.",
+    "link": "https://hobokenlibrary.libnet.info/event/17809203",
+    "date": "2026-11-21",
+    "day_of_week": "Saturday",
+    "start_time": "10:30:00",
+    "formatted_time": "10:30 AM",
+    "datetime": "Sat, 21 Nov 2026 10:30:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "NJPACs Books on the Move series celebrates artists of color with interactive readings of picture books about musical icons and artistic legends."
+  },
+  {
     "title": "Bilingual Birdies",
     "location": "Hoboken Public Library",
     "description": "Saturday, November 21 2026 1:00pm - 1:45pm \n Explore music and language with Bilingual Birdies! Each class is taught by a live musician who teaches new vocabulary through songs, movement, dance, and puppetry.",
@@ -1241,20 +1146,6 @@
     "datetime": "Sat, 21 Nov 2026 13:00:00 +0000",
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Explore music and language with Bilingual Birdies! Each class is taught by a live musician who teaches new vocabulary through songs, movement, dance, and puppetry."
-  },
-  {
-    "title": "Baby Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Monday, November 23 2026 11:45am - 12:15pm \n Join us for board books, finger play rhymes, and lapsit songs!",
-    "link": "https://hobokenlibrary.libnet.info/event/17716167",
-    "date": "2026-11-23",
-    "day_of_week": "Monday",
-    "start_time": "11:45:00",
-    "formatted_time": "11:45 AM",
-    "datetime": "Mon, 23 Nov 2026 11:45:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us for board books, finger play rhymes, and lapsit songs!",
-    "audience": "Ages 0-18 months"
   },
   {
     "title": " Rise & Read",
@@ -1282,47 +1173,6 @@
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "Toddler Story Time features longer picture books and more movement than our weekly Baby Story Times.",
     "audience": "Ages 1-3"
-  },
-  {
-    "title": "Baby Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 25 2026 11:45am - 12:15pm \n Join us for board books, finger play rhymes, and lapsit songs!",
-    "link": "https://hobokenlibrary.libnet.info/event/17716168",
-    "date": "2026-11-25",
-    "day_of_week": "Wednesday",
-    "start_time": "11:45:00",
-    "formatted_time": "11:45 AM",
-    "datetime": "Wed, 25 Nov 2026 11:45:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us for board books, finger play rhymes, and lapsit songs!",
-    "audience": "Ages 0-18 months"
-  },
-  {
-    "title": "Afternoon Story Time",
-    "location": "Hoboken Public Library",
-    "description": "Wednesday, November 25 2026 1:15pm - 1:45pm \n This story time will feature books made for babies, nursery rhymes, finger plays, and music.",
-    "link": "https://hobokenlibrary.libnet.info/event/17743562",
-    "date": "2026-11-25",
-    "day_of_week": "Wednesday",
-    "start_time": "13:15:00",
-    "formatted_time": "01:15 PM",
-    "datetime": "Wed, 25 Nov 2026 13:15:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music."
-  },
-  {
-    "title": "Baby Story Time ",
-    "location": "Hoboken Public Library",
-    "description": "Monday, November 30 2026 11:45am - 12:15pm \n Join us for board books, finger play rhymes, and lapsit songs!",
-    "link": "https://hobokenlibrary.libnet.info/event/17716169",
-    "date": "2026-11-30",
-    "day_of_week": "Monday",
-    "start_time": "11:45:00",
-    "formatted_time": "11:45 AM",
-    "datetime": "Mon, 30 Nov 2026 11:45:00 +0000",
-    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
-    "full_description": "Join us for board books, finger play rhymes, and lapsit songs!",
-    "audience": "Ages 0-18 months"
   },
   {
     "title": " Rise & Read",
@@ -1363,6 +1213,19 @@
     "datetime": "Wed, 02 Dec 2026 13:15:00 +0000",
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music."
+  },
+  {
+    "title": "Yoga Story Time ",
+    "location": "Hoboken Public Library",
+    "description": "Friday, December 04 2026 11:45am - 12:15pm \n Get moving with our favorite yoga teacher, Ms. Carolyn!",
+    "link": "https://hobokenlibrary.libnet.info/event/17809189",
+    "date": "2026-12-04",
+    "day_of_week": "Friday",
+    "start_time": "11:45:00",
+    "formatted_time": "11:45 AM",
+    "datetime": "Fri, 04 Dec 2026 11:45:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Get moving with our favorite yoga teacher, Ms. Carolyn!"
   },
   {
     "title": "Baby Story Time ",
@@ -1417,6 +1280,19 @@
     "datetime": "Wed, 09 Dec 2026 13:15:00 +0000",
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music."
+  },
+  {
+    "title": "Yoga Story Time ",
+    "location": "Hoboken Public Library",
+    "description": "Friday, December 11 2026 11:45am - 12:15pm \n Get moving with our favorite yoga teacher, Ms. Carolyn!",
+    "link": "https://hobokenlibrary.libnet.info/event/17809190",
+    "date": "2026-12-11",
+    "day_of_week": "Friday",
+    "start_time": "11:45:00",
+    "formatted_time": "11:45 AM",
+    "datetime": "Fri, 11 Dec 2026 11:45:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Get moving with our favorite yoga teacher, Ms. Carolyn!"
   },
   {
     "title": "Story Time with Jack and Bill",
@@ -1484,6 +1360,19 @@
     "datetime": "Wed, 16 Dec 2026 13:15:00 +0000",
     "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
     "full_description": "This story time will feature books made for babies, nursery rhymes, finger plays, and music."
+  },
+  {
+    "title": "Yoga Story Time ",
+    "location": "Hoboken Public Library",
+    "description": "Friday, December 18 2026 11:45am - 12:15pm \n Get moving with our favorite yoga teacher, Ms. Carolyn!",
+    "link": "https://hobokenlibrary.libnet.info/event/17809191",
+    "date": "2026-12-18",
+    "day_of_week": "Friday",
+    "start_time": "11:45:00",
+    "formatted_time": "11:45 AM",
+    "datetime": "Fri, 18 Dec 2026 11:45:00 +0000",
+    "organizer": "noreply@mylocallibrary.info (Hoboken Library)",
+    "full_description": "Get moving with our favorite yoga teacher, Ms. Carolyn!"
   },
   {
     "title": " Rise & Read",
